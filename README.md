@@ -24,7 +24,7 @@ The main challenge with designing a good launcher is finding a balance between s
 ### **Possible Designs for Launchers**
 
 - 2L1R (2 Left 1 Right) Flywheel System
-  - A Flywheel system with two Flywheels on the left side and one flywheel on the right side, the first flywheel on the left side works to induce spin and feed the second set of flywheels which give the disc it's forward momentum.
+  - A Flywheel system with two Flywheels on the left side and one flywheel on the right side, the first flywheel on the left side works to induce spin and feed the second set of flywheels which give the disc it's forward momentum. The spin induced by the first flywheel by having the flywheel on the same side as the first flywheel spining faster than the flywheel opposite from it.
 - 2L0R (2 Left 0 Right) Flywheel System
   - A flywheel system that works by using two flywheels on one side with none on the other side that both spin the disc as well as give the disc a decent amount of forward momentum by using the wall on the side opposite to help guide the disc straight
 - 1L1R (1 Left 1 Right) Flywheel System
