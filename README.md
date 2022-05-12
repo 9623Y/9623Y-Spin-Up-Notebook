@@ -50,7 +50,7 @@ Today we will begin working on concept designs of the possible designs that were
 ### **Goals for Today**
 
 - [x] Diagram how the 2L1R system will work
-- [ ] Diagram how the 2L0R system will work
+- [x] Diagram how the 2L0R system will work
 - [ ] Diagram how the 1L1R system will work
 - [ ] /(If time) Begin desinging the 2L1R system in Fusion 360
 - [ ] /(If time) Begin desinging the 2L0R system in Fusion 360
@@ -62,9 +62,8 @@ Today we will begin working on concept designs of the possible designs that were
 In the diagrams the black arrows represent the direction of spin of the flywheels(the grey circles), while the red arrows represent the effect that the flywheels had on the disc(yellow circles). In the case of the black arrows, the larger the arrow the faster the flywheels are spinning. In the case of the red arrows, the larger the arrow the greater the effect the flywheels are having on the the disc.
 
 
-
-- Diagram 1 - 2L1R System diagram
-![image](https://user-images.githubusercontent.com/102620185/168094932-a072ae22-e2fa-4af8-850b-3f5ad3b3f61d.png)
+![image](https://user-images.githubusercontent.com/102620185/168121627-b917f3b5-effa-49e0-ad0d-7ccc6f0134f8.png)
 
 
-- Diagram 2 - 2L0R System diagram
+![image](https://user-images.githubusercontent.com/102620185/168122349-67391738-b4c8-435c-b528-131fb72ac656.png)
+
