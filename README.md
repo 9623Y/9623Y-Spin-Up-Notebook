@@ -15,7 +15,7 @@ The main challenge with designing a good launcher is finding a balance between s
 
 ### **Criteria for an optimal launcher**
 
-- Be able to spin the discs enough to keep them balanced
+- Be able to spin the discs enough to keep them balanced in air
 - Launch the Discs at an acceptable velocity
 - Have some type of resivor to hold the 3 disc capacity
 - Some sort of pusher arm to feed the discs from the resivor into the flywheel(s)
@@ -51,10 +51,10 @@ Today we will begin working on concept designs of the possible designs that were
 
 - [x] Diagram how the 2L1R system will work
 - [x] Diagram how the 2L0R system will work
-- [ ] Diagram how the 1L1R system will work
-- [ ] /(If time) Begin desinging the 2L1R system in Fusion 360
-- [ ] /(If time) Begin desinging the 2L0R system in Fusion 360
-- [ ] /(If time) Begin desinging the 1L1R system in Fusion 360
+- [x] Diagram how the 1L1R system will work
+- [ ] (If time) Begin desinging the 2L1R system in Fusion 360
+- [ ] (If time) Begin desinging the 2L0R system in Fusion 360
+- [ ] (If time) Begin desinging the 1L1R system in Fusion 360
 
 
 ### **Diagrams of the Different Possible Flywheel Systems**
@@ -66,4 +66,18 @@ In the diagrams the black arrows represent the direction of spin of the flywheel
 
 
 ![image](https://user-images.githubusercontent.com/102620185/168122349-67391738-b4c8-435c-b528-131fb72ac656.png)
+
+
+![image](https://user-images.githubusercontent.com/102620185/168186614-59678fa3-d9a9-4819-adb0-48b6cc12ecd8.png)
+
+
+
+### **End of Entry thoughts**
+
+Today I was able to get the Diagrams for each type of flywheel system made and put it to the notebook, however I ran out of time to begin working on the in-depth designs of each flywheel system because I was helping with the creation of a Fusion 360 library that has every VRC legal part in it as well as every size piece of metal available. This parts library is to help save our robotics teams time when they model their robot in CAD.
+
+
+
+-----
+
 
