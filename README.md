@@ -98,18 +98,19 @@ Today, Me(Rhett) and Tyler, are going to begin designing our prototype launchers
 
 #### **The Ramp**
 
-The Ramp is made of 3 1x5x1x22 Steel C-Channels and is held together by 16 Star drive #8-32 x 1/4" screws with Nylon Nuts on them
+The Ramp is made of 3 1x5x1x22 Steel C-Channels and is held together by 16 Star drive #8-32 x 1/4" screws with Nylon Nuts on them. We chose 5 wide Steel C-Channel because of the obivosuly larger width compared to 3 wide c-channel which gives us the space to fit the discs on the ramp and still have room for the flywheels.
 
 - Top View
 
-
+![image](https://user-images.githubusercontent.com/102620185/168645750-c69d585e-e139-431f-9282-43240189318e.png)
 
 - Bottom View
 
-
+![image](https://user-images.githubusercontent.com/102620185/168645840-114f50e8-270f-4fc7-8e54-ed046c32f52b.png)
 
 - Screw Placement
 
+![image](https://user-images.githubusercontent.com/102620185/168645886-e3c4eeeb-0cff-4688-9114-30f8f3c3aea8.png)
 
 
 
