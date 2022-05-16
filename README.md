@@ -96,3 +96,22 @@ Today, Me(Rhett) and Tyler, are going to begin designing our prototype launchers
 
 ### **Designing of the 2L1R Launcher**
 
+#### **The Ramp**
+
+The Ramp is made of 3 1x5x1x22 Steel C-Channels and is held together by 16 Star drive #8-32 x 1/4" screws with Nylon Nuts on them
+
+- Top View
+
+
+
+- Bottom View
+
+
+
+- Screw Placement
+
+
+
+
+
+
