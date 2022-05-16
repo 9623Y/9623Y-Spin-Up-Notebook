@@ -81,3 +81,18 @@ Today I was able to get the Diagrams for each type of flywheel system made and p
 -----
 
 
+
+## **5/16/2022 - _Fusion Design Begins_**
+
+Today, Me(Rhett) and Tyler, are going to begin designing our prototype launchers in Fuison. The First Design we will do in Fusion is the 2L1R Launcher, then we will move on to the 2L0R and 1L1R Launchers if time allows today. The main Goal today is to get the 2L1R Launcher fully built in Fusion so that we can hopefully get it completely built in one team meeting tomorrow then we can begin on the other two designs.
+
+
+### **Goals for Today**
+
+- [ ] Get the 2L1R Launcher fully built in Fusion
+- [ ] (If time)Begin to design the 2L0R Launcher in Fusion
+- [ ] (If time)Begin to design the 1L1R Launcher in Fusion
+
+
+### **Designing of the 2L1R Launcher**
+
