@@ -138,20 +138,19 @@ I was unable to get the 2L1R Launcher Fully Designed in Fusion today, I'm hoping
 
 ## **5/17/2022 - _Design Continues and Building Begins_**
 
-Today we are going to have the first meeting since the build and design contest began meaning that we will able to begin to build our prototype launchers today. However before the meeting today I'm going to try and design the rest of the prototype launcher before we have our meeting today. If I'm able to get the design finished in Fusion before the meeting we will be able to easily build the prototype and possibly begin coding today.
+Today we are going to have the first meeting since the build and design contest began meaning that we will able to begin to build our prototype launchers today. However before the meeting today I'm going to try and design the rest of the prototype launcher before we have our meeting today. If I'm able to get the design finished in Fusion before the meeting we will be able to easily build the prototype and possibly begin coding today. When I(Rhett) got  into class today I began to talk with Mr.Holmes about the next step, he said before we begin to work on a launcher we should do tests to figure out what the best rpm to launch the discs at are and make tables to show that data, instead of just designing off of what we guess will work the best. He also suggested to use blue gearboxes for the motors so we would need less of a gear ratio to get to our target rpm to reduce friction in between the gears. So instead of finsihing the design for the launcher we began working on a prototyping bed to run our tests on.
 
 
 ### **Goals for Today**
 
-- [ ] Finish designing the 2L1R Launcher in Fusion
-- [ ] Get the prototype physically built
-- [ ] (If time) Program the launcher
+- [x] Begin Designing a prototype bed in Fusion
+- [x] Begin Prototyping
+- [x] (If time) Program the Prototype
 
+### **Designing of the Prototyping Bed**
 
-### **Designing of the 2L1R Launcher(_Cont._)**
+#### **The Base**
 
-
-#### **The Flywheels and their Gear Ratios(_Cont._)**
-
+The Base is made up to 3 1x5x1x25 Steel C-Channel and 2 Pieces of 1x2x1x25 Aluminum C-Channel. These Pieces are held together by #8-32 x 1/8" screws with nylocks so that the base is stable and consistant tests can be run on the base. 
 
 
