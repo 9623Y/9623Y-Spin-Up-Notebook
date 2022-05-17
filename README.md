@@ -127,7 +127,7 @@ We chose this Ratio because we will be able to dial back the speed from the full
 Both sides will have the same gear ratio but on the left side where there is two motors, following the 12 tooth pinion gear in the 1:5 ratio a series of 1:1 ratios will continue that motion to the second flywheel. This means that the Flywheel system only needs 2 motors instead of 3 meaning we have 1 motor to allocate else where.
 
 
-### ** End of Entry Thoughts
+### **End of Entry Thoughts**
 I was unable to get the 2L1R Launcher Designed in Fusion today, I'm hoping to be able to finish it tomorrow morning before we meet for Robotics, today was very productive however as we were able to figure the Gear ration for the flywheels and have come up with a game plan of how to design it.
 
 -----
