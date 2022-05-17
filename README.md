@@ -89,7 +89,7 @@ Today, Me(Rhett) and Tyler, are going to begin designing our prototype launchers
 
 ### **Goals for Today**
 
-- [ ] Get the 2L1R Launcher fully built in Fusion
+- [x] Begin to Design the 2L1R Launcher in Fusion
 - [ ] (If time)Begin to design the 2L0R Launcher in Fusion
 - [ ] (If time)Begin to design the 1L1R Launcher in Fusion
 
@@ -113,27 +113,45 @@ The Ramp is made of 3 1x5x1x22 Steel C-Channels and 2 1x2x1x22 Alumnium C-Channe
 ![image](https://user-images.githubusercontent.com/102620185/168681602-184568c0-4a61-4279-856c-b62be762183e.png)
 
 
+#### **The Flywheels and their Gear Ratios**
 
-#### **Diagram of the Gear Ratio for the Flywheels**
+For the Gear Ratio we are using a 1:10 Ratio with at Green Motor. We chose this Ratio because we will be able to dial back the speed from the full speed to the target speeds of 1600 and 1500 RPM and because the motors aren't running at full force they will be under less strain meaning they are less prone to overheatings, and with the two different sides of the flywheel system spinning at different speeds, because we are tuning the speed of the motor down with the code, we can use the same gear ratio on both sides, this will also make it easier to sync up the motors if we want to be able to control the speed of the flywheels mid match.
+
+##### **Diagram of the Gear Ratio for the Flywheels**
 
 ![image](https://user-images.githubusercontent.com/102620185/168694547-b73bff81-094d-4452-94c5-6e3d00ecba0f.png)
-
-
-##### **Why This Ratio?**
-
-We chose this Ratio because we will be able to dial back the speed from the full speed to the target speeds of 1600 and 1500 RPM and because the motors aren't running at full force they will be under less strain meaning they are less prone to overheatings, and with the two different sides of the flywheel system spinning at different speeds, because we are tuning the speed of the motor down with the code, we can use the same gear ratio on both sides, this will also make it easier to sync up the motors if we want to be able to control the speed of the flywheels mid match.
 
 ##### **Further explaination of the Gear Ratio**
 Both sides will have the same gear ratio but on the left side where there is two motors, following the 12 tooth pinion gear in the 1:5 ratio a series of 1:1 ratios will continue that motion to the second flywheel. This means that the Flywheel system only needs 2 motors instead of 3 meaning we have 1 motor to allocate else where.
 
 
 ### **End of Entry Thoughts**
-I was unable to get the 2L1R Launcher Designed in Fusion today, I'm hoping to be able to finish it tomorrow morning before we meet for Robotics, today was very productive however as we were able to figure the Gear ration for the flywheels and have come up with a game plan of how to design it.
+I was unable to get the 2L1R Launcher Fully Designed in Fusion today, I'm hoping to be able to finish it tomorrow morning before we meet for Robotics, today was very productive however as we were able to figure the Gear ration for the flywheels and have come up with a game plan of how to design it.
+
+
+
 
 -----
 
 
 
+
+## **5/17/2022 - _Design Continues and Building Begins_**
+
+Today we are going to have the first meeting since the build and design contest began meaning that we will able to begin to build our prototype launchers today. However before the meeting today I'm going to try and design the rest of the prototype launcher before we have our meeting today. If I'm able to get the design finished in Fusion before the meeting we will be able to easily build the prototype and possibly begin coding today.
+
+
+### **Goals for Today**
+
+- [ ] Finish designing the 2L1R Launcher in Fusion
+- [ ] Get the prototype physically built
+- [ ] (If time) Program the launcher
+
+
+### **Designing of the 2L1R Launcher(_Cont._)**
+
+
+#### **The Flywheels and their Gear Ratios(_Cont._)**
 
 
 
