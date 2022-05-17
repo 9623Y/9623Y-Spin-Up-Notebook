@@ -102,15 +102,36 @@ The Ramp is made of 3 1x5x1x22 Steel C-Channels and 2 1x2x1x22 Alumnium C-Channe
 
 - Top View
 
-_Image Here_
+![image](https://user-images.githubusercontent.com/102620185/168681511-b60f925a-3e57-466e-990b-792fd131b7ac.png)
 
 - Bottom View
 
-_Image Here_
+![image](https://user-images.githubusercontent.com/102620185/168681578-8ebbeaea-b7c8-4508-a616-37dee6d5b2ee.png)
 
 - Screw Placement
 
-_Image Here_
+![image](https://user-images.githubusercontent.com/102620185/168681602-184568c0-4a61-4279-856c-b62be762183e.png)
+
+
+
+#### **Diagram of the Gear Ratio for the Flywheels**
+
+![image](https://user-images.githubusercontent.com/102620185/168694547-b73bff81-094d-4452-94c5-6e3d00ecba0f.png)
+
+
+##### **Why This Ratio?**
+
+We chose this Ratio because we will be able to dial back the speed from the full speed to the target speeds of 1600 and 1500 RPM and because the motors aren't running at full force they will be under less strain meaning they are less prone to overheatings, and with the two different sides of the flywheel system spinning at different speeds, because we are tuning the speed of the motor down with the code, we can use the same gear ratio on both sides, this will also make it easier to sync up the motors if we want to be able to control the speed of the flywheels mid match.
+
+##### **Further explaination of the Gear Ratio**
+Both sides will have the same gear ratio but on the left side where there is two motors, following the 12 tooth pinion gear in the 1:5 ratio a series of 1:1 ratios will continue that motion to the second flywheel. This means that the Flywheel system only needs 2 motors instead of 3 meaning we have 1 motor to allocate else where.
+
+
+### ** End of Entry Thoughts
+I was unable to get the 2L1R Launcher Designed in Fusion today, I'm hoping to be able to finish it tomorrow morning before we meet for Robotics, today was very productive however as we were able to figure the Gear ration for the flywheels and have come up with a game plan of how to design it.
+
+-----
+
 
 
 
