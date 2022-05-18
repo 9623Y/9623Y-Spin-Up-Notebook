@@ -190,12 +190,45 @@ Today we will continue prototyping with the same Design as yesterday. The first 
 - [ ] (If Time) Begin testing
 
 
-### **Designing of the Prototyping Bed(_Cont._)**
+### **Designing of the 1L1R Prototyping Bed(_Cont._)**
 
 
 #### **The Pnuematic Pusher**
 
 This Pnuematic pusher will allow us to consistantly push the disc in a way that will provide accurate results when we test the effectiveness of the flywheels running at different speeds.
+
+
+###### **The Mount**
+
+The Mount for the pnuematic piston has to be extremely sturdy because we dont want the piston to be able to move around when firing it because it would throw off the results of our tests.
+
+###### **The Mounting Point**
+
+The mounting point that we will mount the cylinder to is a Bevel Gearbox screwed into our base plate as far back as possible. We chose to use a bevel gearbox to mount the pneumatic piston to because it is small enough to not take up too much room on our prototyping bed while still being sturdy enough so that it won't move around while firing. This gearbox is screwed into the bed with 4 #8-32 x 1/4" screws with Nylocks on them.
+
+- Side View
+
+![image](https://user-images.githubusercontent.com/102620185/169047632-7615d9fe-0752-47a7-afa2-b633b1e38b15.png)
+
+- Top View
+
+![image](https://user-images.githubusercontent.com/102620185/169047783-400929ac-4174-4027-95a4-54a749f18438.png)
+
+- Screw Placement
+
+  - Bottom View
+
+  ![image](https://user-images.githubusercontent.com/102620185/169047985-42ccd4a4-c450-41bc-9eaa-9b88e2376dd1.png)
+
+  - Top View
+
+  ![image](https://user-images.githubusercontent.com/102620185/169048086-8468aa90-dff3-4116-beae-53bfed45f537.png)
+  
+  
+###### **Mounting the Cylinder**
+
+
+
 
 
 
