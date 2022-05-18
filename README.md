@@ -227,7 +227,20 @@ The mounting point that we will mount the cylinder to is a Bevel Gearbox screwed
   
 ###### **Mounting the Cylinder**
 
+The Cylinder is mounted to the gearbox with the standard cylinder mounting bracket screwed into the bottom center hole of the gearbox with a single #8-32 x 1/4" screw held in with a nylock nut. We chose this mounting format because it places the cylinder at about the center of the disc width and height wise meaning that it will be able to consistently push the disc straight
 
+- Side View 
+
+![image](https://user-images.githubusercontent.com/102620185/169059320-6a785556-ab62-4847-9528-6cc64a3432aa.png)
+
+-Top View
+
+![image](https://user-images.githubusercontent.com/102620185/169059457-171002b0-fe2a-494e-828e-af10b3ad8767.png)
+
+
+###### **Rod Guide**
+
+Currently the cylinder is just floating with no support so we are going to use a rod guide that will double as support to hold the cylinder parallel to the bed. 
 
 
 
