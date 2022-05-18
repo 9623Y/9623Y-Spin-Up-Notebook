@@ -177,6 +177,27 @@ Overall today was very productive and I feel like we mad great progress on our p
 
 
 
+## **5/18/2022 - _Prototyping Continues_**
+
+Today we will continue prototyping with the same Design as yesterday. The first thing to work on today is a pnuematic pusher to feed the discs into the flywheels so we can get consistent test results. Then we can begin to work on designing the different tests for the different speeds we could possibly use for our flywheels.
+
+
+### **Goals for Today**
+
+- [ ] Design the Pnuematic Pusher
+- [ ] Began to create a formulated test for rpm to run the flywheels at
+- [ ] Work on a Universal Gear Ratio to test the different RPMs at
+- [ ] (If Time) Begin testing
+
+
+### **Designing of the Prototyping Bed(_Cont._)**
+
+
+#### **The Pnuematic Pusher**
+
+This Pnuematic pusher will allow us to consistantly push the disc in a way that will provide accurate results when we test the effectiveness of the flywheels running at different speeds.
+
+
 
 
 
