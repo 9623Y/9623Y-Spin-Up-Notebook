@@ -149,9 +149,9 @@ Today we are going to have the first meeting since the build and design contest 
 
 ### **Designing of the Prototyping Bed**
 
-#### **The Base**
+#### **The Base for the 1L1R prototype**
 
-The Base is made up of a 15x30 Steel Base Plate and two 1x2x1x30 Aluminum C-Channels and held together by 24 #8-32 x 1/4" screws with Nylock Nuts on them. We Chose to use nylocks so that the basee would be sturdy enough so that it would be able to produce consistent tests while we try different rpms to fire the discs at. This Base is going to be the foundation for all the test we do with both a 1L1R System and a 2L1R System to find what the best RPM for the flywheels to run at is.
+The Base is made up of a 15x30 Steel Base Plate and two 1x2x1x30 Aluminum C-Channels and held together by 24 #8-32 x 1/4" screws with Nylock Nuts on them. We Chose to use nylocks so that the basee would be sturdy enough so that it would be able to produce consistent tests while we try different rpms to fire the discs at. This Base is going to be the foundation for all the test we do with the 1L1R System  to find what the best RPM for the flywheels to run at is. Two of these bases can belinked together to get the base used for the 2L1R Prototype.
 
 - Top View
 
@@ -164,6 +164,20 @@ The Base is made up of a 15x30 Steel Base Plate and two 1x2x1x30 Aluminum C-Chan
 -Screw Placement
 
 ![image](https://user-images.githubusercontent.com/102620185/168926729-b972627c-5c3c-4060-ac2d-70685d5657ce.png) __________![image](https://user-images.githubusercontent.com/102620185/168926741-41d53ed9-3a78-4341-a3fc-8aeca4ea9ea0.png)
+
+### **End of Entry Thoughts**
+
+Overall today was very productive and I feel like we mad great progress on our prototyping bed, tomorrow we will hopefully be able to finish designing the beds and get them put together so that we can begin testing either tomorrow or Thursday. I think that these prototypes and test will be very helpful to our final design because it will allow up to go into beginning our design for the launcher on our robot knowing what works and what the best format for the launcher will be.
+
+
+
+
+------
+
+
+
+
+
 
 
 
