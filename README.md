@@ -151,6 +151,19 @@ Today we are going to have the first meeting since the build and design contest 
 
 #### **The Base**
 
-The Base is made up to 3 1x5x1x25 Steel C-Channel and 2 Pieces of 1x2x1x25 Aluminum C-Channel. These Pieces are held together by #8-32 x 1/8" screws with nylocks so that the base is stable and consistant tests can be run on the base. 
+The Base is made up of a 15x30 Steel Base Plate and two 1x2x1x30 Aluminum C-Channels and held together by 24 #8-32 x 1/4" screws with Nylock Nuts on them. We Chose to use nylocks so that the basee would be sturdy enough so that it would be able to produce consistent tests while we try different rpms to fire the discs at. This Base is going to be the foundation for all the test we do with both a 1L1R System and a 2L1R System to find what the best RPM for the flywheels to run at is.
+
+- Top View
+
+![image](https://user-images.githubusercontent.com/102620185/168926641-d5713442-36da-493e-980f-6d294d65b40d.png)
+
+- Bottom View
+
+![image](https://user-images.githubusercontent.com/102620185/168926693-0c41a029-c496-4771-95c1-6595bce07aca.png)
+
+-Screw Placement
+
+![image](https://user-images.githubusercontent.com/102620185/168926729-b972627c-5c3c-4060-ac2d-70685d5657ce.png) __________![image](https://user-images.githubusercontent.com/102620185/168926741-41d53ed9-3a78-4341-a3fc-8aeca4ea9ea0.png)
+
 
 
