@@ -151,7 +151,7 @@ Today we are going to have the first meeting since the build and design contest 
 
 #### **The Base for the 1L1R prototype**
 
-The Base is made up of a 15x30 Steel Base Plate and two 1x2x1x30 Aluminum C-Channels and held together by 24 #8-32 x 1/4" screws with Nylock Nuts on them. We Chose to use nylocks so that the basee would be sturdy enough so that it would be able to produce consistent tests while we try different rpms to fire the discs at. This Base is going to be the foundation for all the test we do with the 1L1R System  to find what the best RPM for the flywheels to run at is. Two of these bases can belinked together to get the base used for the 2L1R Prototype.
+The Base is made up of a 15x30 Steel Base Plate and two 1x2x1x30 Aluminum C-Channels and held together by 8 #8-32 x 1/4" screws with Nylock Nuts on them. We chose to use nylocks so that the basee would be sturdy enough so that it would be able to produce consistent tests while we try different rpms to fire the discs at. This Base is going to be the foundation for all the test we do with the 1L1R System  to find what the best RPM for the flywheels to run at is. Two of these bases can belinked together to get the base used for the 2L1R Prototype.
 
 - Top View
 
@@ -159,11 +159,12 @@ The Base is made up of a 15x30 Steel Base Plate and two 1x2x1x30 Aluminum C-Chan
 
 - Bottom View
 
-![image](https://user-images.githubusercontent.com/102620185/168926693-0c41a029-c496-4771-95c1-6595bce07aca.png)
+![image](https://user-images.githubusercontent.com/102620185/169158093-2a7e29fa-b61a-4f7a-ad80-71c3aca5fb21.png)
 
 -Screw Placement
 
-![image](https://user-images.githubusercontent.com/102620185/168926729-b972627c-5c3c-4060-ac2d-70685d5657ce.png) __________![image](https://user-images.githubusercontent.com/102620185/168926741-41d53ed9-3a78-4341-a3fc-8aeca4ea9ea0.png)
+![image](https://user-images.githubusercontent.com/102620185/169158126-c04b5038-d448-4146-b5ba-af1e51a57778.png) __________![image](https://user-images.githubusercontent.com/102620185/169158319-9babcb69-27a9-4af8-b119-0fdbe5745c51.png)
+
 
 ### **End of Entry Thoughts**
 
@@ -179,14 +180,14 @@ Overall today was very productive and I feel like we mad great progress on our p
 
 ## **5/18/2022 - _Prototyping Continues_**
 
-Today we will continue prototyping with the same Design as yesterday. The first thing to work on today is a pnuematic pusher to feed the discs into the flywheels so we can get consistent test results. Then we can begin to work on designing the different tests for the different speeds we could possibly use for our flywheels.
+Today we will continue prototyping with the same Design as yesterday. The first thing to work on today is a pnuematic pusher to feed the discs into the flywheels so we can get consistent test results. Then if time allows we can begin to work on designing the different tests for the different speeds we could possibly use for our flywheels.
 
 
 ### **Goals for Today**
 
-- [ ] Design the Pnuematic Pusher
-- [ ] Began to create a formulated test for rpm to run the flywheels at
-- [ ] Work on a Universal Gear Ratio to test the different RPMs at
+- [x] Design the Pnuematic Pusher
+- [ ] (If Time) Began to create a formulated test for rpm to run the flywheels at
+- [ ] (If Time) Work on a Universal Gear Ratio to test the different RPMs at
 - [ ] (If Time) Begin testing
 
 
@@ -204,7 +205,7 @@ The Mount for the pnuematic piston has to be extremely sturdy because we dont wa
 
 ###### **The Mounting Point**
 
-The mounting point that we will mount the cylinder to is a Bevel Gearbox screwed into our base plate as far back as possible. We chose to use a bevel gearbox to mount the pneumatic piston to because it is small enough to not take up too much room on our prototyping bed while still being sturdy enough so that it won't move around while firing. This gearbox is screwed into the bed with 4 #8-32 x 1/4" screws with Nylocks on them.
+The mounting point that we will mount the cylinder to is a Bevel Gearbox screwed into our base plate as far back as possible. We chose to use a bevel gearbox to mount the pneumatic piston to because it is small enough to not take up too much room on our prototyping bed while still being sturdy enough so that it won't move around while firing. This gearbox is screwed into the bed with 2 #8-32 x 3/8" screws with Nylocks on them.
 
 - Side View
 
@@ -212,35 +213,59 @@ The mounting point that we will mount the cylinder to is a Bevel Gearbox screwed
 
 - Top View
 
-![image](https://user-images.githubusercontent.com/102620185/169047783-400929ac-4174-4027-95a4-54a749f18438.png)
+![image](https://user-images.githubusercontent.com/102620185/169177544-e0a09b7a-b18d-41f9-b968-fad7f35d7f57.png)
 
 - Screw Placement
 
   - Bottom View
 
-  ![image](https://user-images.githubusercontent.com/102620185/169047985-42ccd4a4-c450-41bc-9eaa-9b88e2376dd1.png)
+  ![image](https://user-images.githubusercontent.com/102620185/169177607-29cd20ec-ec32-4638-80b5-89e4118727b5.png)
 
   - Top View
 
-  ![image](https://user-images.githubusercontent.com/102620185/169048086-8468aa90-dff3-4116-beae-53bfed45f537.png)
+  ![image](https://user-images.githubusercontent.com/102620185/169177511-f853c883-4c27-4b6e-b8da-6a42acb195f8.png)
   
   
 ###### **Mounting the Cylinder**
 
-The Cylinder is mounted to the gearbox with the standard cylinder mounting bracket screwed into the bottom center hole of the gearbox with a single #8-32 x 1/4" screw held in with a nylock nut. We chose this mounting format because it places the cylinder at about the center of the disc width and height wise meaning that it will be able to consistently push the disc straight
+The Cylinder is mounted to the gearbox with the standard cylinder mounting bracket, attached to cylinder with a #8-32 x 7/8" screw with a nylock nut, screwed into the bottom row of the gearbox with two #8-32 x 1/4" screws held and nylock nuts. We chose this mounting format because it places the cylinder at about the center of the disc width and height wise meaning that it will be able to consistently push the disc straight into the flywheels.
+
+- Mount Without Cylinder Attached
+
+![image](https://user-images.githubusercontent.com/102620185/169172020-7459bf92-7f0e-4b6c-8d91-032d7cb0b1aa.png)
 
 - Side View 
 
-![image](https://user-images.githubusercontent.com/102620185/169059320-6a785556-ab62-4847-9528-6cc64a3432aa.png)
+![image](https://user-images.githubusercontent.com/102620185/169174490-a7a6ce81-c3b3-4255-b5eb-5fa45d2caa53.png)
 
--Top View
+- Top View
 
-![image](https://user-images.githubusercontent.com/102620185/169059457-171002b0-fe2a-494e-828e-af10b3ad8767.png)
+![image](https://user-images.githubusercontent.com/102620185/169177442-8c7fcd05-46c2-41bf-b0df-be6895d72e4b.png)
 
 
 ###### **Rod Guide**
 
-Currently the cylinder is just floating with no support so we are going to use a rod guide that will double as support to hold the cylinder parallel to the bed. 
+Even though the piston would work to push the discs in its current state, a rod guide that doubles as a support for the cylinder and triples as the back of a place to set the disc. The rod guide will be a piece of 10 long 2x2 Aluminum angle, this will have 1 piece of 10 long 2x2 Aluminum angle on either side to act as the disc guide as well. These pieces of 2x2 Aluminum angle are each held down by two #8-32 x 3/8" screws with Nylock nuts. We opt'ed to use Nylock nuts so that we can ensure that the Angle pieces aren't able to move around and are very steady so that we can get consistent test results.
+
+
+####### **Issue**
+
+While looking at spacing for a prototype I built to base my fusion design off of the cylinder bore looks a good bit shorter in Fusion than it is in real life. So just in case it is I'm going to wait until I can check and see whether or not the cylinder bore in Fusion is a different length than the actual physical cylinder bore because if the lengths are different the designs could very in spacing greatly between Fusion and real life.
+
+
+### **End of Entry Thoughts**
+
+It's quite unfortunate that there is potentially a spacing issue because I would have like to get a prototyping bed close to fully built in Fusion tonight. At least I have a pnuematic pusher designed physically and built and I just need to wait and see if lengths are correct for the cylinder bores and if I need to alter the design to accomodate for any potential differences. Since I can't really work on designs until I know what my spacing is for the pnuematic pusher, I would like to begin tomorrow by working on forumalating a test for the different RPM Speeds and work on figuring out a gear ratio that will work universally for all the different RPMs so I dont have to constantly change gear ratios on the prototyping bed.
+
+
+
+
+---------
+
+
+
+
+
 
 
 
