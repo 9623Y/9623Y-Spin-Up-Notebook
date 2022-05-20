@@ -248,7 +248,7 @@ The Cylinder is mounted to the gearbox with the standard cylinder mounting brack
 Even though the piston would work to push the discs in its current state, a rod guide that doubles as a support for the cylinder and triples as the back of a place to set the disc. The rod guide will be a piece of 10 long 2x2 Aluminum angle, this will have 1 piece of 10 long 2x2 Aluminum angle on either side to act as the disc guide as well. These pieces of 2x2 Aluminum angle are each held down by two #8-32 x 3/8" screws with Nylock nuts. We opt'ed to use Nylock nuts so that we can ensure that the Angle pieces aren't able to move around and are very steady so that we can get consistent test results.
 
 
-####### **Issue**
+###### **Issue**
 
 While looking at spacing for a prototype I built to base my fusion design off of the cylinder bore looks a good bit shorter in Fusion than it is in real life. So just in case it is I'm going to wait until I can check and see whether or not the cylinder bore in Fusion is a different length than the actual physical cylinder bore because if the lengths are different the designs could very in spacing greatly between Fusion and real life.
 
@@ -288,11 +288,39 @@ For a Gear Ratio to test with we were thinking about using a 1:10 gear ratio pot
 
 ### **End of Entry Thoughts**
 
-Althought we didn't do much today, today's discussion about what the test should look like and what kind of gear ratio we think would work the best, this discussion helped us layout how our next week or so will look and what we need to do to test everything properly and get the best idea of what will be most effective for our launcher on our robot when we begin building.
+Althought we didn't do much today, today's discussion about what the test should look like and what kind of gear ratio we think would work the best, this discussion helped us layout how our next week or so will look and what we need to do to test everything properly and get the best idea of what will be most effective for our launcher on our robot when we begin buildin
+
+
+
+-------
 
 
 
 
+## **5/20/2022 - _Gear Ratios_**
+
+Today we are going to took at all the different gear ratios and come up with a compound gear ratio that can get us up to our desired RPM target, this Gear Ratio may only be for testing and we come up with a gear ratio that puts us closer to our ideal RPM for our flywheels or this gear ratio may be implemented into our actually launcher if it performs well enough.
 
 
+### **Goals For Today**
+
+- [x] Make a Table of all Possible Simple Gear Ratios
+- [ ] Look at all 1:10 Compound Gear Ratios
+- [ ] Pick a Gear Ratio out of the different possible 1:10 Gear Ratio
+
+
+### **Taking a look at all possible Simple Gear Ratios**
+
+||**12 T Driven**|**24 T Driven**|**36 T Driven**|**48 T Driven**|**60 T Driven**|**72 T Driven**|**84 T Driven**|
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+|**12 T Driving**|1:1|2:1|3:1|4:1|5:1|6:1|7:1|
+|**24 T Driving**|1:2|1:1|3:2|2:1|5:2|3:1|7:2|
+|**36 T Driving**|1:3|2:3|1:1|4:3|5:3|2:1|7:3|
+|**48 T Driving**|1:4|1:2|3:4|1:1|5:4|3:2|7:4|
+|**60 T Driving**|1:5|2:5|3:5|4:5|1:1|6:5|7:5|
+|**72 T Driving**|1:6|1:3|1:2|2:3|5:6|1:1|7:6|
+|**84 T Driving**|1:7|2:7|3:7|4:7|5:7|6:7|1:1|
+
+
+### **Different Ways to Get a 1:10 Gear Ratio**
 
