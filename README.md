@@ -305,8 +305,8 @@ Today we are going to took at all the different gear ratios and come up with a c
 ### **Goals For Today**
 
 - [x] Make a Table of all Possible Simple Gear Ratios
-- [ ] Look at all 1:10 Compound Gear Ratios
-- [ ] Pick a Gear Ratio out of the different possible 1:10 Gear Ratio
+- [x] Look at all 1:10 Compound Gear Ratios
+- [x] Pick a Gear Ratio out of the different possible 1:10 Gear Ratio
 
 
 ### **Taking a look at all possible Simple Gear Ratios**
@@ -322,5 +322,35 @@ Today we are going to took at all the different gear ratios and come up with a c
 |**84 T Driving**|1:7|2:7|3:7|4:7|5:7|6:7|1:1|
 
 
-### **Different Ways to Get a 1:10 Gear Ratio**
+### **1:10 Gear Ratio Chosen for Prototyping bed**
 
+When I got into class Tyler and our other friend Alex who is helping us with this bed had been working on it and had decided on a 1:10 Gear Ratio that used a 48T Gear Driven by the motor to a 24T Gear on an axle with a 60T Gear that was driving a 12T Gear. This Gear Ratio was chosen because it gives us a ceiling of 6000 RPM and will allow us to test a wide range of different RPMs. We chose 6000 RPMs as our ceiling because of tests I've seen online that use 3000 RPM Flywheels that are unable to consistently score from the opposite side of the field which gives me an estimate that the ideal gear ratio will be somewhere around 4500 RPM but may be higher than that or maybe even lower than that.
+
+
+### **End of Entry Thoughts**
+
+Today I'm happy with what we got done and we will hopefully be able to get a program written on Monday and begin testing either Monday or Tuesday to get our Results and begin to test other things, our test will most likely be done 3 times for each type of flywheel system so that we can test the best hardness of the flex wheels for each flywheel type.
+
+
+
+
+-------
+
+
+
+
+## **5/23/2022 - _Programming and Maybe Testing_**
+
+Today we will look at getting a program written for our prototyping bed that will output the RPMs of the flywheels to an array so we can import the data into a spredsheet and look at a graph of how the disc going through the flywheels affects the RPM of the flywheel and how long it takes the flywheels to get back up to full speed. Once this is done we will potentially be able to start testing. However we might run out of time and not be able to begin testing today.
+
+
+### **Goals for Today**
+
+- [ ] Write a Program for the test bed
+- [ ] (If Time) Collect the Data from the Program and graph it
+- [ ] (If Time) Begin testing
+
+
+### **What The Program should be able to do**
+
+The Program for the test bed should be able to have the flywheel speed be able to be independantly controlled with a controller and be able to fire a disc with the press of a button on the controller by acuating a pnuematic piston. This code also needs to be able to output the speed of the flywheels to an array that expands as much as needed.
