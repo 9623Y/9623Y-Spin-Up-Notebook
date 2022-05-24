@@ -354,3 +354,55 @@ Today we will look at getting a program written for our prototyping bed that wil
 ### **What The Program should be able to do**
 
 The Program for the test bed should be able to have the flywheel speed be able to be independantly controlled with a controller and be able to fire a disc with the press of a button on the controller by acuating a pnuematic piston. This code also needs to be able to output the speed of the flywheels to an array that expands as much as needed.
+
+
+### **End of Entry Thoughts**
+
+Today we weren't able to get the program working but we will begin with that tomorrow and hopefully be able to get a program that will allow use to visualize the data recieved from the encoders on the flywheels.
+
+
+
+
+------
+
+
+
+
+## **5/24/2022 - _Programming and Working Towards Finalizing the Prototyping/Test Bed_**
+
+Today we will work on getting a program that reliably collects data from the rotational sensors on the flywheels. Once that is done we will begin to try and finalize our design for the test bed so that we can begin testing.
+
+### **Goals for Today**
+
+- [x] Get the Program for the Test Bed Written
+- [x] Begin Working towards finalizing the design of the prototyping bed
+- [ ] (If Time) Begin Testing
+
+
+### **Finalizing the Testing/Prototyping Bed Design**
+
+#### **The Pnuematic Pusher**
+
+We decided to redesign the pusher on our pneumatic piston because the old one was causing the disc to be pressed down in the back which popped the front of the disc up instead of the disc being pushed straight through the flywheels like intended
+
+- Image of New Pneumatic Pusher Device
+
+_Insert Image Here_
+
+#### **The Bed**
+
+##### **Flexing Issues** 
+
+There was alot of flexing in the c-channels that held our gear ratios and had our motors and flywheels mounted to them, this flexing was causing deflection in the flywheels whenever attempting to fire a disc, to fix this issue of flexing we opted to add another base plate the is screwed in between the bottom c-channels, this made our rig very rigid and almost completely prone to any kind of flexing.
+
+-Image of fix to the bed
+
+_Insert Image Here_
+
+##### **Disc Hitting the Flywheels too low**
+
+Our discs were coming through the flywheels towards the bottom which was causing the flywheels to try and ride over the disc, instead of raising the whole base plate or lowering the flyhweels we opted to add 3 layers of plexiglass for the disc to rest on so that the discs would ride up higher and be pushed through the middle of the flywheels instead of almost under the flywheel. To keep from having to raise everything on the back of the test bed up we decided to mount the pusher device higher in relation to the height of the piston so that it wouldn't have to be moved up.
+
+- Image of Solution for the discs hitting the Flywheel too low
+
+_Insert Image Here_
