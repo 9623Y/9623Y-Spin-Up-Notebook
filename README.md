@@ -406,3 +406,65 @@ Our discs were coming through the flywheels towards the bottom which was causing
 - Image of Solution for the discs hitting the Flywheel too low
 
 _Insert Image Here_
+
+
+### **End of Entry Thoughts**
+
+Today we began working on finalizing the design of our prototyping bed which means that we are getting close to being able to test our first type of flywheel system and begin to gather data on what will work and what won't work.
+
+
+ 
+ 
+--------
+
+
+
+
+## **5/25/2022 - _Continuing Work on the Test Bed_**
+
+Today we will continue working on the finalization of our design for the Test bed by fixing some minor issues that came with the design changes yesterday, as well as converting to high strength axles to drive the flywheels, and better securing the test bed together by making it more rigid.
+
+
+### **Goals for Today**
+
+- [x] Fix some Minor Issues that came with yesterdays design changes
+- [x] Make the test bed even more rigid
+- [x] Begin converting to High Strength Axles
+
+
+### **Finalizing the Testing/Prototyping Bed Design(_Cont._)**
+
+#### **The Pnuematic Pusher (_Cont._)**
+
+When we went to mount the pneumatic pusher we designed yesterday we found out that there were some fitment issues and that we need to change the support for the piston as well as raise the mounting bracket one row of holes from the bottom row to the second row of holes on it's mounting plate.
+
+- Image of Pnuematic Pusher Mount
+
+_insert image here_
+
+
+#### **Bed Rigidity**
+
+Our bed was more than likely already rigid enough but when the base plate connecting the bottom c-channels got put in it was no square with the c-channels and was causing mounting issues. In our move to High Strength axles we swapped the 2 wide c-channel we had on the sides out for 3 wide c-channel to give enough room to the high strength axles and their bearing blocks. When we took apart the bed to re-level it we decided to add more standoffs to create more support for the beds and c-channels this means that the bed will be more stable and have less flexing issues.
+
+-Image of New Bed Desing
+
+_insert image here_
+
+#### **Conversion to High Strength Axles**
+
+We also decide to convert the axles for the flywheel system to high strength axles because they are going to be what we most likely use in our actual robot so we need to run all of our tests using them, this will allow us to have accurate data to base our robot off of. We chose to use high strength axles because they are less likely to bend and twist that the low strength axles and flex less than the low strength axles.
+
+-Image of High Strength Axle gear ratio
+
+_insert image here_
+
+
+### **End of Entry Thoughts**
+
+Today we got alot done and we are very close to being able to begin testing to figure out what will work the best for our flywheels. I am very happy with the progress we made today and feel like the we will be able to get the testing done and begin looking at intakes very shortly.
+
+
+
+
+-------
