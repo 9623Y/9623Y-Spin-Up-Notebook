@@ -462,9 +462,41 @@ _insert image here_
 
 ### **End of Entry Thoughts**
 
-Today we got alot done and we are very close to being able to begin testing to figure out what will work the best for our flywheels. I am very happy with the progress we made today and feel like the we will be able to get the testing done and begin looking at intakes very shortly.
+Today we got a lot done and we are very close to being able to begin testing to figure out what will work the best for our flywheels. I am very happy with the progress we made today and feel like the we will be able to get the testing done and begin looking at intakes very shortly.
 
 
 
 
 -------
+
+
+
+
+## **5/26/2022 - _Testing Begins_**
+
+Today we're gong to finish converting our test bed to high strength axles. Once we finish converting the test bed we can begin testing and collecting data on rpm values and how long the flywheel takes to get back up to the set rpms after a disc is launched through it.
+
+## **Goals For Today**
+
+-[x] convert test bed to high strength axles.
+-[x] collect data on dirrent rpm values.
+-[x] measure and record how long it takes for the flywheel to regain the rpms.
+
+### **Analysis of Data**
+
+
+##### **Test 1 Graph**
+
+_Insert Image of secondTest Graph Here_
+
+Looking at the graph it's apparent that the flywheels take around 2 seconds to spin up to our desired rpms. After the desired rpm is reached it tends to fluctuate above or below our target speed by up to 50 rpm. 
+
+#### **Test 2 Graph**
+
+_Insert image of ninthTest Graph here_
+
+In this test we reduced the speed of the left flywheel to create a horizontal disc spin to prevent wobble and make shots more accurate. The left flywheel is spinning at 1500 rpm while the right is spinning at 2000 rpm. The left motor didn't take as long to reach it's full speed but the diffrence seems almost negligible. When we shot a disc through the flywheel the right one lost more speed, losing around 600 while the left motor lost around 250. The recovery time was also much shorter on our left flywheel, being around half a second while the right flywheel took around a second to recover. While I expected there to be a diffrence in the rpm loss and recovery time was to be expected, it was a surpise to me that the diffrence in numbers was that large.
+
+### **End Of Entry Thoughts**
+
+The data we are collecting today is crucial for the design of our bot and the overall outcome of our team this season. I'm glad we are figuring this data out now to implement on the bot later. I'm very happy with the test bed and the kind of crucial data it's been able to provide us. 
