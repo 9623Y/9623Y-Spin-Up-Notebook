@@ -516,19 +516,26 @@ Today we will begin testing all of the things in our end of entry thoughts from 
 
 ### **Goals for Today**
 
+- [ ] Test Different RPM Combinations with 1 Fixed at 2000 RPM
+- [ ] Test Different Wheel Hardnesses and Combinations of Wheel Hardnesses
 - [ ] Run the Motor Overheat Tests
-- [ ] collect data on different wheel hardnesses and combonations for them
-- [ ] what gearbox/rpm is best
-- [ ] what is the best overall setup (angle, rpm, wheel hardness)
-- [ ] what can be done to decrease spinup and recovery time for rpms
+- [ ] What is the best overall setup (angle, rpm, wheel hardness)
+- [ ] What can be done to decrease spin up and recovery time of the Flywheels
 
 
 ### **Testing**
 
-#### **Overheat Testing**
+#### **RPM Combination Testing - Test 001 A-U**
 
-##### **Overheat Testing No Discs Fired**
+For all of these test we will do five shots at each different tested settings with a fresh fully charged battery and a full tank of air. The Camera is posistion 8 feet away from the base line that is in line with the center of the Launcher with the Camera 4 feet in the air.
 
-_Insert 2MinOverheatTestND Graph Here_
+##### **Inital Take Away**
 
-We ran this test to see if we can run the flywheels at full speed for 2 minutes without over heating the motors and if the motors don't overheat how much performance is lost if any performance is lost at all.
+My inital take away before reviewing footage from this test is that with the left flywheel spinning slower the disc seems to not only go straighter but fly farther than the discs fired with the right flywheel spinning slower. Something I noticed when the right flywheel was spinning slower was that the discs began to shoot out right instantly and began curving to the left fast than the disc fired with the left flywheel moving slower curved to the right.
+
+##### **Table of Data**
+
+
+##### **Take Away**
+
+
