@@ -499,4 +499,36 @@ In this test we reduced the speed of the left flywheel to create a horizontal di
 
 ### **End Of Entry Thoughts**
 
-The data we are collecting today is crucial for the design of our bot and the overall outcome of our team this season. I'm glad we are figuring this data out now to implement on the bot later. I'm very happy with the test bed and the kind of crucial data it's been able to provide us. 
+The data we are collecting today is crucial for the design of our bot and the overall outcome of our team this season. I'm glad we are figuring this data out now to implement on the bot later. I'm very happy with the test bed and the kind of crucial data it's been able to provide us. Now that we've finished designing the test bed, we can run all the different tests we need to collect even more data that will help in the designing of our bot. Tests we'll be running are things like what hardness of flex wheels is best for distance and accuracy, how combinging wheels affects our results, what kind of grarbox/rpm is optimal for our goal, what the best angle to shoot from is and what can be done to reduce time required to get the flywheel back up to speed.
+
+
+
+
+------
+
+
+
+
+## **5/27/2022 - _Heavily Testing_**
+
+Today we will begin testing all of the things in our end of entry thoughts from yesterday as well as many other new things such as will the motors be able to run at full speed for the entire match without losing performance.
+
+
+### **Goals for Today**
+
+- [ ] Run the Motor Overheat Tests
+- [ ] collect data on different wheel hardnesses and combonations for them
+- [ ] what gearbox/rpm is best
+- [ ] what is the best overall setup (angle, rpm, wheel hardness)
+- [ ] what can be done to decrease spinup and recovery time for rpms
+
+
+### **Testing**
+
+#### **Overheat Testing**
+
+##### **Overheat Testing No Discs Fired**
+
+_Insert 2MinOverheatTestND Graph Here_
+
+We ran this test to see if we can run the flywheels at full speed for 2 minutes without over heating the motors and if the motors don't overheat how much performance is lost if any performance is lost at all.
