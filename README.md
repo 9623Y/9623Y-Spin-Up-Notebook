@@ -387,7 +387,7 @@ We decided to redesign the pusher on our pneumatic piston because the old one wa
 
 - Image of New Pneumatic Pusher Device
 
-_Insert Image Here_
+![Snapchat-1389870806](https://user-images.githubusercontent.com/102620185/171167628-6cb88f8b-64e3-406a-8b0f-cd6a603b9734.jpg)
 
 #### **The Bed**
 
@@ -402,7 +402,7 @@ Our discs were coming through the flywheels towards the bottom which was causing
 
 - Image of Solution for the discs hitting the Flywheel too low
 
-_Insert Image Here_
+![Snapchat-92939264](https://user-images.githubusercontent.com/102620185/171167484-1d1cb8a3-f15e-46c1-8ab6-5ada45500a67.jpg)
 
 
 ### **End of Entry Thoughts**
@@ -437,7 +437,7 @@ When we went to mount the pneumatic pusher we designed yesterday we found out th
 
 - Image of Pnuematic Pusher Mount
 
-_insert image here_
+![Snapchat-607726671](https://user-images.githubusercontent.com/102620185/171167272-6c0dc82e-38db-4b2a-88d9-b2c40d027b10.jpg)
 
 
 #### **Bed Rigidity**
@@ -446,7 +446,7 @@ Our bed was more than likely already rigid enough but when the base plate connec
 
 -Image of New Bed Desing
 
-_insert image here_
+![Snapchat-834160790 (1)](https://user-images.githubusercontent.com/102620185/171167916-e3ff7d24-4860-4b93-b6a9-b4796dfe681c.jpg)
 
 #### **Conversion to High Strength Axles**
 
@@ -454,7 +454,7 @@ We also decide to convert the axles for the flywheel system to high strength axl
 
 -Image of High Strength Axle gear ratio
 
-_insert image here_
+![Snapchat-1892870560](https://user-images.githubusercontent.com/102620185/171167555-628fe186-0d48-4a47-b999-64921d0a07bb.jpg)
 
 
 ### **End of Entry Thoughts**
@@ -475,9 +475,9 @@ Today we're gong to finish converting our test bed to high strength axles. Once 
 
 ## **Goals For Today**
 
-- [x] convert test bed to high strength axles.
-- [x] collect data on different rpm values.
-- [x] measure and record how long it takes for the flywheel to get back up to speed after a disc is fired
+- [x] Convert test bed to high strength axles.
+- [x] Collect data on different rpm values.
+- [x] Measure and record how long it takes for the flywheel to get back up to speed after a disc is fired
 
 ### **Analysis of Data**
 
