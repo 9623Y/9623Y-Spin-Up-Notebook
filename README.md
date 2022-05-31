@@ -579,20 +579,28 @@ Today we will continue to do a small amount of final testing on the launcher suc
 
 ### **Goals for Today**
 
-- [ ] Overheat Testing for Launcher
+- [x] Overheat Testing for Launcher
+- [x] Test Number of Pneumatic Shots
 - [ ] Begin Designing Intake
 - [ ] (If time) Begin Building Intake
-- [ ] Number of Pnumatic Shots
+
 
 
 ### **Test 002**
 
 #### **Test 002 A**
-2000 2000 for 2 minutes with no discs
+
+![image](https://user-images.githubusercontent.com/102620185/171196552-35a788d1-b255-4a3f-a739-935a2fd2c38e.png)
+
+Left Flywheel:2000 Right Flywheel:2000 for 2 minutes with no discs
+
 There was little to no change in speed and the motors didn't get much warmer, with the tempurature only varying a few degrees.
 
 #### **Test 002 B**
-1500L 2000R for 2 minutes with discs every 10 seconds
+
+![image](https://user-images.githubusercontent.com/102620185/171196277-e7cb22c9-ab79-44b9-aabe-4c2dd934689f.png)
+
+Left Flywheel:1500 Right Flywheel:2000 for 2 minutes with discs every 10 seconds
 
 While it does dip down after firing a disc, it does stabalize fairly quickly and we don't lose any performance throughout the test.
 
