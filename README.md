@@ -533,7 +533,7 @@ My inital take away before reviewing footage from this test is that with the lef
 ##### **Table of Data**
 
 ||Left Flywheel RPM|Right Flywheel RPM|Stable (Y/N)|
-|---|---|---|---|
+|:---|:---:|:---:|:---:|
 |Test 001 A|2000|2000|N|
 |Test 001 B|1900|2000|N|
 |Test 001 C|1800|2000|N|
@@ -559,4 +559,32 @@ My inital take away before reviewing footage from this test is that with the lef
 
 ##### **Take Away**
 I noticed that the disc tends to stabalize around when one wheel is spinning at 2000 and the other at 1600. While it does get more stable as one side is decreased, it also tends to veer more and not go as far. The veering is more noticable when the left wheel is spinning faster than the right wheel. The disc is more stabalized as the left wheel is slowed and the right wheel is kept at 2000.
+
+
+### **End of Entry Thoughts** 
+
+We didn't get as much as we wanted to do today done, but we will continue to do a few more test Tuesday, then we can move on to desinging and building intakes. Today however yielded some valuable information on combinations of flywheel speeds that will greatly help us in future designing of launchers.
+
+
+
+
+--------
+
+
+
+## **5/31/2022 - _launcher Testing and Intake Design_**
+
+Today we will continue to do a small amount of final testing on the launcher such as overheat testing, and then we will move on to designing and building an intake prototype.
+
+
+### **Goals for Today**
+
+- [ ] Overheat Testing for Launcher
+- [ ] Begin Designing Intake
+- [ ] (If time) Begin Building Intake
+
+
+### **Test 002**
+
+#### **Test 002 A**
 
