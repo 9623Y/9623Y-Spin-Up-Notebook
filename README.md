@@ -581,7 +581,7 @@ Today we will continue to do a small amount of final testing on the launcher suc
 
 - [x] Overheat Testing for Launcher
 - [x] Test Number of Pneumatic Shots
-- [ ] Begin Designing Intake
+- [x] Begin Designing Intake
 - [ ] (If time) Begin Building Intake
 
 
@@ -611,3 +611,11 @@ When we ran the test with the regulator, we were able to get around 75-80 good s
 
 #### **Test 003 B**
 When we ran the test without the regulator, we were able to get around 60-65 good shots.
+
+#### **Intake Design**
+We decided that we would prefer a single motored design over a double motored design. One idea for a duel motored design we had was to create tracks with rubber flappers along the sides that lifted the disc through the robot. A way to make this design use only one motor is to create longer flappers and replace one track with a wall to prevent the disc from falling out.
+
+Another idea we found was an intake system using flex wheels that pushed the disc up through the back of the robot and out the top into the launcher.
+
+### **End of Entry Thoughts**
+We found a lot of valuble information through different tests we ran today. Some test results, like Test 002, varied greatly from our original hypothesis. We were able to get everything we wanted to do done which allows us to move on tomorrow. We plan to continue designing intakes and building a prototype of one or more designs.
