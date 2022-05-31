@@ -528,7 +528,7 @@ For all of these test we will do five shots at each different tested settings wi
 
 ##### **Inital Take Away**
 
-My inital take away before reviewing footage from this test is that with the left flywheel spinning slower the disc seems to not only go straighter but fly farther than the discs fired with the right flywheel spinning slower. Something I noticed when the right flywheel was spinning slower was that the discs began to shoot out right instantly and began curving to the left fast than the disc fired with the left flywheel moving slower curved to the right.
+My inital take away before reviewing footage from this test is that with the left flywheel spinning slower the disc seems to not only go straighter but fly farther than the discs fired with the right flywheel spinning slower. Something I noticed when the right flywheel was spinning slower was that the discs began to shoot out right instantly and began curving to the left, unlike the disc fired with the left flywheel moving slower which caused the disc to curve to the right.
 
 ##### **Table of Data**
 
@@ -558,5 +558,5 @@ My inital take away before reviewing footage from this test is that with the lef
 
 
 ##### **Take Away**
-
+I noticed that the disc tends to stabalize around when one wheel is spinning at 2000 and the other at 1600. While it does get more stable as one side is decreased, it also tends to veer more and not go as far. The veering is more noticable when the left wheel is spinning faster than the right wheel. The disc is more stabalized as the left wheel is slowed and the right wheel is kept at 2000.
 
