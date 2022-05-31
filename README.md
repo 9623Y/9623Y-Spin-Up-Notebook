@@ -587,4 +587,10 @@ Today we will continue to do a small amount of final testing on the launcher suc
 ### **Test 002**
 
 #### **Test 002 A**
+2000 2000 for 2 minutes with no discs
+There was little to no change in speed and the motors didn't get much warmer, with the tempurature only varying a few degrees.
 
+#### **Test 002 B**
+1500L 2000R for 2 minutes with discs every 10 seconds
+
+While it does dip down after firing a disc, it does stabalize fairly quickly and we don't lose any performance throughout the test.
