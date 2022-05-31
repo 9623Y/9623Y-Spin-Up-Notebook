@@ -582,6 +582,7 @@ Today we will continue to do a small amount of final testing on the launcher suc
 - [ ] Overheat Testing for Launcher
 - [ ] Begin Designing Intake
 - [ ] (If time) Begin Building Intake
+- [ ] Number of Pnumatic Shots
 
 
 ### **Test 002**
@@ -594,3 +595,11 @@ There was little to no change in speed and the motors didn't get much warmer, wi
 1500L 2000R for 2 minutes with discs every 10 seconds
 
 While it does dip down after firing a disc, it does stabalize fairly quickly and we don't lose any performance throughout the test.
+
+#### **Test 003**
+
+#### **Test 003 A**
+When we ran the test with the regulator, we were able to get around 75-80 good shots.
+
+#### **Test 003 B**
+When we ran the test without the regulator, we were able to get around 60-65 good shots.
