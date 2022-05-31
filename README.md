@@ -395,9 +395,6 @@ _Insert Image Here_
 
 There was alot of flexing in the c-channels that held our gear ratios and had our motors and flywheels mounted to them, this flexing was causing deflection in the flywheels whenever attempting to fire a disc, to fix this issue of flexing we opted to add another base plate the is screwed in between the bottom c-channels, this made our rig very rigid and almost completely prone to any kind of flexing.
 
--Image of fix to the bed
-
-_Insert Image Here_
 
 ##### **Disc Hitting the Flywheels too low**
 
@@ -478,22 +475,22 @@ Today we're gong to finish converting our test bed to high strength axles. Once 
 
 ## **Goals For Today**
 
--[x] convert test bed to high strength axles.
--[x] collect data on dirrent rpm values.
--[x] measure and record how long it takes for the flywheel to regain the rpms.
+- [x] convert test bed to high strength axles.
+- [x] collect data on different rpm values.
+- [x] measure and record how long it takes for the flywheel to get back up to speed after a disc is fired
 
 ### **Analysis of Data**
 
 
 ##### **Test 1 Graph**
 
-_Insert Image of secondTest Graph Here_
+![image](https://user-images.githubusercontent.com/102620185/171165553-177020b7-27bb-41ac-a13a-69132239f64f.png)
 
 Looking at the graph it's apparent that the flywheels take around 2 seconds to spin up to our desired rpms. After the desired rpm is reached it tends to fluctuate above or below our target speed by up to 50 rpm. 
 
 #### **Test 2 Graph**
 
-_Insert image of ninthTest Graph here_
+![image](https://user-images.githubusercontent.com/102620185/171165650-8db16ba6-cbae-49ef-8594-a650941eeab9.png)
 
 In this test we reduced the speed of the left flywheel to create a horizontal disc spin to prevent wobble and make shots more accurate. The left flywheel is spinning at 1500 rpm while the right is spinning at 2000 rpm. The left motor didn't take as long to reach it's full speed but the diffrence seems almost negligible. When we shot a disc through the flywheel the right one lost more speed, losing around 600 while the left motor lost around 250. The recovery time was also much shorter on our left flywheel, being around half a second while the right flywheel took around a second to recover. While I expected there to be a diffrence in the rpm loss and recovery time was to be expected, it was a surpise to me that the diffrence in numbers was that large.
 
@@ -516,7 +513,7 @@ Today we will begin testing all of the things in our end of entry thoughts from 
 
 ### **Goals for Today**
 
-- [ ] Test Different RPM Combinations with 1 Fixed at 2000 RPM
+- [x] Test Different RPM Combinations with 1 Fixed at 2000 RPM
 - [ ] Test Different Wheel Hardnesses and Combinations of Wheel Hardnesses
 - [ ] Run the Motor Overheat Tests
 - [ ] What is the best overall setup (angle, rpm, wheel hardness)
@@ -534,6 +531,30 @@ For all of these test we will do five shots at each different tested settings wi
 My inital take away before reviewing footage from this test is that with the left flywheel spinning slower the disc seems to not only go straighter but fly farther than the discs fired with the right flywheel spinning slower. Something I noticed when the right flywheel was spinning slower was that the discs began to shoot out right instantly and began curving to the left fast than the disc fired with the left flywheel moving slower curved to the right.
 
 ##### **Table of Data**
+
+||Left Flywheel RPM|Right Flywheel RPM|Stable (Y/N)|
+|---|---|---|---|
+|Test 001 A|2000|2000|N|
+|Test 001 B|1900|2000|N|
+|Test 001 C|1800|2000|N|
+|Test 001 D|1700|2000|N|
+|Test 001 E|1600|2000|Y|
+|Test 001 F|1500|2000|Y|
+|Test 001 G|1400|2000|Y|
+|Test 001 H|1300|2000|Y|
+|Test 001 I|1200|2000|Y|
+|Test 001 J|1100|2000|Y|
+|Test 001 K|1000|2000|Y|
+|Test 001 L|2000|1900|N|
+|Test 001 M|2000|1800|N|
+|Test 001 N|2000|1700|N|
+|Test 001 O|2000|1600|Y|
+|Test 001 P|2000|1500|Y|
+|Test 001 Q|2000|1400|Y|
+|Test 001 R|2000|1300|Y|
+|Test 001 S|2000|1200|Y|
+|Test 001 T|2000|1100|Y|
+|Test 001 U|2000|1000|Y|
 
 
 ##### **Take Away**
