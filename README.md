@@ -626,3 +626,23 @@ Another idea we found was an intake system using flex wheels that pushed the dis
 
 ### **End of Entry Thoughts**
 We found a lot of valuble information through different tests we ran today. Some test results, like Test 002, varied greatly from our original hypothesis. We were able to get everything we wanted to do done which allows us to move on tomorrow. We plan to continue designing intakes and building a prototype of one or more designs.
+
+
+
+
+--------
+
+
+
+## **6/1/2022 - _Intake Design_**
+Today we will design different intake systems to push discs into our launcher. We don't have much time in class today so we plan to CAD designs rather than build any designs we are able to model.
+
+
+### **Goals for Today**
+
+- [ ] Design New Intake Design
+- [ ] (If time) CAD Designs
+
+
+
+
