@@ -634,7 +634,7 @@ We found a lot of valuble information through different tests we ran today. Some
 
 
 
-## **7/28/22 -  _Returning from break/ Returning to planning_**
+## **7/28/22 -  _Returning from break / Returning to planning_**
 
 Today we came back together as a team to planning design ideas and to explore some of the rules that have changed or been updated since the last time we met.
 
