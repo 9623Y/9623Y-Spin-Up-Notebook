@@ -634,15 +634,21 @@ We found a lot of valuble information through different tests we ran today. Some
 
 
 
-### **7/28/22 returning from break/planning**
+## **7/28/22 -  _Returning from break/ Returning to planning_**
 
-#### **exploring vex rulebook**
+Today we came back together as a team to planning design ideas and to explore some of the rules that have changed or been updated since the last time we met.
 
-Today we talked about different strategies we could use to possibly get an advantage over other teams while cheking if said strategies were leagal in the rulebook. 
+### **Goals for Today** 
 
-#### **strategy #1**
+- [ ] Look over the Version 1.1 Game Manual
+- [ ] Discuss Possible Robot Ideas
+- [ ] (If Time) Begin designing intake
 
-try to get around the goal blockers by using someting to lift/flip them over
+#### **Looking over the Game Manual**
+
+
+#### **Discussing Possible Robot Ideas**
+
 
 
 
