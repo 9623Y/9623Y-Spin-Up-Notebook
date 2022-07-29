@@ -645,8 +645,8 @@ Today we came back together as a team to planning design ideas and to explore so
 - [ ] (If Time) Begin designing intake
 
 #### **Looking over the Game Manual**
-* There is now no verical expansion limit in the endgame - <SG5>
-* No trap limit in endgame - <G15>
+* There is now no verical expansion limit in the endgame - SG5
+* No trap limit in endgame - G15
 
 #### **Discussing Possible Robot Ideas**
 
