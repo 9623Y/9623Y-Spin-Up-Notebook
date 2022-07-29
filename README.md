@@ -640,7 +640,7 @@ Today we came back together as a team to planning design ideas and to explore so
 
 ### **Goals for Today** 
 
-- [ ] Look over the Version 1.1 Game Manual
+- [x] Look over the Version 1.1 Game Manual
 - [ ] Discuss Possible Robot Ideas
 - [ ] (If Time) Begin designing intake
 
@@ -648,7 +648,9 @@ Today we came back together as a team to planning design ideas and to explore so
 * There is now no verical expansion limit in the endgame - SG5
 * No trap limit in endgame - G15
 
-#### **Discussing Possible Robot Ideas**
+#### **End of Entry**
+
+We didnt get a ton don because we started rather late at night so we only got looking over the game manual but we will do some more work later in the week.
 
 
 
