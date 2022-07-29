@@ -634,14 +634,17 @@ We found a lot of valuble information through different tests we ran today. Some
 
 
 
-## **6/1/2022 - _Intake Design_**
-Today we will design different intake systems to push discs into our launcher. We don't have much time in class today so we plan to CAD designs rather than build any designs we are able to model.
+### **7/28/22 returning from break/planning**
+
+#### **exploring vex rulebook**
+
+Today we talked about different strategies we could use to possibly get an advantage over other teams while cheking if said strategies were leagal in the rulebook. 
+
+#### **strategy #1**
+
+try to get around the goal blockers by using someting to lift/flip them over
 
 
-### **Goals for Today**
-
-- [ ] Design New Intake Design
-- [ ] (If time) CAD Designs
 
 
 
