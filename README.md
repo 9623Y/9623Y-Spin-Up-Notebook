@@ -631,7 +631,7 @@ We found a lot of valuble information through different tests we ran today. Some
 
 
 --------
-
+0
 
 
 ## **7/28/22 -  _Returning from break / Returning to planning_**
@@ -645,8 +645,8 @@ Today we came back together as a team to planning design ideas and to explore so
 - [ ] (If Time) Begin designing intake
 
 #### **Looking over the Game Manual**
-* there is now no verical expansion limit in the endgame
-* no trap limit in endgame
+* There is now no verical expansion limit in the endgame - <SG5>
+* No trap limit in endgame - <G15>
 
 #### **Discussing Possible Robot Ideas**
 
