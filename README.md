@@ -1,4 +1,4 @@
-# ***SpinUp1WeekBuild-DesignContest***
+# ***9623Y Spin Up Notebook***
 
 
 
