@@ -660,7 +660,7 @@ We didnt get a ton don because we started rather late at night so we only got lo
 
 
 
-## **8/17/2022 - _Beginning Work in Class / First In-Season Team Meeting_**
+## **8/18/2022 - _Beginning Work in Class / First In-Season Team Meeting_**
 
 Today we began working in class on a drive train to mount our prototype intake on, as well as begin brainstorming and designing a intake for our robot. Today we also have our first team meeting of the season.
 
@@ -668,13 +668,33 @@ Today we began working in class on a drive train to mount our prototype intake o
 ### **Goals For Today**
 
 -[ ] Begin Building Drivetrain to Mount Prototype intake on
--[ ] Begin Brainstorming and Designing a few different prototype intakes
+-[ ] Begin brainstorming and  a few different prototype intakes
 -[ ] Figure out teams involving returning memebers during the meeting
 
 
 #### **Drivetrain for intake prototype**
 
-For our drive train we are going with a 4 motor drive with omni wheels that is 25 Wide and 30 Long. This should mimic the approximate size of our base for our final robot and should allow us to prototype a way to intergrate out Flywheel and intake together after we have designed our intake
+For our drive train we are going with a 4 motor drive with omni wheels that is 25 Wide and 30 Long. This should mimic the approximate size of our base for our final robot and should allow us to prototype a way to intergrate out Flywheel and intake together after we have designed our intake.
+
+
+#### **Possible Intake Designs**
+
+
+##### **Flex Wheel Intake**
+One option for a possible intake would be to have multiple rows of flex wheels, with the bottom row of flex wheels being smaller and able to move up at down to accomdate for the height of the disc and the orientation of the disc.
+
+
+##### **Intake Roller Intake** 
+
+###### **Row Configuration**
+Another option is to use multiple rows of intake rollers similar to how the flex wheel intake would work with the bottom row of rollers being able to move.
+
+###### **Coulum Configuration**
+A third option is to use two coulums of intake rollers on either side of the intake that 
+
+
+
+
  
 
 
