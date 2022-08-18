@@ -689,8 +689,13 @@ One option for a possible intake would be to have multiple rows of flex wheels, 
 ###### **Row Configuration**
 Another option is to use multiple rows of intake rollers similar to how the flex wheel intake would work with the bottom row of rollers being able to move.
 
-###### **Coulum Configuration**
-A third option is to use two coulums of intake rollers on either side of the intake that 
+###### **Column Configuration**
+A third option is to use two columns of intake rollers on either side of the intake, with a possible bottom row of intake rollers or flex wheels to help feed the discs to in between the columns of intake rollers.
+
+
+#### **8/18/22 Meeting Overview**
+
+
 
 
 
