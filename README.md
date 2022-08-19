@@ -739,11 +739,11 @@ The tank tread intake works by using tank tread and paddles to pull discs in. Th
 
 (Insert image Here)
 
-#### **Intake Roller RC (Row Configuration) Sketch
+#### **Intake Roller RC (Row Configuration) Sketch**
 
 (Insert Image Here)
 
-#### **Intake Roller CC (Column Configuration) Sketch
+#### **Intake Roller CC (Column Configuration) Sketch**
 
 (Insert Image Here)
 
