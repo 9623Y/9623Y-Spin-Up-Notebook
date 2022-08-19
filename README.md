@@ -667,9 +667,9 @@ Today we began working in class on a drive train to mount our prototype intake o
 
 ### **Goals For Today**
 
--[ ] Begin Building Drivetrain to Mount Prototype intake on
--[ ] Begin brainstorming and  a few different prototype intakes
--[ ] Figure out teams involving returning memebers during the meeting
+- [x] Begin Building Drivetrain to Mount Prototype intake on
+- [x] Begin brainstorming and  a few different prototype intakes
+- [x] Figure out teams involving returning memebers during the meeting
 
 
 #### **Drivetrain for intake prototype**
@@ -694,6 +694,18 @@ A third option is to use two columns of intake rollers on either side of the int
 
 
 #### **8/18/22 Meeting Overview**
+Today we spent the majority of the day organizing teams with the returning memebers, our team didn't change at all, but we are looking at the possibility of adding a freshman to our team to give us one more member we can teach to do stuff.
+
+
+#### **End of Entry**
+Today we accomplished everything we wanted to get done and are very happy with our place right now and moving forward.
+
+
+
+
+-------
+
+
 
 
 
