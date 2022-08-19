@@ -708,14 +708,29 @@ Today we accomplished everything we wanted to get done and are very happy with o
 
 
 
+## **8/19/22 - _Intake Design_**
+
+Today we found a already built drive train to use for intake prototyping so we are going to use that instead of building on for time purposes, we are also sketching the intake designs before we build them today.
 
 
+### **Goals for Today** 
+
+- [x] Contiune brainstorming possible intake ideas
+- [ ] Sketch out the intake ideas
+- [ ] (If Time) Begin Building the intakes
 
 
- 
+### **Drivetrain For Intake Prototyping**
+
+When we got into class today we were looking for something and found the base for Rhett and Tyler's spin up robot, and because all we need is a way to drive intake around we decided it would be better to just use that for the drive train for intake prototyping. This base is 35 Long and 30 Wide with 6 wheels with only 4 of the wheels being driven by motors.
 
 
+### **New Ideas for Intakes**
 
+
+#### **Tank Tread Intake**
+
+The tank tread intake works by using tank tread and paddles to pull discs in. The intake is angled slightly upwards with a peice of pelxiglass under the disc to guide it into the launcher.
 
 
 
