@@ -694,7 +694,7 @@ A third option is to use two columns of intake rollers on either side of the int
 
 
 #### **8/18/22 Meeting Overview**
-Today we spent the majority of the day organizing teams with the returning memebers, our team didn't change at all, but we are looking at the possibility of adding a freshman to our team to give us one more member we can teach to do stuff.
+Today we spent the majority of the day organizing teams with the returning members, our team didn't change at all, but we are looking at the possibility of adding a freshman to our team to give us one more member we can teach to do stuff.
 
 
 #### **End of Entry**
