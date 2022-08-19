@@ -650,7 +650,7 @@ Today we came back together as a team to planning design ideas and to explore so
 
 #### **End of Entry**
 
-We didnt get a ton don because we started rather late at night so we only got looking over the game manual but we will do some more work later in the week.
+We didnt get a ton done because we started rather late at night so we only got looking over the game manual but we will do some more work later in the week.
 
 
 
