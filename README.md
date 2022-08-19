@@ -733,4 +733,22 @@ When we got into class today we were looking for something and found the base fo
 The tank tread intake works by using tank tread and paddles to pull discs in. The intake is angled slightly upwards with a peice of pelxiglass under the disc to guide it into the launcher.
 
 
+### **Intake Concept Sketches**
+
+#### **Flex Wheel Intake Sketch**
+
+(Insert image Here)
+
+#### **Intake Roller RC (Row Configuration) Sketch
+
+(Insert Image Here)
+
+#### **Intake Roller CC (Column Configuration) Sketch
+
+(Insert Image Here)
+
+#### **Tank Tread Intake Sketch**
+
+(Insert Image Here)
+
 
