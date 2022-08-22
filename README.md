@@ -716,39 +716,92 @@ Today we found a already built drive train to use for intake prototyping so we a
 ### **Goals for Today** 
 
 - [x] Contiune brainstorming possible intake ideas
-- [ ] Sketch out the intake ideas
+- [x] Sketch out the intake ideas
 - [ ] (If Time) Begin Building the intakes
 
 
-### **Drivetrain For Intake Prototyping**
+#### **Drivetrain For Intake Prototyping**
 
 When we got into class today we were looking for something and found the base for Rhett and Tyler's spin up robot, and because all we need is a way to drive intake around we decided it would be better to just use that for the drive train for intake prototyping. This base is 35 Long and 30 Wide with 6 wheels with only 4 of the wheels being driven by motors.
 
+##### **Images of the Base**
 
-### **New Ideas for Intakes**
+![Snapchat-736651369](https://user-images.githubusercontent.com/102620185/185942969-e7989403-266a-40f0-be34-fbbae343ee40.jpg)
 
 
-#### **Tank Tread Intake**
+![Snapchat-1790966623](https://user-images.githubusercontent.com/102620185/185942988-35acb786-4855-4461-9140-b62c192d690e.jpg)
+
+
+![Snapchat-1684113494](https://user-images.githubusercontent.com/102620185/185943014-b2eae981-5061-4ca0-b9ab-9cfe5210ed6d.jpg)
+
+
+![Snapchat-1983686247](https://user-images.githubusercontent.com/102620185/185943067-6dc349ff-53c2-45fa-ab93-6ccc6a7278b6.jpg)
+
+
+![Snapchat-41641988](https://user-images.githubusercontent.com/102620185/185943099-201cb1f5-5599-4575-a652-1362805c84e2.jpg)
+
+
+#### **New Ideas for Intakes**
+
+
+##### **Tank Tread Intake**
 
 The tank tread intake works by using tank tread and paddles to pull discs in. The intake is angled slightly upwards with a peice of pelxiglass under the disc to guide it into the launcher.
 
 
-### **Intake Concept Sketches**
+#### **Intake Concept Sketches**
 
-#### **Flex Wheel Intake Sketch**
+##### **Flex Wheel Intake Sketch**
 
 (Insert image Here)
 
-#### **Intake Roller RC (Row Configuration) Sketch**
+##### **Intake Roller RC (Row Configuration) Sketch**
 
 (Insert Image Here)
 
-#### **Intake Roller CC (Column Configuration) Sketch**
+##### **Intake Roller CC (Column Configuration) Sketch**
 
 (Insert Image Here)
 
-#### **Tank Tread Intake Sketch**
+##### **Tank Tread Intake Sketch**
 
 (Insert Image Here)
+
+
+#### **End of Entry Thoughts**
+
+Today we were able to Sketch out the intakes and are at a place where we feel that we will be able to begin building intakes on Monday.
+
+
+
+
+---------
+
+
+
+
+## **8/22/2022 - _Intake Prototype Building Begins_**
+
+Today we will begin building the 4 different types of intakes, the first two we will focus on building are the tank tread intake and the flex wheel intake.
+
+
+### **Goals For Today**
+
+- [x] Begin Building Tank Tread Intake
+- [ ] Begin Building Flex Wheel Intake
+- [ ] (If Time) Begin Building Intake Roller RC Intake
+- [ ] (If Time Begin Building Intake Roller CC Intake
+
+
+#### **Intake Building**
+
+
+##### **Tank Tread Intake**
+
+
+
+##### **Flex Wheel Intake**
+
+
 
 
