@@ -806,9 +806,23 @@ Today we will begin building the 4 different types of intakes, the first two we 
 ##### **Tank Tread Intake**
 
 
+###### **Images of Tank Tread Intake**
 
-##### **Flex Wheel Intake**
+![IMG_20220822_132542](https://user-images.githubusercontent.com/102620185/185985839-faa83d0f-e681-4527-b8f2-8d9d02f5dcb3.jpg)
 
+![IMG_20220822_132550](https://user-images.githubusercontent.com/102620185/185985854-9a0e942a-6759-4ac2-835f-e8e5c3c37aab.jpg)
+
+![IMG_20220822_132557](https://user-images.githubusercontent.com/102620185/185985860-fbf074cb-6542-4ad7-b10c-0613c501976c.jpg)
+
+
+#### **End of Entry Thoughts**
+
+Today we were unable to finish as much as we would like, as we didnt get to start the Flex Wheel Intake but hopefully we will be able to begin that tomorrow as well as continue working on the tank tread intake.
+
+
+
+
+------
 
 
 
