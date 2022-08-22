@@ -753,19 +753,26 @@ The tank tread intake works by using tank tread and paddles to pull discs in. Th
 
 ##### **Flex Wheel Intake Sketch**
 
-(Insert image Here)
+
+![IMG_20220822_100521](https://user-images.githubusercontent.com/102620185/185947050-f94d49c4-26ea-483f-b40d-57310be1b409.jpg)
+
 
 ##### **Intake Roller RC (Row Configuration) Sketch**
 
-(Insert Image Here)
+
+![IMG_20220822_101700](https://user-images.githubusercontent.com/102620185/185946842-fe71a30e-b2e2-4cc4-9622-9bce3f6a42e8.jpg)
+
 
 ##### **Intake Roller CC (Column Configuration) Sketch**
 
-(Insert Image Here)
+
+![IMG_20220822_101416](https://user-images.githubusercontent.com/102620185/185947093-aefcf684-e802-417b-ac11-9c421996c3b1.jpg)
+
 
 ##### **Tank Tread Intake Sketch**
 
-(Insert Image Here)
+
+![IMG_20220822_100551](https://user-images.githubusercontent.com/102620185/185946952-62dbdf44-9757-4ded-947c-935cd75e11c7.jpg)
 
 
 #### **End of Entry Thoughts**
