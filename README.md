@@ -841,13 +841,15 @@ Today we continued discussing our intake ideas, as well as got a rough idea of t
 
 #### **Possible Problems with Intake Ideas**
 
-When beginning to build the tank tread intake, we ran into the issue of the vex tank treads being too flimsy for our application and just poor quality. Also when looking at using intake rollers for our intake we realized that the intake rollers can only take low-strenght shafts meaning that we wouldn't be able to use high-strength shafts for our intake which was a big want for us, so we ended up scraping our tank tread and intake roller intake designs and going with the flex wheel intake.
+When beginning to build the tank tread intake, we ran into the issue of the vex tank treads being too flimsy for our application and too poor quality for our ideas. Also, when looking at intake rollers for our intake roller design, we realized that the intake rollers can only work using low-strength shafts, meaning that we wouldn't be able to use high-strength shafts. High-strength shafts are a big priority for us due to the stress the robot might be under during competitions. These discoveries led us to scraping our tank tread and intake roller intake designs and going with the flex wheel intake.
 
 
 #### **Big Issue in Building the Flex Wheel Intake**
 
 When we went to begin building our Flex Wheel Intake we found that we didn't have enough of the VersaHex Adapters to make the intake so we ended up stopping there in our ventures to build an intake and give ourselves untill the next day to think of possible ways that we will be able to circumnavigate the need for VersaHex Adapters in our building of the Flex Wheel Intake.
 
+#### **Meeting the New Kids**
+We spent the meeting showing the new kids this season's game and telling them about different roles found in teams. We gained a new member, Ari, who we are hoping to show the ropes and help us during the season.
 
 #### **End of Entry Thoughts**
 
