@@ -826,4 +826,34 @@ Today we were unable to finish as much as we would like, as we didnt get to star
 
 
 
+
 ## **8/23/2022 - _Intake Prototype Day 2_**
+
+Today we continued discussing our intake ideas, as well as got a rough idea of teams and showed the new kids the basics of this years game.
+
+
+### **Goals For Today**
+
+- [x] Continue Discussing Intake Ideas
+- [x] Identify Potential Problems with the Different Intake Ideas
+- [ ] (If Time) Begin Building our First Prototype Intake
+
+
+#### **Possible Problems with Intake Ideas**
+
+When beginning to build the tank tread intake, we ran into the issue of the vex tank treads being too flimsy for our application and just poor quality. Also when looking at using intake rollers for our intake we realized that the intake rollers can only take low-strenght shafts meaning that we wouldn't be able to use high-strength shafts for our intake which was a big want for us, so we ended up scraping our tank tread and intake roller intake designs and going with the flex wheel intake.
+
+
+#### **Big Issue in Building the Flex Wheel Intake**
+
+When we went to begin building our Flex Wheel Intake we found that we didn't have enough of the VersaHex Adapters to make the intake so we ended up stopping there in our ventures to build an intake and give ourselves untill the next day to think of possible ways that we will be able to circumnavigate the need for VersaHex Adapters in our building of the Flex Wheel Intake.
+
+
+#### **End of Entry Thoughts**
+
+Today we were unable to start building our intake like we had planned to do, but we were able to learn a lot from our struggles today and we will continue to overcome our challenges in building an intake tomorrow by discussing ways to bypass the need for the VersaHex Adapters while building the intakes.
+
+
+
+
+--------
