@@ -859,3 +859,34 @@ Today we were unable to start building our intake like we had planned to do, but
 
 
 --------
+
+
+
+
+## **8/24/2022 - _Intake Problem Solving_**
+
+Today we will return to discuss our possible solutions to not having enough VersaHex Adapters to make our intake. We will also begin to build our intake if we have time to.
+
+
+### **Goals For Today**
+
+- [x] Discuss Solutions to our Problems in Building the Intake
+- [ ] (If Time) Begin Building the Intake
+
+
+#### **Possible Solutions**
+
+After looking at how many VersaHex Adapters we have, we found that we have enough to do at most 5 Flex Wheels with adapters in them, We chose to use these 10 Adapters in our larger flex wheels in our intake, these will be the 3" OD Flex Wheels of an undetermined hardness, and for our bottom row of wheels, these will be the 2" OD Flex Wheels of an undetermined hardness, we will insert a 12 tooth pinon in the center hole because it will friction fit in an stay held into place in the wheel. This is the simplest and best solution for solving our issue of not having enough VersaHex Adapters of every Flex Wheel.
+
+
+#### **End of Entry Thoughts** 
+
+Today we were able to come up with what we believe to be a viable solution to our issue, tomorrow we will hopefully be able to make our last few design decisions on our intake prototype so we can then begin to build our intake prototype.
+
+
+
+
+-------
+
+
+
