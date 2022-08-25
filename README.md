@@ -662,39 +662,39 @@ We didnt get a ton done because we started rather late at night so we only got l
 
 ## **8/18/2022 - _Beginning Work in Class / First In-Season Team Meeting_**
 
-Today we began working in class on a drive train to mount our prototype intake on, as well as begin brainstorming and designing a intake for our robot. Today we also have our first team meeting of the season.
+Today we began working in class on a drive train to mount our prototype intake on, as well as brainstorming and designing an intake for our robot. We also have our first team meeting of the season afterschool for returning members.
 
 
 ### **Goals For Today**
 
 - [x] Begin Building Drivetrain to Mount Prototype intake on
 - [x] Begin brainstorming and  a few different prototype intakes
-- [x] Figure out teams involving returning memebers during the meeting
+- [x] Figure out teams involving returning members during the meeting
 
 
 #### **Drivetrain for intake prototype**
 
-For our drive train we are going with a 4 motor drive with omni wheels that is 25 Wide and 30 Long. This should mimic the approximate size of our base for our final robot and should allow us to prototype a way to intergrate out Flywheel and intake together after we have designed our intake.
+*For our drive train we are planning on going with a 4 motor drive train with omni wheels that is 25 Wide and 30 Long. This should mimic the approximate size of our base for our final robot and should allow us to prototype a way to intergrate our Flywheel and intake together after we have designed our intake.*
 
 
 #### **Possible Intake Designs**
 
 
 ##### **Flex Wheel Intake**
-One option for a possible intake would be to have multiple rows of flex wheels, with the bottom row of flex wheels being smaller and able to move up at down to accomdate for the height of the disc and the orientation of the disc.
+One option for a possible intake would be to have multiple rows of flex wheels, with the bottom row of flex wheels being smaller and able to move up and down to accommodate for the height and oriantation of the disc.
 
 
 ##### **Intake Roller Intake** 
 
 ###### **Row Configuration**
-Another option is to use multiple rows of intake rollers similar to how the flex wheel intake would work with the bottom row of rollers being able to move.
+Another option is to use multiple rows of intake rollers that would work similar to the flex wheel intake and would use a mobile bottom row for adaptability.
 
 ###### **Column Configuration**
-A third option is to use two columns of intake rollers on either side of the intake, with a possible bottom row of intake rollers or flex wheels to help feed the discs to in between the columns of intake rollers.
+A third option is to use two columns of intake rollers on either side of the intake, with a possible bottom row of intake rollers or flex wheels to help feed the discs into the space between the columns of intake rollers.
 
 
 #### **8/18/22 Meeting Overview**
-Today we spent the majority of the day organizing teams with the returning members, our team didn't change at all, but we are looking at the possibility of adding a freshman to our team to give us one more member we can teach to do stuff.
+Today we spent the majority of the day organizing teams with the returning members, our team didn't change at all, but we are looking at the possibility of adding a freshman to our team to give us one more member to help us out and learn about robotics.
 
 
 #### **End of Entry**
@@ -710,7 +710,7 @@ Today we accomplished everything we wanted to get done and are very happy with o
 
 ## **8/19/22 - _Intake Design_**
 
-Today we found a already built drive train to use for intake prototyping so we are going to use that instead of building on for time purposes, we are also sketching the intake designs before we build them today.
+Today we found an already built drive train to use for intake prototyping so we are going to use that instead of building one for time purposes. We are also sketching the intake designs before we build them today.
 
 
 ### **Goals for Today** 
@@ -722,7 +722,7 @@ Today we found a already built drive train to use for intake prototyping so we a
 
 #### **Drivetrain For Intake Prototyping**
 
-When we got into class today we were looking for something and found the base for Rhett and Tyler's spin up robot, and because all we need is a way to drive intake around we decided it would be better to just use that for the drive train for intake prototyping. This base is 35 Long and 30 Wide with 6 wheels with only 4 of the wheels being driven by motors.
+When we got into class today we were looking for something to use as a testing base and found the base for Rhett and Tyler's Tipping Point robot. We wanted to test how an intake would function while being driven around, so an old base worked perfectly for prototyping. This base is 35 Long and 30 Wide with 6 wheels with only 4 of the wheels being driven by motors.
 
 ##### **Images of the Base**
 
@@ -746,7 +746,7 @@ When we got into class today we were looking for something and found the base fo
 
 ##### **Tank Tread Intake**
 
-The tank tread intake works by using tank tread and paddles to pull discs in. The intake is angled slightly upwards with a peice of pelxiglass under the disc to guide it into the launcher.
+The tank tread intake works by using tank tread and paddles to pull discs in. The intake is angled slightly upwards with a piece of pelxiglass under the disc to guide it into the launcher.
 
 
 #### **Intake Concept Sketches**
