@@ -896,4 +896,4 @@ Today we were able to come up with what we believe to be a viable solution to ou
 
 
 ### **Goals For Today**
--[x] Begin building base prototype
+- [x] Begin building base prototype
