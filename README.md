@@ -841,19 +841,19 @@ Today we continued discussing our intake ideas, as well as got a rough idea of t
 
 #### **Possible Problems with Intake Ideas**
 
-When beginning to build the tank tread intake, we ran into the issue of the vex tank treads being too flimsy for our application and too poor quality for our ideas. Also, when looking at intake rollers for our intake roller design, we realized that the intake rollers can only work using low-strength shafts, meaning that we wouldn't be able to use high-strength shafts. High-strength shafts are a big priority for us due to the stress the robot might be under during competitions. These discoveries led us to scraping our tank tread and intake roller intake designs and going with the flex wheel intake.
+When beginning to build the tank tread intake, we ran into the issue of the vex tank treads being too flimsy for our application and too weak for our ideas. Also, when looking at intake rollers for our intake roller design, we realized that the intake rollers can only work using low-strength shafts, meaning that we wouldn't be able to use high-strength shafts. High-strength shafts are a big priority for us due to the stress the robot might be under during competitions. These discoveries led us to scraping our tank tread and intake roller intake designs and going with the flex wheel intake.
 
 
 #### **Big Issue in Building the Flex Wheel Intake**
 
-When we went to begin building our Flex Wheel Intake we found that we didn't have enough of the VersaHex Adapters to make the intake so we ended up stopping there in our ventures to build an intake and give ourselves untill the next day to think of possible ways that we will be able to circumnavigate the need for VersaHex Adapters in our building of the Flex Wheel Intake.
+When we went to begin building our Flex Wheel Intake we found that we didn't have enough of the VersaHex Adapters to make the intake. We decided to stop there in our venture to build an intake and give ourselves until the next day to think of possible ways that we will be able to circumnavigate the need for VersaHex Adapters in our building of the Flex Wheel Intake.
 
 #### **Meeting the New Kids**
 We spent the meeting showing the new kids this season's game and telling them about different roles found in teams. We gained a new member, Ari, who we are hoping to show the ropes and help us during the season.
 
 #### **End of Entry Thoughts**
 
-Today we were unable to start building our intake like we had planned to do, but we were able to learn a lot from our struggles today and we will continue to overcome our challenges in building an intake tomorrow by discussing ways to bypass the need for the VersaHex Adapters while building the intakes.
+Today we were unable to start building our intake like we had planned to do, but we were able to learn a lot from our struggles today. We will continue to overcome our challenges in building an intake tomorrow by discussing ways to bypass the need for the VersaHex Adapters while building the intakes.
 
 
 
@@ -876,7 +876,7 @@ Today we will return to discuss our possible solutions to not having enough Vers
 
 #### **Possible Solutions**
 
-After looking at how many VersaHex Adapters we have, we found that we have enough to do at most 5 Flex Wheels with adapters in them, We chose to use these 10 Adapters in our larger flex wheels in our intake, these will be the 3" OD Flex Wheels of an undetermined hardness, and for our bottom row of wheels, these will be the 2" OD Flex Wheels of an undetermined hardness, we will insert a 12 tooth pinon in the center hole because it will friction fit in an stay held into place in the wheel. This is the simplest and best solution for solving our issue of not having enough VersaHex Adapters of every Flex Wheel.
+After looking at how many VersaHex Adapters we have, we found that we have enough to do at most 5 Flex Wheels with adapters in them. We chose to use these 10 Adapters in our larger flex wheels in our intake, which will be the 3" OD Flex Wheels of an undetermined hardness, and for our bottom row of wheels, which will be the 2" OD Flex Wheels of an undetermined hardness. We will insert a 12 tooth pinon in the center hole because it will friction fit in an stay held into place in the wheel. This is the simplest and best solution for solving our issue of not having enough VersaHex Adapters of every Flex Wheel.
 
 
 #### **End of Entry Thoughts** 
