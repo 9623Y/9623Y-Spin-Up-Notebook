@@ -891,9 +891,58 @@ Today we were able to come up with what we believe to be a viable solution to ou
 
 
 
-## **8/25/2022 -_[Placeholder]_**
+## **8/25/2022 -_Base Prototype Building Begins_**
 
-
+Today we began building a new base prototype as we found the old base unfit for our needs. We also met afterschool with the whole team to teach team members about Github who weren't knowlageable with the site.
 
 ### **Goals For Today**
 - [x] Begin building base prototype
+- [x] Show Ari and Rebecca how to use Github
+
+#### **Pre-built Base Realizations**
+
+While working with the base, we realized the pre-build base was too specialized for our needs. We aren't able to accurately test the intakes we wanted to as the results would vary from a more basic base or a base specialized to the new game.
+
+#### **New Base**
+
+The new base will be a mecanum base that is 12.5' long by 17' wide. It will use a 4-motor drivetrain as that is one of the most universal motor set ups and can be easily altered and coded.
+
+
+
+
+-------
+
+
+
+
+## **8/26/2022 -_[Placeholder]_**
+
+### **Goals For Today**
+
+
+
+
+
+
+-------
+
+
+
+
+## **8/29/2022 -_Intake Prototyping and GPS Testing_**
+
+Today we are working with the GPS built into the field. We also plan to begin building the flexwheel intake.
+
+### **Goals For Today**
+- [ ] Experiment with the GPS
+- [x] Begin Building Intake 
+
+#### **GPS Experimentation**
+
+We are using an inertial sensor and a vision sensor to help with our autonomous code and our skills code.
+
+#### **Intake Building**
+
+We are building another base identical to the previous mecanum base for the intake. We are using the other base for GPS testing and we will be able to test and alter two different things without altering either one, creating less time we have to wait till its built.
+
+
