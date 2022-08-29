@@ -907,6 +907,9 @@ While working with the base, we realized the pre-build base was too specialized 
 
 The new base will be a mecanum base that is 12.5' long by 17' wide. It will use a 4-motor drivetrain as that is one of the most universal motor set ups and can be easily altered and coded.
 
+#### **End of Entry Thoughts**
+
+Today we were able to build the prototyping base and teach members who haven't use Github much, if it all, how to format the notebook. We were also able to teach Ari how we plan to do notebook compared to one from one of last season's team. While a lot of what we learned notebook-wise is from experience, we can try to help Ari understand how notebook works by showing him mistakes from last season and how we are going to fix it this year.
 
 
 
@@ -915,12 +918,19 @@ The new base will be a mecanum base that is 12.5' long by 17' wide. It will use 
 
 
 
-## **8/26/2022 -_[Placeholder]_**
+## **8/26/2022 -_Mecanum Base Experimentation_**
+
+Today we began experimenting with the mecanum base we built yesterday.
 
 ### **Goals For Today**
+- [x] Finish building mecanum base
+- [x] Start experimenting with the mecanum base
 
+#### **Mecanum Base Testing**
+We began experimenting with the mecanum base to test different movements we might have to do during competitions. While we might have some extra weight during competitions that might change how we manuver the robot, we needed to ensure we had the range of motion needed for this season.
 
-
+#### **End of Entry Thoughts**
+We were able to test some of the manuvers we think we might have to do during competitions.
 
 
 
@@ -939,10 +949,12 @@ Today we are working with the GPS built into the field. We also plan to begin bu
 
 #### **GPS Experimentation**
 
-We are using an inertial sensor and a vision sensor to help with our autonomous code and our skills code.
+We are using an inertial sensor and a GPS sensor to help with our autonomous code and our skills code. The GPS sensor uses the patterning along the walls to know its placement in the field. The inertial sensor allows us to accuratly use turning degrees and distances, only getting more accurate with the help of the GPS sensor.
 
 #### **Intake Building**
 
 We are building another base identical to the previous mecanum base for the intake. We are using the other base for GPS testing and we will be able to test and alter two different things without altering either one, creating less time we have to wait till its built.
+
+#### **End of Entry Thoughts**
 
 
