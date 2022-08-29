@@ -918,7 +918,7 @@ Today we were able to build the prototyping base and teach members who haven't u
 
 
 
-## **8/26/2022 -_Mecanum Base Experimentation_**
+## **8/26/2022 - _Mecanum Base Experimentation_**
 
 Today we began experimenting with the mecanum base we built yesterday.
 
@@ -939,7 +939,7 @@ We were able to test some of the manuvers we think we might have to do during co
 
 
 
-## **8/29/2022 -_Intake Prototyping and GPS Testing_**
+## **8/29/2022 - _Intake Prototyping and GPS Testing_**
 
 Today we are working with the GPS built into the field. We also plan to begin building the flexwheel intake.
 
