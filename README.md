@@ -944,7 +944,7 @@ We were able to test some of the manuvers we think we might have to do during co
 Today we are working with the GPS built into the field. We also plan to begin building the flexwheel intake.
 
 ### **Goals For Today**
-- [ ] Experiment with the GPS
+- [x] Experiment with the GPS
 - [x] Begin Building Intake 
 
 #### **GPS Experimentation**
