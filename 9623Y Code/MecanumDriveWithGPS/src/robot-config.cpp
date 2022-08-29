@@ -16,7 +16,7 @@ motor rightMotorB = motor(PORT10, ratio18_1, true);
 motor_group RightDriveSmart = motor_group(rightMotorA, rightMotorB);
 inertial DrivetrainInertial = inertial(PORT3);
 smartdrive Drivetrain = smartdrive(LeftDriveSmart, RightDriveSmart, DrivetrainInertial, 319.19, 320, 40, mm, 1);
-gps GPS21 = gps(PORT21, 0.00, 0.00, mm, 180);
+gps GPS21 = gps(PORT21, 0.00, -135.00, mm, 180);
 controller Controller1 = controller(primary);
 
 // VEXcode generated functions

@@ -21,33 +21,8 @@
 
 using namespace vex;
 
-int main() {
-  vexcodeInit();
-  while (1) {
-      int turn = Controller1.Axis1.position();
-		  int power = Controller1.Axis3.position();
-		  int strafe = Controller1.Axis4.position();
-			//Maths
-		  int fl = power + turn - strafe;
-		  int rl = power + turn + strafe;
-		  int fr = power - turn + strafe;
-		  int rr = power - turn - strafe;
-      //Motor Control
-      leftMotorA.spin(forward, fl, vex::percent);
-      leftMotorB.spin(forward, rl, vex::percent);
-      rightMotorA.spin(forward, fr, vex::percent);
-      rightMotorB.spin(forward, rr, vex::percent);
-  
-  
-
-
-    Brain.Screen.print("X: %.2f", GPS21.xPosition(mm));
-    Brain.Screen.print("  Y: %.2f", GPS21.yPosition(mm));
-    Brain.Screen.newLine();
-
-  if (Controller1.ButtonA.pressing()){
-    
-    GPS21.calibrate(); //Calibrates the GPS
+int GPSDriveTo (float endingX, float endingY) {
+  GPS21.calibrate(); //Calibrates the GPS
     while (GPS21.isCalibrating()) { task::sleep(50); } //Sleeps Robot During Calibration
 
     
@@ -58,9 +33,6 @@ int main() {
     float startingX = GPS21.xPosition(mm); // Stores GPS Starting X Value
     float startingY = GPS21.yPosition(mm);; // Stores GPS Starting Y Value
 
-
-    float endingX = 0; // Stores GPS Target X Value
-    float endingY = 0; // Stores GPS Target Y Value
 
     // Maths to Figure Out the Heading the Robot Must Turn To
     float turnAngle = atan((endingX - startingX) / (endingY - startingY)) * 180 / M_PI;
@@ -76,12 +48,42 @@ int main() {
     float driveDistance = sqrt(((endingX - startingX) * (endingX - startingX)) + ((endingY - startingY) * (endingY - startingY)));
 
     // Drive the Distance Calculated
+    Drivetrain.setDriveVelocity(75, percent);
     Drivetrain.driveFor(forward, driveDistance, mm, true);
 
+return 0;
+}
+
+int main() {
+  vexcodeInit();
+  while (1) {
+      int turn = Controller1.Axis1.position();
+		  int power = Controller1.Axis3.position();
+		  int strafe = -(Controller1.Axis4.position());
+			//Maths
+		  int fl = power + turn - strafe;
+		  int rl = power + turn + strafe;
+		  int fr = power - turn + strafe;
+		  int rr = power - turn - strafe;
+      //Motor Control
+      leftMotorA.spin(forward, fl, vex::percent);
+      leftMotorB.spin(forward, rl, vex::percent);
+      rightMotorA.spin(forward, fr, vex::percent);
+      rightMotorB.spin(forward, rr, vex::percent);
+  
+  
 
 
+    Controller1.Screen.print("X: %.2f", GPS21.xPosition(mm));
+    Controller1.Screen.print("  Y: %.2f", GPS21.yPosition(mm));
+    Controller1.Screen.newLine();
 
+  if (Controller1.ButtonA.pressing()){
+    GPSDriveTo(0,0); //Call for the GPSDriveTo Function to 0,0 Cords
+  }
 
+  if (Controller1.ButtonB.pressing()){
+    GPSDriveTo(1200,1200);
   }
 
   }
