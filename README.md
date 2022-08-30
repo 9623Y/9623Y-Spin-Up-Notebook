@@ -161,7 +161,7 @@ The Base is made up of a 15x30 Steel Base Plate and two 1x2x1x30 Aluminum C-Chan
 
 ![image](https://user-images.githubusercontent.com/102620185/169158093-2a7e29fa-b61a-4f7a-ad80-71c3aca5fb21.png)
 
--Screw Placement
+- Screw Placement
 
 ![image](https://user-images.githubusercontent.com/102620185/169158126-c04b5038-d448-4146-b5ba-af1e51a57778.png) __________![image](https://user-images.githubusercontent.com/102620185/169158319-9babcb69-27a9-4af8-b119-0fdbe5745c51.png)
 
