@@ -265,7 +265,7 @@ It's quite unfortunate that there is potentially a spacing issue because I would
 
 
 
-## **5/19/2020 - _Designing a Test_**
+## **5/19/2022 - _Designing a Test_**
 
 Today we will work on coming up with a test to test the different RPMs that we could run the launcher at so that we can figure out what the most optimal RPM for the flywheels are. We will also work to come up with a gear ratio that we think will impact the speed of the flywheels after a disc is launched the least and that will get us to all the different RPMs we want through chaning the code.
 
