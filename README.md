@@ -975,7 +975,32 @@ We are building another base identical to the previous mecanum base for the inta
 
 #### **End of Entry Thoughts**
 
-8-30-22
-Team Membes: Rhett, Noly, Rebecca, Ari, and Tyler
-Goal: Start writing the intake code, start and finish write the game manual explination, start the team bios, write the notbook entry (rewite this into its own paragraph verses just a list)
-Rhett started writing the intake code. Tyler starting working on the intake base in class. Ari started working on the game manual explination. Noly did ... but had to leave early. Rebecca arrived late, and worked on the notbook entry for the day and started the team bios. Rebecca and Rhett tested and descused the high goals ability to catch the disk, by throwing a disk in by hand. They determined that if it touches the chain it has a high chance of going in, but if it touches the top of the roof it has a low chance of going in.
+
+
+-------
+
+
+
+## **8-30-22 - _Intake Day 2_**
+
+## Team Membes: Rhett, Noly, Rebecca, Ari, and Tyler
+
+Today we were able to focus on the prototype for the intake system and the notebook.
+
+## **Goals for Today** 
+
+- [x] Start writing the intake code
+- [x] Write the Game Manual Explination
+- [ ] Start Team Bios
+
+#### Intake Testing
+
+We started working on the code and the base for the intake. We also tested different angles by hand to see which might be better. We decided that if the disc hits the chain, its likely to go into the high goal, but if it hits the roof of the high goal, it has a low change of going into the goal. 
+
+#### Notebook
+
+We decided to start another repository to make the proccess of moving the notebook to a more user-friendly site easier down the line. We are organizing everything by month and then creating separate files for each day. We also used the beginning of our meeting to talk about different notebook requirement and what we can do to meet them.
+
+#### **End of Entry Thoughts**
+We were able to work on the prototype for the intake system and where we plan to aim. We were also able to get a lot done notebook-wise that can help us in the future.
+
