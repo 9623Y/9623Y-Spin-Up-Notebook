@@ -957,4 +957,7 @@ We are building another base identical to the previous mecanum base for the inta
 
 #### **End of Entry Thoughts**
 
-
+8-30-22
+Team Membes: Rhett, Noly, Rebecca, Ari, and Tyler
+Goal: Start writing the intake code, start and finish write the game manual explination, start the team bios, write the notbook entry (rewite this into its own paragraph verses just a list)
+Rhett started writing the intake code. Tyler starting working on the intake base in class. Ari started working on the game manual explination. Noly did ... but had to leave early. Rebecca arrived late, and worked on the notbook entry for the day and started the team bios. Rebecca and Rhett tested and descused the high goals ability to catch the disk, by throwing a disk in by hand. They determined that if it touches the chain it has a high chance of going in, but if it touches the top of the roof it has a low chance of going in.
