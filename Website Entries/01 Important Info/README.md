@@ -18,3 +18,14 @@ Low goal scores 1 point per(1 goal per team)
 tile scores 3 points per tile covered(36 tiles)
 The team also can gain 10 points from winning the autonomous period
 The game starts with 15 seconds autonomous period, then a 1:45 minute driver controlled period.
+
+
+### ***Scoring***
+
+|Scoring Objective| Points Rewarded |
+| :---: | :---: |
+|Disc Scored in High Goal| 5 points|
+|Disc Scored in Low Goal| 1 point|
+|Owned Roller| 10 points|
+|Each Covered Field Tile| 3 points|
+|Winner of Autonomus Bonus| 10 points|
