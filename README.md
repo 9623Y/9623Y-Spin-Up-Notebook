@@ -24,11 +24,11 @@
 - [**8/22/2022 - _Intake Prototype Building Begins_**](#8222022---intake-prototype-building-begins)
 - [**8/23/2022 - _Intake Prototype Day 2_**](#8232022---intake-prototype-day-2)
 - [**8/24/2022 - _Intake Problem Solving_**](#8242022---intake-problem-solving)
-- [**8/25/2022 -_Base Prototype Building Begins_**](#8252022--base-prototype-building-begins)
-- [**8/26/2022 -_Mecanum Base Experimentation_**](#8262022--mecanum-base-experimentation)
-- [**8/29/2022 -_Intake Prototyping and GPS Testing_**](#8292022--intake-prototyping-and-gps-testing)
-- [**8/30/22 -_Intake Prototyping Day 2_**](#83022--intake-prototyping-day-2)
-- [**8/31/2022 -_Intake Prototype Day 3_**](#8312022--intake-prototype-day-3)
+- [**8/25/2022 - _Base Prototype Building Begins_**](#8252022---base-prototype-building-begins)
+- [**8/26/2022 - _Mecanum Base Experimentation_**](#8262022---mecanum-base-experimentation)
+- [**8/29/2022 - _Intake Prototyping and GPS Testing_**](#8292022---intake-prototyping-and-gps-testing)
+- [**8/30/22 - _Intake Prototyping Day 2_**](#83022---intake-prototyping-day-2)
+- [**8/31/2022 - _Intake Prototype Day 3_**](#8312022---intake-prototype-day-3)
 
 
 
@@ -957,7 +957,7 @@ Today we were able to come up with what we believe to be a viable solution to ou
 
 
 
-## **8/25/2022 -_Base Prototype Building Begins_**
+## **8/25/2022 - _Base Prototype Building Begins_**
 
 Today we began building a new base prototype as we found the old base unfit for our needs. We also met afterschool with the whole team to teach team members about Github who weren't knowlageable with the site.
 
@@ -984,7 +984,7 @@ Today we were able to build the prototyping base and teach members who haven't u
 
 
 
-## **8/26/2022 -_Mecanum Base Experimentation_**
+## **8/26/2022 - _Mecanum Base Experimentation_**
 
 Today we began experimenting with the mecanum base we built yesterday.
 
@@ -1005,7 +1005,7 @@ We were able to test some of the manuvers we think we might have to do during co
 
 
 
-## **8/29/2022 -_Intake Prototyping and GPS Testing_**
+## **8/29/2022 - _Intake Prototyping and GPS Testing_**
 
 Today we are working with the GPS built into the field. We also plan to begin building the flexwheel intake.
 
@@ -1029,7 +1029,7 @@ We are building another base identical to the previous mecanum base for the inta
 
 
 
-## **8/30/22 -_Intake Prototyping Day 2_**
+## **8/30/22 - _Intake Prototyping Day 2_**
 
 Today we were able to focus on the prototype for the intake system and the notebook.
 
@@ -1044,7 +1044,7 @@ Today we were able to focus on the prototype for the intake system and the noteb
 ### **Goals for Today** 
 
 - [x] Start writing the intake code
-- [x] Write the Game Manual Explination
+- [x] Write the Game Manual Explanation
 - [ ] Start Team Bios
 
 #### Intake Testing
@@ -1064,7 +1064,7 @@ We were able to work on the prototype for the intake system and where we plan to
 
 
 
-## **8/31/2022 -_Intake Prototype Day 3_**
+## **8/31/2022 - _Intake Prototype Day 3_**
 
 ### Attendence
 - [x] Rhett
@@ -1074,9 +1074,9 @@ We were able to work on the prototype for the intake system and where we plan to
 - [ ] Ari
 
 ### **Goals for today**
-- [ ] Finish Base
-- [ ] (If Time) Start Building Intake
+- [x] Finish Base
 - [ ] Continue Autonoumus/Skills Testing
+- [ ] (If Time) Start Building Intake
 
 #### Intake Base
 We found that the chain would hit the screw heads on the bearing block so we put a spacer in between the sprocket and the bearing block. This will create enough distance between the chain and the screw heads to prevent them from hitting each other.
