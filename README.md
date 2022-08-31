@@ -1004,3 +1004,12 @@ We decided to start another repository to make the proccess of moving the notebo
 #### **End of Entry Thoughts**
 We were able to work on the prototype for the intake system and where we plan to aim. We were also able to get a lot done notebook-wise that can help us in the future.
 
+
+
+-------
+
+
+
+8/31/2022
+
+We put a spacer in between the bearing block and the metal to prevent the chain from hitting the screw heads.
