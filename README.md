@@ -1005,7 +1005,7 @@ We started working on the code and the base for the intake. We also tested diffe
 
 #### Notebook
 
-We decided to start another repository to make the proccess of moving the notebook to a more user-friendly site easier down the line. We are organizing everything by month and then creating separate files for each day. We also used the beginning of our meeting to talk about different notebook requirement and what we can do to meet them.
+We decided to start another repository to make the proccess of moving the notebook to a more user-friendly site easier down the line. We are organizing everything by month and then creating separate files for each day. We also used the beginning of our meeting to talk about different notebook requirement and what we can do to meet them. We realize we forgot to include attendence for our previous entries so we are including entries from this entry forward.
 
 #### **End of Entry Thoughts**
 We were able to work on the prototype for the intake system and where we plan to aim. We were also able to get a lot done notebook-wise that can help us in the future.
@@ -1026,9 +1026,9 @@ We were able to work on the prototype for the intake system and where we plan to
 - [ ] Ari
 
 ### **Goals for today**
-- [ ] Finish base
-- [ ] (if possible) Start building intake
+- [ ] Finish Base
+- [ ] (if possible) Start Building Intake
 - [ ] Continue Autonoumus/Skills Testing
 
-####
-We put a spacer in between the bearing block and the sprocket to prevent the chain from hitting the screw heads.
+#### Intake Base
+We found that the chain would hit the screw heads on the bearing block so we put a spacer in between the sprocket and the bearing block. This will create enough distance between the chain and the screw heads to prevent them from hitting each other.
