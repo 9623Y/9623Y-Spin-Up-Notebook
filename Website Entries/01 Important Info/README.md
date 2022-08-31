@@ -1,5 +1,12 @@
-# VEX Spin-Up 
+# **Important Info**
 
+
+## ***Team Bio***
+
+
+
+
+## ***Game Explanation**
 This year the competition is titled VEX: Spin-Up
 
 The field will be divided diagonally. 
