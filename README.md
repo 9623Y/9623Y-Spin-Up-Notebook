@@ -1029,7 +1029,7 @@ We were able to work on the prototype for the intake system and where we plan to
 
 ### **Goals for today**
 - [ ] Finish Base
-- [ ] (if possible) Start Building Intake
+- [ ] (If Time) Start Building Intake
 - [ ] Continue Autonoumus/Skills Testing
 
 #### Intake Base
