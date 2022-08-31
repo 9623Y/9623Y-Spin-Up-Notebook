@@ -1,6 +1,10 @@
 # ***9623Y Spin Up Notebook***
 
-- [VEX Spin-Up](#vex-spin-up)
+
+# ***Important Info & ToC*** 
+
+- [***Team Bio***](#team-bio)
+- [***Game Explanation***](#game-explanation)
 - [**5/11/22 - _The Contest Begins_**](#51122---the-contest-begins)
 - [**5/12/2022 - _Beginning Design_**](#5122022---beginning-design)
 - [**5/16/2022 - _Fusion Design Begins_**](#5162022---fusion-design-begins)
@@ -26,19 +30,36 @@
 - [**8/30/22 -_Intake Prototyping Day 2_**](#83022--intake-prototyping-day-2)
 - [**8/31/2022 -_Intake Prototype Day 3_**](#8312022--intake-prototype-day-3)
 
-## VEX Spin-Up 
 
+
+## ***Team Bio***
+
+
+
+
+## ***Game Explanation***
 This year the competition is titled VEX: Spin-Up
 
 The field will be divided diagonally. 
 
-Robots will be attepting to score discs from the field into high goals, low goals as well as at the end of the round cover as many tiles as possible. Teams may also change the color of rollers to their assigned color to gain points as well. 
+robots will be attepting to score discs from the field into high goals,low goals as well as at the end of the round cover as many tiles as possible. Teams may also change the color of rollers to their assigned color to gain points as well. 
 Rollers are worth 10 points per (4 rollers)
 High goal scores 5 points per(1 goal per team)
 Low goal scores 1 point per(1 goal per team)
 tile scores 3 points per tile covered(36 tiles)
-The team also can gain 10 points from winning the autonomous period*
+The team also can gain 10 points from winning the autonomous period
 The game starts with 15 seconds autonomous period, then a 1:45 minute driver controlled period.
+
+
+### ***Scoring***
+
+|Scoring Objective| Points Rewarded |
+| :---: | :---: |
+|Disc Scored in High Goal| 5 points|
+|Disc Scored in Low Goal| 1 point|
+|Owned Roller| 10 points|
+|Each Covered Field Tile| 3 points|
+|Winner of Autonomus Bonus| 10 points|
 
 
 
