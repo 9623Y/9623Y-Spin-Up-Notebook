@@ -1,5 +1,30 @@
 # ***9623Y Spin Up Notebook***
 
+- [VEX Spin-Up](#vex-spin-up)
+- [**5/11/22 - _The Contest Begins_**](#51122---the-contest-begins)
+- [**5/12/2022 - _Beginning Design_**](#5122022---beginning-design)
+- [**5/16/2022 - _Fusion Design Begins_**](#5162022---fusion-design-begins)
+- [**5/17/2022 - _Design Continues and Building Begins_**](#5172022---design-continues-and-building-begins)
+- [**5/18/2022 - _Prototyping Continues_**](#5182022---prototyping-continues)
+- [**5/19/2022 - _Designing a Test_**](#5192022---designing-a-test)
+- [**5/20/2022 - _Gear Ratios_**](#5202022---gear-ratios)
+- [**5/23/2022 - _Programming and Maybe Testing_**](#5232022---programming-and-maybe-testing)
+- [**5/24/2022 - _Programming and Working Towards Finalizing the Prototyping/Test Bed_**](#5242022---programming-and-working-towards-finalizing-the-prototypingtest-bed)
+- [**5/25/2022 - _Continuing Work on the Test Bed_**](#5252022---continuing-work-on-the-test-bed)
+- [**5/26/2022 - _Testing Begins_**](#5262022---testing-begins)
+- [**5/27/2022 - _Heavily Testing_**](#5272022---heavily-testing)
+- [**5/31/2022 - _Launcher Testing and Intake Design_**](#5312022---launcher-testing-and-intake-design)
+- [**7/28/22 -  _Returning from break / Returning to planning_**](#72822----returning-from-break--returning-to-planning)
+- [**8/18/2022 - _Beginning Work in Class / First In-Season Team Meeting_**](#8182022---beginning-work-in-class--first-in-season-team-meeting)
+- [**8/19/22 - _Intake Design_**](#81922---intake-design)
+- [**8/22/2022 - _Intake Prototype Building Begins_**](#8222022---intake-prototype-building-begins)
+- [**8/23/2022 - _Intake Prototype Day 2_**](#8232022---intake-prototype-day-2)
+- [**8/24/2022 - _Intake Problem Solving_**](#8242022---intake-problem-solving)
+- [**8/25/2022 -_Base Prototype Building Begins_**](#8252022--base-prototype-building-begins)
+- [**8/26/2022 -_Mecanum Base Experimentation_**](#8262022--mecanum-base-experimentation)
+- [**8/29/2022 -_Intake Prototyping and GPS Testing_**](#8292022--intake-prototyping-and-gps-testing)
+- [**8/30/22 -_Intake Prototyping Day 2_**](#83022--intake-prototyping-day-2)
+- [**8/31/2022 -_Intake Prototype Day 3_**](#8312022--intake-prototype-day-3)
 
 ## VEX Spin-Up 
 
@@ -8,7 +33,7 @@ This year the competition is titled VEX: Spin-Up
 The field will be divided diagonally. 
 
 Robots will be attepting to score discs from the field into high goals, low goals as well as at the end of the round cover as many tiles as possible. Teams may also change the color of rollers to their assigned color to gain points as well. 
-*Rollers are worth 10 points per (4 rollers)
+Rollers are worth 10 points per (4 rollers)
 High goal scores 5 points per(1 goal per team)
 Low goal scores 1 point per(1 goal per team)
 tile scores 3 points per tile covered(36 tiles)
@@ -493,7 +518,7 @@ Today we got a lot done and we are very close to being able to begin testing to 
 
 Today we're gong to finish converting our test bed to high strength axles. Once we finish converting the test bed we can begin testing and collecting data on rpm values and how long the flywheel takes to get back up to the set rpms after a disc is launched through it.
 
-## **Goals For Today**
+### **Goals For Today**
 
 - [x] Convert test bed to high strength axles.
 - [x] Collect data on different rpm values.
