@@ -936,7 +936,7 @@ Today we were able to build the prototyping base and teach members who haven't u
 
 
 
-## **8/26/2022 - _Mecanum Base Experimentation_**
+## **8/26/2022 -_Mecanum Base Experimentation_**
 
 Today we began experimenting with the mecanum base we built yesterday.
 
@@ -957,7 +957,7 @@ We were able to test some of the manuvers we think we might have to do during co
 
 
 
-## **8/29/2022 - _Intake Prototyping and GPS Testing_**
+## **8/29/2022 -_Intake Prototyping and GPS Testing_**
 
 Today we are working with the GPS built into the field. We also plan to begin building the flexwheel intake.
 
@@ -981,13 +981,19 @@ We are building another base identical to the previous mecanum base for the inta
 
 
 
-## **8-30-22 - _Intake Day 2_**
-
-## Team Membes: Rhett, Noly, Rebecca, Ari, and Tyler
+## **8/30/22 -_Intake Prototyping Day 2_**
 
 Today we were able to focus on the prototype for the intake system and the notebook.
 
-## **Goals for Today** 
+### Attendence
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [x] Rebecca
+- [x] Ari
+
+
+### **Goals for Today** 
 
 - [x] Start writing the intake code
 - [x] Write the Game Manual Explination
@@ -1010,6 +1016,19 @@ We were able to work on the prototype for the intake system and where we plan to
 
 
 
-8/31/2022
+## **8/31/2022 -_Intake Prototype Day 3_**
 
-We put a spacer in between the bearing block and the metal to prevent the chain from hitting the screw heads.
+### Attendence
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+### **Goals for today**
+- [ ] Finish base
+- [ ] (if possible) Start building intake
+- [ ] Continue Autonoumus/Skills Testing
+
+####
+We put a spacer in between the bearing block and the sprocket to prevent the chain from hitting the screw heads.
