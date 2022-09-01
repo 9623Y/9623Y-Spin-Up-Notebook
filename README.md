@@ -1107,7 +1107,6 @@ We found that the chain would hit the screw heads on the bearing block so we put
 
 
 #### **End of Entry Thoughts**
-
 Today we were unable to continue program testing for autonomous and skill or start intake building, but we were finally able to finish the base we will build our intake off of, meaning tomorrow our main goals will be to add coding entries into our notebook and begin building the intake as well as to finish and refine our game entry and team bio entries.
 
 
@@ -1150,7 +1149,7 @@ For the Code Explanation Entries the basic format will be a code block with the 
  int power = Controller1.Axis3.position();
  int strafe = -(Controller1.Axis4.position());
 ```
-This code sets the variables for reading the controller joystick values to use in motor control. The controllers axis4 position is set negative because orginally when you would strafe, pushing the joystick right would cause you to strafe left and pushing the joystick left would cause you to strafe right, setting the axis4 value negative fixed this issue.
+This code sets the variables for reading the controller joystick values to use in motor control. Orginally when you strafe pushing the joystick right would cause you to strafe left, and pushing the joystick left would cause you to strafe right, which is opposite from what we need. By setting the controller's axis4 to negative, we reverse the baseline program, which allows us to strafe the position the joystick is.
 
 
 
