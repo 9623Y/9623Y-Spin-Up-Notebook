@@ -3,32 +3,32 @@
 
 # ***Important Info & ToC*** 
 
-- [***Team Bio***](#team-bio)
-- [***Game Explanation***](#game-explanation)
-- [**5/11/22 - _The Contest Begins_**](#51122---the-contest-begins)
-- [**5/12/2022 - _Beginning Design_**](#5122022---beginning-design)
-- [**5/16/2022 - _Fusion Design Begins_**](#5162022---fusion-design-begins)
-- [**5/17/2022 - _Design Continues and Building Begins_**](#5172022---design-continues-and-building-begins)
-- [**5/18/2022 - _Prototyping Continues_**](#5182022---prototyping-continues)
-- [**5/19/2022 - _Designing a Test_**](#5192022---designing-a-test)
-- [**5/20/2022 - _Gear Ratios_**](#5202022---gear-ratios)
-- [**5/23/2022 - _Programming and Maybe Testing_**](#5232022---programming-and-maybe-testing)
-- [**5/24/2022 - _Programming and Working Towards Finalizing the Prototyping/Test Bed_**](#5242022---programming-and-working-towards-finalizing-the-prototypingtest-bed)
-- [**5/25/2022 - _Continuing Work on the Test Bed_**](#5252022---continuing-work-on-the-test-bed)
-- [**5/26/2022 - _Testing Begins_**](#5262022---testing-begins)
-- [**5/27/2022 - _Heavily Testing_**](#5272022---heavily-testing)
-- [**5/31/2022 - _Launcher Testing and Intake Design_**](#5312022---launcher-testing-and-intake-design)
-- [**7/28/22 -  _Returning from break / Returning to planning_**](#72822----returning-from-break--returning-to-planning)
-- [**8/18/2022 - _Beginning Work in Class / First In-Season Team Meeting_**](#8182022---beginning-work-in-class--first-in-season-team-meeting)
-- [**8/19/22 - _Intake Design_**](#81922---intake-design)
-- [**8/22/2022 - _Intake Prototype Building Begins_**](#8222022---intake-prototype-building-begins)
-- [**8/23/2022 - _Intake Prototype Day 2_**](#8232022---intake-prototype-day-2)
-- [**8/24/2022 - _Intake Problem Solving_**](#8242022---intake-problem-solving)
-- [**8/25/2022 - _Base Prototype Building Begins_**](#8252022---base-prototype-building-begins)
-- [**8/26/2022 - _Mecanum Base Experimentation_**](#8262022---mecanum-base-experimentation)
-- [**8/29/2022 - _Intake Prototyping and GPS Testing_**](#8292022---intake-prototyping-and-gps-testing)
-- [**8/30/22 - _Intake Prototyping Day 2_**](#83022---intake-prototyping-day-2)
-- [**8/31/2022 - _Intake Prototype Day 3_**](#8312022---intake-prototype-day-3)
+1. [***Team Bio***](#team-bio)
+2. [***Game Explanation***](#game-explanation)
+3. [**5/11/22 - _The Contest Begins_**](#51122---the-contest-begins)
+4. [**5/12/2022 - _Beginning Design_**](#5122022---beginning-design)
+5. [**5/16/2022 - _Fusion Design Begins_**](#5162022---fusion-design-begins)
+6. [**5/17/2022 - _Design Continues and Building Begins_**](#5172022---design-continues-and-building-begins)
+7. [**5/18/2022 - _Prototyping Continues_**](#5182022---prototyping-continues)
+8. [**5/19/2022 - _Designing a Test_**](#5192022---designing-a-test)
+9. [**5/20/2022 - _Gear Ratios_**](#5202022---gear-ratios)
+10. [**5/23/2022 - _Programming and Maybe Testing_**](#5232022---programming-and-maybe-testing)
+11. [**5/24/2022 - _Programming and Working Towards Finalizing the Prototyping/Test Bed_**](#5242022---programming-and-working-towards-finalizing-the-prototypingtest-bed)
+12. [**5/25/2022 - _Continuing Work on the Test Bed_**](#5252022---continuing-work-on-the-test-bed)
+13. [**5/26/2022 - _Testing Begins_**](#5262022---testing-begins)
+14. [**5/27/2022 - _Heavily Testing_**](#5272022---heavily-testing)
+15. [**5/31/2022 - _Launcher Testing and Intake Design_**](#5312022---launcher-testing-and-intake-design)
+16. [**7/28/22 -  _Returning from break / Returning to planning_**](#72822----returning-from-break--returning-to-planning)
+17. [**8/18/2022 - _Beginning Work in Class / First In-Season Team Meeting_**](#8182022---beginning-work-in-class--first-in-season-team-meeting)
+18. [**8/19/22 - _Intake Design_**](#81922---intake-design)
+19. [**8/22/2022 - _Intake Prototype Building Begins_**](#8222022---intake-prototype-building-begins)
+20. [**8/23/2022 - _Intake Prototype Day 2_**](#8232022---intake-prototype-day-2)
+21. [**8/24/2022 - _Intake Problem Solving_**](#8242022---intake-problem-solving)
+22. [**8/25/2022 - _Base Prototype Building Begins_**](#8252022---base-prototype-building-begins)
+23. [**8/26/2022 - _Mecanum Base Experimentation_**](#8262022---mecanum-base-experimentation)
+24. [**8/29/2022 - _Intake Prototyping and GPS Testing_**](#8292022---intake-prototyping-and-gps-testing)
+25. [**8/30/22 - _Intake Prototyping Day 2_**](#83022---intake-prototyping-day-2)
+26. [**8/31/2022 - _Intake Prototype Day 3_**](#8312022---intake-prototype-day-3)
 
 
 
@@ -1050,14 +1050,14 @@ Today we were able to focus on the prototype for the intake system and the noteb
 ### **Goals for Today** 
 
 - [x] Start writing the intake code
-- [x] Write the Game Manual Explanation
+- [ ] Write the Game Manual Explanation
 - [ ] Start Team Bios
 
-#### Intake Testing
+#### **Intake Testing**
 
 We started working on the code and the base for the intake. We also tested different angles by hand to see which might be better. We decided that if the disc hits the chain, its likely to go into the high goal, but if it hits the roof of the high goal, it has a low change of going into the goal. 
 
-#### Notebook
+#### ****Notebook**
 
 We decided to start another repository to make the proccess of moving the notebook to a more user-friendly site easier down the line. We are organizing everything by month and then creating separate files for each day. We also used the beginning of our meeting to talk about different notebook requirement and what we can do to meet them. We realize we forgot to include attendence for our previous entries so we are including entries from this entry forward.
 
@@ -1075,17 +1075,33 @@ We were able to work on the prototype for the intake system and where we plan to
 
 ## **8/31/2022 - _Intake Prototype Day 3_**
 
-### Attendence
+Today we hope to finish the base for our intake as well as Continue to test for autonomous and skills programming, we would also like to begin building our intake if we have time today
+
+### **Attendence**
 - [x] Rhett
 - [x] Tyler
 - [x] Noly
 - [ ] Rebecca
 - [ ] Ari
 
+
 ### **Goals for today**
 - [x] Finish Base
-- [ ] Continue Autonoumus/Skills Testing
+- [ ] Continue Autonoumous/Skills Testing
 - [ ] (If Time) Start Building Intake
 
-#### Intake Base
-We found that the chain would hit the screw heads on the bearing block so we put a spacer in between the sprocket and the bearing block. This will create enough distance between the chain and the screw heads to prevent them from hitting each other.
+
+#### **Intake Base**
+We found that the chain would hit the screw heads on the bearing block so we put a spacer in between the sprocket and the bearing block. This will create enough distance between the chain and the screw heads to prevent them from hitting each other. After the base was finished we began testing it to see how it felt to drive and how reliable it was with it being partially chain driven. We chose chain drive because it allowed us to move the motors back and free up space for the intake. After about 5 minutes of driving the chain had snapped on three seperate occasions, after a small number of adjustments, what was seemingly an unreliable drivetrain had no more issues while stress testing it. One thing that was observed from the occasions where the chain popped was that the base was still fully functional driving with only a small loss of precision. From the testing today, we are confident that chain drive will work reliably, if we continue down the same path with out final base. A major takeaway is that even on, what seems to be an off chance, our chain fails our robot isnt completely debilitated.
+
+
+##### Intake Base Images
+
+(Inset Image here)
+
+(Insert Image Here)
+
+
+#### **End of Entry Thoughts**
+
+Today we were unable to Continue testing programming for autonomous and skill or to start building an intake but were finally able to finish the base we will build our intake off of, meaning tomorrow our main goals will be to write code explanation entries in our entry and begin building the intake as well as to finish and refine our game entry and team bio entries.
