@@ -69,6 +69,12 @@ The game starts with 15 seconds autonomous period, then a 1:45 minute driver con
 
 
 
+
+# Dated Entries
+
+
+
+
 ## **5/11/22 - _The Contest Begins_**
 
 Tonight a one week build and design contest to see who can build the best disc launcher for Spin Up was announced in out Robotics team Discord server. We began working on designs as soon as we saw the announcement.
@@ -1060,7 +1066,10 @@ We were able to work on the prototype for the intake system and where we plan to
 
 
 
+
+
 -------
+
 
 
 
