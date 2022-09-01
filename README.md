@@ -29,6 +29,7 @@
 24. [**8/29/2022 - _Intake Prototyping and GPS Testing_**](#8292022---intake-prototyping-and-gps-testing)
 25. [**8/30/22 - _Intake Prototyping Day 2_**](#83022---intake-prototyping-day-2)
 26. [**8/31/2022 - _Intake Prototype Day 3_**](#8312022---intake-prototype-day-3)
+27. [**9/1/2022 - _Intake Prototype Day 4_**](#912022---intake-prototype-day-4)
 
 
 
@@ -1108,3 +1109,60 @@ We found that the chain would hit the screw heads on the bearing block so we put
 #### **End of Entry Thoughts**
 
 Today we were unable to continue program testing for autonomous and skill or start intake building, but we were finally able to finish the base we will build our intake off of, meaning tomorrow our main goals will be to add coding entries into our notebook and begin building the intake as well as to finish and refine our game entry and team bio entries.
+
+
+
+
+------
+
+
+
+
+
+## **9/1/2022 - _Intake Prototype Day 4_**
+
+Today we are going to start building the intake and write code explanation, as well as, finish and refine our game explantation and team bio entries if we have time to do so today.
+
+
+### **Attendance**
+- [x] Rhett
+- [ ] Tyler
+- [x] Noly
+- [x] Rebecca
+- [x] Ari
+
+
+### **Goals for Today**
+- [ ] Write Code Explanation
+- [ ] Start Building Intake
+- [ ] (If Time) Finish and Refine Game Explanation
+- [ ] (If Time) Finish and Refine Team Bios
+
+
+#### **Code Explanation**
+
+
+##### **Mecanum Drive Code**
+
+```cpp
+ int turn = Controller1.Axis1.position();
+ int power = Controller1.Axis3.position();
+ int strafe = -(Controller1.Axis4.position());
+```
+This code sets the variables for reading the controller joystick values to use in motor control. The controllers axis4 position is set negative because orginally when you would strafe, pushing the joystick right would cause you to strafe left and pushing the joystick left would cause you to strafe right, setting the axis4 value negative fixed this issue.
+
+```cpp
+int fl = -(power + turn - strafe);
+int rl = power + turn + strafe;
+int fr = -(power - turn + strafe);
+int rr = power - turn - strafe;
+```
+This code is for determining the amount of power to give each motor based on math using the controller values defined in the first shown code block. The fl and fr equations are set negative because the front left and front right motors spin the opposite direction of the back left and back right motors.
+
+```cpp
+leftMotorA.spin(forward, fl, vex::percent);
+leftMotorB.spin(forward, rl, vex::percent);
+rightMotorA.spin(forward, fr, vex::percent);
+rightMotorB.spin(forward, rr, vex::percent);
+```
+This code spins the motors based on the math done in the previously shown code block allowing the bot to drive based on the controller inputs given.
