@@ -1,7 +1,7 @@
 # ***9623Y Spin Up Notebook***
 
 
-# ***Important Info & ToC*** 
+# ***Important Info & ToC***
 
 1. [***Team Bio***](#team-bio)
 2. [***Game Explanation***](#game-explanation)
@@ -41,9 +41,9 @@
 ## ***Game Explanation***
 This year the competition is titled VEX: Spin-Up
 
-The field will be divided diagonally. 
+The field will be divided diagonally.
 
-robots will be attepting to score discs from the field into high goals,low goals as well as at the end of the round cover as many tiles as possible. Teams may also change the color of rollers to their assigned color to gain points as well. 
+robots will be attepting to score discs from the field into high goals,low goals as well as at the end of the round cover as many tiles as possible. Teams may also change the color of rollers to their assigned color to gain points as well.
 Rollers are worth 10 points per (4 rollers)
 High goal scores 5 points per(1 goal per team)
 Low goal scores 1 point per(1 goal per team)
@@ -297,8 +297,8 @@ The mounting point that we will mount the cylinder to is a Bevel Gearbox screwed
   - Top View
 
   ![image](https://user-images.githubusercontent.com/102620185/169177511-f853c883-4c27-4b6e-b8da-6a42acb195f8.png)
-  
-  
+
+
 ###### **Mounting the Cylinder**
 
 The Cylinder is mounted to the gearbox with the standard cylinder mounting bracket, attached to cylinder with a #8-32 x 7/8" screw with a nylock nut, screwed into the bottom row of the gearbox with two #8-32 x 1/4" screws held and nylock nuts. We chose this mounting format because it places the cylinder at about the center of the disc width and height wise meaning that it will be able to consistently push the disc straight into the flywheels.
@@ -307,7 +307,7 @@ The Cylinder is mounted to the gearbox with the standard cylinder mounting brack
 
 ![image](https://user-images.githubusercontent.com/102620185/169172020-7459bf92-7f0e-4b6c-8d91-032d7cb0b1aa.png)
 
-- Side View 
+- Side View
 
 ![image](https://user-images.githubusercontent.com/102620185/169174490-a7a6ce81-c3b3-4255-b5eb-5fa45d2caa53.png)
 
@@ -464,7 +464,7 @@ We decided to redesign the pusher on our pneumatic piston because the old one wa
 
 #### **The Bed**
 
-##### **Flexing Issues** 
+##### **Flexing Issues**
 
 There was alot of flexing in the c-channels that held our gear ratios and had our motors and flywheels mounted to them, this flexing was causing deflection in the flywheels whenever attempting to fire a disc, to fix this issue of flexing we opted to add another base plate the is screwed in between the bottom c-channels, this made our rig very rigid and almost completely prone to any kind of flexing.
 
@@ -483,8 +483,8 @@ Our discs were coming through the flywheels towards the bottom which was causing
 Today we began working on finalizing the design of our prototyping bed which means that we are getting close to being able to test our first type of flywheel system and begin to gather data on what will work and what won't work.
 
 
- 
- 
+
+
 --------
 
 
@@ -559,7 +559,7 @@ Today we're gong to finish converting our test bed to high strength axles. Once 
 
 ![image](https://user-images.githubusercontent.com/102620185/171165553-177020b7-27bb-41ac-a13a-69132239f64f.png)
 
-Looking at the graph it's apparent that the flywheels take around 2 seconds to spin up to our desired rpms. After the desired rpm is reached it tends to fluctuate above or below our target speed by up to 50 rpm. 
+Looking at the graph it's apparent that the flywheels take around 2 seconds to spin up to our desired rpms. After the desired rpm is reached it tends to fluctuate above or below our target speed by up to 50 rpm.
 
 #### **Test 2 Graph**
 
@@ -634,7 +634,7 @@ My inital take away before reviewing footage from this test is that with the lef
 I noticed that the disc tends to stabalize around when one wheel is spinning at 2000 and the other at 1600. While it does get more stable as one side is decreased, it also tends to veer more and not go as far. The veering is more noticable when the left wheel is spinning faster than the right wheel. The disc is more stabalized as the left wheel is slowed and the right wheel is kept at 2000.
 
 
-### **End of Entry Thoughts** 
+### **End of Entry Thoughts**
 
 We didn't get as much as we wanted to do today done, but we will continue to do a few more test Tuesday, then we can move on to desinging and building intakes. Today however yielded some valuable information on combinations of flywheel speeds that will greatly help us in future designing of launchers.
 
@@ -711,7 +711,7 @@ We found a lot of valuble information through different tests we ran today. Some
 
 Today we came back together as a team to planning design ideas and to explore some of the rules that have changed or been updated since the last time we met.
 
-### **Goals for Today** 
+### **Goals for Today**
 
 - [x] Look over the Version 1.1 Game Manual
 - [ ] Discuss Possible Robot Ideas
@@ -757,7 +757,7 @@ Today we began working in class on a drive train to mount our prototype intake o
 One option for a possible intake would be to have multiple rows of flex wheels, with the bottom row of flex wheels being smaller and able to move up and down to accommodate for the height and oriantation of the disc.
 
 
-##### **Intake Roller Intake** 
+##### **Intake Roller Intake**
 
 ###### **Row Configuration**
 Another option is to use multiple rows of intake rollers that would work similar to the flex wheel intake and would use a mobile bottom row for adaptability.
@@ -786,7 +786,7 @@ Today we accomplished everything we wanted to get done and are very happy with o
 Today we found an already built drive train to use for intake prototyping so we are going to use that instead of building one for time purposes. We are also sketching the intake designs before we build them today.
 
 
-### **Goals for Today** 
+### **Goals for Today**
 
 - [x] Contiune brainstorming possible intake ideas
 - [x] Sketch out the intake ideas
@@ -952,7 +952,7 @@ Today we will return to discuss our possible solutions to not having enough Vers
 After looking at how many VersaHex Adapters we have, we found that we have enough to do at most 5 Flex Wheels with adapters in them. We chose to use these 10 Adapters in our larger flex wheels in our intake, which will be the 3" OD Flex Wheels of an undetermined hardness, and for our bottom row of wheels, which will be the 2" OD Flex Wheels of an undetermined hardness. We will insert a 12 tooth pinon in the center hole because it will friction fit in an stay held into place in the wheel. This is the simplest and best solution for solving our issue of not having enough VersaHex Adapters of every Flex Wheel.
 
 
-#### **End of Entry Thoughts** 
+#### **End of Entry Thoughts**
 
 Today we were able to come up with what we believe to be a viable solution to our issue, tomorrow we will hopefully be able to make our last few design decisions on our intake prototype so we can then begin to build our intake prototype.
 
@@ -1018,7 +1018,7 @@ Today we are working with the GPS built into the field. We also plan to begin bu
 
 ### **Goals For Today**
 - [x] Experiment with the GPS
-- [x] Begin Building Intake 
+- [x] Begin Building Intake
 
 #### **GPS Experimentation**
 
@@ -1048,7 +1048,7 @@ Today we were able to focus on the prototype for the intake system and the noteb
 - [x] Ari
 
 
-### **Goals for Today** 
+### **Goals for Today**
 
 - [x] Start writing the intake code
 - [ ] Write the Game Manual Explanation
@@ -1056,7 +1056,7 @@ Today we were able to focus on the prototype for the intake system and the noteb
 
 #### **Intake Testing**
 
-We started working on the code and the base for the intake. We also tested different angles by hand to see which might be better. We decided that if the disc hits the chain, its likely to go into the high goal, but if it hits the roof of the high goal, it has a low change of going into the goal. 
+We started working on the code and the base for the intake. We also tested different angles by hand to see which might be better. We decided that if the disc hits the chain, its likely to go into the high goal, but if it hits the roof of the high goal, it has a low change of going into the goal.
 
 #### ****Notebook**
 
@@ -1133,7 +1133,7 @@ Today we are going to start building the intake and write code explanation, as w
 
 
 ### **Goals for Today**
-- [ ] Write Code Explanation
+- [x] Write Code Explanation
 - [ ] Start Building Intake
 - [ ] (If Time) Finish and Refine Game Explanation
 - [ ] (If Time) Finish and Refine Team Bios
@@ -1141,6 +1141,7 @@ Today we are going to start building the intake and write code explanation, as w
 
 #### **Code Explanation**
 
+For the Code Explanation Entries the basic format will be a code block with the description of what in that code block directly under the code block
 
 ##### **Mecanum Drive Code**
 
@@ -1151,6 +1152,8 @@ Today we are going to start building the intake and write code explanation, as w
 ```
 This code sets the variables for reading the controller joystick values to use in motor control. The controllers axis4 position is set negative because orginally when you would strafe, pushing the joystick right would cause you to strafe left and pushing the joystick left would cause you to strafe right, setting the axis4 value negative fixed this issue.
 
+
+
 ```cpp
 int fl = -(power + turn - strafe);
 int rl = power + turn + strafe;
@@ -1159,6 +1162,8 @@ int rr = power - turn - strafe;
 ```
 This code is for determining the amount of power to give each motor based on math using the controller values defined in the first shown code block. The fl and fr equations are set negative because the front left and front right motors spin the opposite direction of the back left and back right motors.
 
+
+
 ```cpp
 leftMotorA.spin(forward, fl, vex::percent);
 leftMotorB.spin(forward, rl, vex::percent);
@@ -1166,3 +1171,58 @@ rightMotorA.spin(forward, fr, vex::percent);
 rightMotorB.spin(forward, rr, vex::percent);
 ```
 This code spins the motors based on the math done in the previously shown code block allowing the bot to drive based on the controller inputs given.
+
+
+##### **Intake Toggle On/Off Code**
+
+```cpp
+bool lastKnownStateOfButtonIntake = false;
+bool shouldIntakeRun = false;
+```
+This code intitalizes the booleans that will be used to toggle the intake on and off
+
+
+
+```cpp
+//Intake Toggle On/Off Control
+
+   // check if the button's state is different from its last known state (has there been a change?)
+   if(Controller1.ButtonUp.pressing() != lastKnownStateOfButtonIntake){
+
+   //update last know state for next loop
+   lastKnownStateOfButtonIntake = Controller1.ButtonUp.pressing();
+
+    //check the new state of the button (what just happened?)
+	  if(Controller1.ButtonUp.pressing()){
+
+		//the button was just pressed - time to toggle the variable
+		  if(shouldIntakeRun == true){shouldIntakeRun = false;}
+        	else if(shouldIntakeRun == false){shouldIntakeRun = true;}
+
+            }else{
+        // the button was just released, but we don't care; do nothing
+      }
+    }
+```
+This code checks for button presses which would cause changes in the state of the "lastKnowStateOfButtonIntake" boolean to see if the "shouldIntakeRun" boolean needs to be altered from "true" to "false" or "false" to "true" because of a change in the "lastKnowStateOfButtonIntake" boolean caused by the Up Button on the Controller being pressed.
+
+
+
+```cpp
+//Intake Toggling On and Off Code
+if(shouldIntakeRun == true){ //Spins the Motor if shouldIntakeRun is equal to true
+      InRollMotor.setVelocity(200,rpm);
+      InRollMotor.spin(reverse);
+    }
+  else if(shouldIntakeRun == false){ //Stops the Motor if shouldIntakeRun is equal to false
+      InRollMotor.stop();
+    }
+    else{
+      // If Neither requirement is met do nothing
+    }
+```
+This code uses the "shouldIntakeRun" boolean to turn the intake on if the "shouldIntakeRun" boolean is set to "true" and turn the intake off if the "shouldIntakeRun" boolean is set to "false"
+
+
+#### **Building the Intake**
+
