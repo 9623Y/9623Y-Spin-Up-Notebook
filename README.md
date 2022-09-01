@@ -1097,9 +1097,12 @@ We found that the chain would hit the screw heads on the bearing block so we put
 
 ##### Intake Base Images
 
-(Inset Image here)
+- Picture of Chain Spacing Fix
+![Snapchat-132789569](https://user-images.githubusercontent.com/102620185/187935084-534ccbd0-e3f4-4ed8-9257-f0b09f21b2c4.jpg)
 
-(Insert Image Here)
+
+- Full Base Picture
+![Snapchat-1744779502](https://user-images.githubusercontent.com/102620185/187935147-c1e0bea4-bc88-4029-8e89-4aac73403a55.jpg)
 
 
 #### **End of Entry Thoughts**
