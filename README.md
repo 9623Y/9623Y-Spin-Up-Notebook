@@ -1303,3 +1303,5 @@ Today we will begin to mount the polycarb for our intake and begin to build the 
 
 
 #### **Building the Intake (_Cont._)**
+
+Statred off the meeting by discussing how the poly carb would fit and warp if connected to thet
