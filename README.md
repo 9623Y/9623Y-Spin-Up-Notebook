@@ -1266,7 +1266,7 @@ The basic idea of this intake is to use flex wheels on a slightly angled ramp to
 
 
   
-- The frame without polycarb on it
+- The frame without polycarb
 ![Snapchat-679942762](https://user-images.githubusercontent.com/102620185/188656854-1385f529-8d44-4eb7-967f-b88988be4c8d.jpg)
 
 
@@ -1302,4 +1302,4 @@ Today we will begin to mount the polycarb for our intake and begin to build the 
 - [ ] (If Time) Begin the part of the Intake that actually moves disc with flex wheels
 
 
-#### **Building the Intake (Cont.)**
+#### **Building the Intake (_Cont._)**
