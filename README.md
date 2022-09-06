@@ -1262,11 +1262,13 @@ The basic idea of this intake is to use flex wheels on a slightly angled ramp to
 ##### **Images of the Intake**
 
 - Stand-off usage to get desired angle
-  (Insert Image Here)
+![Snapchat-191558019](https://user-images.githubusercontent.com/102620185/188656821-bf0d3c7e-0b21-4a36-ba92-6aa51a793a8c.jpg)
+
 
   
 - The frame without polycarb on it
-  (Insert Image Here)
+![Snapchat-679942762](https://user-images.githubusercontent.com/102620185/188656854-1385f529-8d44-4eb7-967f-b88988be4c8d.jpg)
+
 
 
 #### **End of Entry Thought**
