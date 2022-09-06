@@ -30,6 +30,8 @@
 25. [**8/30/22 - _Intake Prototyping Day 2_**](#83022---intake-prototyping-day-2)
 26. [**8/31/2022 - _Intake Prototype Day 3_**](#8312022---intake-prototype-day-3)
 27. [**9/1/2022 - _Intake Prototype Day 4_**](#912022---intake-prototype-day-4)
+28. [**9/2/2022 - _Intake Prototype Day 5_**](#922022---intake-prototype-day-5)
+29. [**9/6/2022 - _Intake Prototyping Day 6_**](#962022---intake-prototyping-day-6)
 
 
 
@@ -1223,5 +1225,79 @@ if(shouldIntakeRun == true){ //Spins the Motor if shouldIntakeRun is equal to tr
 This code uses the "shouldIntakeRun" boolean to turn the intake on if the "shouldIntakeRun" boolean is set to "true" and turn the intake off if the "shouldIntakeRun" boolean is set to "false"
 
 
+#### **End of Entry**
+
+Today we unfortunatly unable to begin building the intake or get our game explanations and team bio written, but we will begin working on the intake tomorrow and hopefully get the team bios and game explanation written at our next meeting on the 6th.
+
+
+
+
+-------
+
+
+
+
+## **9/2/2022 - _Intake Prototype Day 5_**
+
+Today we will finally start building our intake that we are prototyping after a lot of consideration on how we were doing this and what exactly we were trying to accomplish in building this intake.
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [ ] Noly
+- [ ] Rebecca
+- [x] Ari
+
+
+### **Goals for Today**
+
+- [x] Start Building the Intake Protype
+
+
 #### **Building the Intake**
 
+The basic idea of this intake is to use flex wheels on a slightly angled ramp to bring the discs up to the launcher. Today in class, Tyler begun building the frame that the intake will be mounted on, this was done using 2 pieces of 25-long two wide aluminum angle and 1 piece of 20-long two wide steel c-channel across the top and 1 piece of 25-long two wide aluminum c-channel diagonal, to mount this frame to the base, Tyler used some interesting stand-off placement to acheieve the desired angle of the intake, although a file was needed to enlarge the hole so that the stand-off could better fit. The frame of the intake was all we were able to build but the objective next time will be to get the polycarb cut to fit our intake to use it as the ramp and then beginning to build the actual part to intake the discs with flex wheels.
+
+
+##### **Images of the Intake**
+
+- Stand-off usage to get desired angle
+  (Insert Image Here)
+
+  
+- The frame without polycarb on it
+  (Insert Image Here)
+
+
+#### **End of Entry Thought**
+
+Today we were able to finally begin building the intake like we been trying to for so long, the next time we work on the robot we will begin working towards mounting the polycarb and possibly begin building the actual intake part with the flex wheels to move the disc.
+
+
+
+
+------
+
+
+
+
+## **9/6/2022 - _Intake Prototyping Day 6_**
+
+Today we will begin to mount the polycarb for our intake and begin to build the actual part to move the discs using flex wheels if we have time today
+
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [ ] Noly
+- [x] Rebecca
+- [x] Ari
+
+
+### **Goals for Today**
+
+- [x] Mount the polycarb for the Ramp of the Itake
+- [ ] (If Time) Begin the part of the Intake that actually moves disc with flex wheels
+
+
+#### **Building the Intake (Cont.)**
