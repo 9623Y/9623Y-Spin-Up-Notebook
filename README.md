@@ -1256,7 +1256,7 @@ Today we will finally start building our intake that we are prototyping after a 
 
 #### **Building the Intake**
 
-The basic idea of this intake is to use flex wheels on a slightly angled ramp to bring the discs up to the launcher. Today in class, Tyler begun building the frame that the intake will be mounted on, this was done using 2 pieces of 25-long two wide aluminum angle and 1 piece of 20-long two wide steel c-channel across the top and 1 piece of 25-long two wide aluminum c-channel diagonal, to mount this frame to the base, Tyler used some interesting stand-off placement to acheieve the desired angle of the intake, although a file was needed to enlarge the hole so that the stand-off could better fit. The frame of the intake was all we were able to build but the objective next time will be to get the polycarb cut to fit our intake to use it as the ramp and then beginning to build the actual part to intake the discs with flex wheels.
+The basic idea of this intake is to use flex wheels on a slightly angled ramp to bring the discs up to the launcher. Today in class, Tyler begun building the frame that the intake will be mounted on, this was done using 2 pieces of 25-long two wide aluminum angle and 1 piece of 20-long two wide steel c-channel across the top and 1 piece of 25-long two wide aluminum c-channel diagonal, to mount this frame to the base, Tyler used some interesting stand-off placement to acheieve the desired angle of the intake, although a file was needed to enlarge the hole so that the stand-off could better fit. The frame of the intake was all we were able to build but the objective next time will be to get the polycarb cut to fit our intake to use it as the ramp and then beginning to build the actual part to intake the discs with flex wheels. ,,,,,,,,(What is the angel and what is the point of that specific angel compared to posibly using other angles) (Rhett said that the angle that we have is an angle that we are going to use to help test our intake and that we will test other angles in the future to help improve our robot)
 
 
 ##### **Images of the Intake**
@@ -1298,10 +1298,11 @@ Today we will begin to mount the polycarb for our intake and begin to build the 
 
 ### **Goals for Today**
 
-- [x] Mount the polycarb for the Ramp of the Itake
+- [x] work towards mountinh the polycarb for the Ramp of the Intake
 - [ ] (If Time) Begin the part of the Intake that actually moves disc with flex wheels
 
 
 #### **Building the Intake (_Cont._)**
 
-Statred off the meeting by discussing how the poly carb would fit and warp if connected to thet
+Started off the meeting by discussing how the polycarb would fit and warp if connected to the frame. Rebecca made the argument that if the polycarb was screwwed into the top of the front of the frame and the bottom of the front of the frame, then there would be a hill like formation formed in the middle of the polycarb going from left to right becase of the standoff protruding from the bottom of the frame.  Rhett made the argument that if the polycarb was screwed into the top of front of the frame and middle front of the frame and ziptied at the bottom front of the frame then with the standoff that is purtruding from the bottom of the frame will cause the poly carb to warps in an expontial curve like shape. (Noly translate) Ari had started the meeting by working on the summary of the game explination. Once he finished that he moved on to coming up with design ideas for endgame. Rhett drilled the holes in the polycarb for the screws, in order to attach it to the metal frame. Rebecca added screws into the polycarb and then everyone cleaned up. Rebecca was writing today's notebook entry as the meeting was happening.
+
