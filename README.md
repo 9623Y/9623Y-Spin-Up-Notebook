@@ -22,16 +22,17 @@
 17. [**8/18/2022 - _Beginning Work in Class / First In-Season Team Meeting_**](#8182022---beginning-work-in-class--first-in-season-team-meeting)
 18. [**8/19/22 - _Intake Design_**](#81922---intake-design)
 19. [**8/22/2022 - _Intake Prototype Building Begins_**](#8222022---intake-prototype-building-begins)
-20. [**8/23/2022 - _Intake Prototype Day 2_**](#8232022---intake-prototype-day-2)
+20. [**8/23/2022 - _Intake Prototype Design and Discussion Day 2_**](#8232022---intake-prototype-design-and-discussion-day-2)
 21. [**8/24/2022 - _Intake Problem Solving_**](#8242022---intake-problem-solving)
 22. [**8/25/2022 - _Base Prototype Building Begins_**](#8252022---base-prototype-building-begins)
 23. [**8/26/2022 - _Mecanum Base Experimentation_**](#8262022---mecanum-base-experimentation)
 24. [**8/29/2022 - _Intake Prototyping and GPS Testing_**](#8292022---intake-prototyping-and-gps-testing)
 25. [**8/30/22 - _Intake Prototyping Day 2_**](#83022---intake-prototyping-day-2)
-26. [**8/31/2022 - _Intake Prototype Day 3_**](#8312022---intake-prototype-day-3)
-27. [**9/1/2022 - _Intake Prototype Day 4_**](#912022---intake-prototype-day-4)
-28. [**9/2/2022 - _Intake Prototype Day 5_**](#922022---intake-prototype-day-5)
+26. [**8/31/2022 - _Intake Prototyping Day 3_**](#8312022---intake-prototyping-day-3)
+27. [**9/1/2022 - _Intake Prototyping Day 4_**](#912022---intake-prototyping-day-4)
+28. [**9/2/2022 - _Intake Prototyping Day 5_**](#922022---intake-prototyping-day-5)
 29. [**9/6/2022 - _Intake Prototyping Day 6_**](#962022---intake-prototyping-day-6)
+30. [**9/7/2022 - _Intake Prototyping Day 7_**](#972022---intake-prototyping-day-7)
 
 
 
@@ -902,7 +903,7 @@ Today we were unable to finish as much as we would like, as we didnt get to star
 
 
 
-## **8/23/2022 - _Intake Prototype Day 2_**
+## **8/23/2022 - _Intake Prototype Design and Discussion Day 2_**
 
 Today we continued discussing our intake ideas, as well as got a rough idea of teams and showed the new kids the basics of this years game.
 
@@ -1076,7 +1077,7 @@ We were able to work on the prototype for the intake system and where we plan to
 
 
 
-## **8/31/2022 - _Intake Prototype Day 3_**
+## **8/31/2022 - _Intake Prototyping Day 3_**
 
 Today we hope to finish the base for our intake as well as Continue to test for autonomous and skills programming, we would also like to begin building our intake if we have time today
 
@@ -1120,7 +1121,7 @@ Today we were unable to continue program testing for autonomous and skill or sta
 
 
 
-## **9/1/2022 - _Intake Prototype Day 4_**
+## **9/1/2022 - _Intake Prototyping Day 4_**
 
 Today we are going to start building the intake and write code explanation, as well as, finish and refine our game explantation and team bio entries if we have time to do so today.
 
@@ -1237,7 +1238,7 @@ Today we unfortunatly unable to begin building the intake or get our game explan
 
 
 
-## **9/2/2022 - _Intake Prototype Day 5_**
+## **9/2/2022 - _Intake Prototyping Day 5_**
 
 Today we will finally start building our intake that we are prototyping after a lot of consideration on how we were doing this and what exactly we were trying to accomplish in building this intake.
 
@@ -1302,7 +1303,43 @@ Today we will begin to mount the polycarb for our intake and begin to build the 
 - [ ] (If Time) Begin the part of the Intake that actually moves disc with flex wheels
 
 
-#### **Building the Intake (_Cont._)**
+#### **Building the Intake _(Cont.)_**
 
 Started off the meeting by discussing how the polycarb would fit and warp if connected to the frame. Rebecca made the argument that if the polycarb was screwwed into the top of the front of the frame and the bottom of the front of the frame, then there would be a hill like formation formed in the middle of the polycarb going from left to right becase of the standoff protruding from the bottom of the frame.  Rhett made the argument that if the polycarb was screwed into the top of front of the frame and middle front of the frame and ziptied at the bottom front of the frame then with the standoff that is purtruding from the bottom of the frame will cause the poly carb to warps in an expontial curve like shape. (Noly translate) Ari had started the meeting by working on the summary of the game explination. Once he finished that he moved on to coming up with design ideas for endgame. Rhett drilled the holes in the polycarb for the screws, in order to attach it to the metal frame. Rebecca added screws into the polycarb and then everyone cleaned up. Rebecca was writing today's notebook entry as the meeting was happening.
+
+
+#### **End of Entry Thoughts**
+
+Today we weren't exactly able to get the polycarb mounted but we will hopefully get it mounted tomorrow and be able to begin working on the flex wheel rollers for the intake.
+
+
+
+
+-------
+
+
+
+
+## **9/7/2022 - _Intake Prototyping Day 7_**
+
+Today we are going to finish mounting the polycarb to the ramp and then begin on building the flex wheel rollers to bring the Discs up the ramp
+
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [ ] Noly
+- [ ] Rebecca
+- [x] Ari
+
+
+### **Goals For Today**
+
+- [x] Mount the Polycarb Ramp
+- [ ] Begin Working on the Flex Wheel Rollers
+
+
+#### **Building the Intake _(Cont.)_**
+
+
 
