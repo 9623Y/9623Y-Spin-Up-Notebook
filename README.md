@@ -1105,12 +1105,12 @@ We found that the chain would hit the screw heads on the bearing block so we put
 ##### Intake Base Images
 
 - Picture of Chain Spacing Fix
-![Snapchat-132789569](https://user-images.githubusercontent.com/102620185/187935084-534ccbd0-e3f4-4ed8-9257-f0b09f21b2c4.jpg)
-
+  
+<img src="https://user-images.githubusercontent.com/102620185/187935084-534ccbd0-e3f4-4ed8-9257-f0b09f21b2c4.jpg" height = "300">
 
 - Full Base Picture
-![Snapchat-1744779502](https://user-images.githubusercontent.com/102620185/187935147-c1e0bea4-bc88-4029-8e89-4aac73403a55.jpg)
 
+<img src="https://user-images.githubusercontent.com/102620185/187935147-c1e0bea4-bc88-4029-8e89-4aac73403a55.jpg" height = "450">
 
 #### **End of Entry Thoughts**
 Today we were unable to continue program testing for autonomous and skill or start intake building, but we were finally able to finish the base we will build our intake off of, meaning tomorrow our main goals will be to add coding entries into our notebook and begin building the intake as well as to finish and refine our game entry and team bio entries.
@@ -1260,24 +1260,30 @@ Today we will finally start building our intake that we are prototyping after a 
 
 #### **Building the Intake**
 
-The basic idea of this intake is to use flex wheels on a slightly angled ramp to bring the discs up to the launcher. Today in class, Tyler begun building the frame that the intake will be mounted on, this was done using 2 pieces of 25-long two wide aluminum angle and 1 piece of 20-long two wide steel c-channel across the top and 1 piece of 25-long two wide aluminum c-channel diagonal, to mount this frame to the base, Tyler used some interesting stand-off placement to acheieve the desired angle of the intake, although a file was needed to enlarge the hole so that the stand-off could better fit. The frame of the intake was all we were able to build but the objective next time will be to get the polycarb cut to fit our intake to use it as the ramp and then beginning to build the actual part to intake the discs with flex wheels. ,,,,,,,,(What is the angel and what is the point of that specific angel compared to posibly using other angles) (Rhett said that the angle that we have is an angle that we are going to use to help test our intake and that we will test other angles in the future to help improve our robot)
+The basic idea of this intake is to use flex wheels on a slightly angled ramp to bring the discs up to the launcher. Today in class, Tyler begun building the frame that the intake will be mounted on. 
 
+This was done using 2 pieces of 25-long two wide aluminum angle and 1 piece of 20-long two wide steel c-channel across the top and 1 piece of 25-long two wide aluminum c-channel diagonal. To mount this frame to the base, Tyler used some interesting stand-off placement to acheieve the desired angle of the intake, although a file was needed to enlarge the hole so that the stand-off could better fit. 
+
+The frame of the intake was all we were able to build but the objective next time will be to get the polycarb cut to fit our intake to use it as the ramp and then beginning to build the actual part to intake the discs with flex wheels. 
+
+We decided to mount it at an angle to smoothen the ascent and cause less stress on the intake motors. We put it at a random angle just to test and see if it would work. We plan to test different angles in the future if we find that this angle doesn't work.
 
 ##### **Images of the Intake**
 
 - Stand-off usage to get desired angle
-![Snapchat-191558019](https://user-images.githubusercontent.com/102620185/188656821-bf0d3c7e-0b21-4a36-ba92-6aa51a793a8c.jpg)
+
+<img src="https://user-images.githubusercontent.com/102620185/188656821-bf0d3c7e-0b21-4a36-ba92-6aa51a793a8c.jpg" height = "500">
 
 
   
 - The frame without polycarb
-![Snapchat-679942762](https://user-images.githubusercontent.com/102620185/188656854-1385f529-8d44-4eb7-967f-b88988be4c8d.jpg)
-
+  
+<img src="https://user-images.githubusercontent.com/102620185/188656854-1385f529-8d44-4eb7-967f-b88988be4c8d.jpg" height = "500">
 
 
 #### **End of Entry Thought**
 
-Today we were able to finally begin building the intake like we been trying to for so long, the next time we work on the robot we will begin working towards mounting the polycarb and possibly begin building the actual intake part with the flex wheels to move the disc.
+Today we were able to finally begin building the intake. The next time we work on the robot we will begin working towards mounting the polycarb and possibly begin building the actual intake with the flex wheels to move the disc.
 
 
 
@@ -1289,7 +1295,7 @@ Today we were able to finally begin building the intake like we been trying to f
 
 ## **9/6/2022 - _Intake Prototyping Day 6_**
 
-Today we will begin to mount the polycarb for our intake and begin to build the actual part to move the discs using flex wheels if we have time today
+Today we will begin to mount the polycarb for our intake and begin to build the actual part to move the discs using flex wheels if we have time today.
 
 
 ### **Attendance**
@@ -1302,13 +1308,19 @@ Today we will begin to mount the polycarb for our intake and begin to build the 
 
 ### **Goals for Today**
 
-- [x] work towards mountinh the polycarb for the Ramp of the Intake
+- [x] Work towards mounting the polycarb for the Ramp of the Intake
 - [ ] (If Time) Begin the part of the Intake that actually moves disc with flex wheels
 
 
 #### **Building the Intake _(Cont.)_**
 
-Started off the meeting by discussing how the polycarb would fit and warp if connected to the frame. Rebecca made the argument that if the polycarb was screwwed into the top of the front of the frame and the bottom of the front of the frame, then there would be a hill like formation formed in the middle of the polycarb going from left to right becase of the standoff protruding from the bottom of the frame.  Rhett made the argument that if the polycarb was screwed into the top of front of the frame and middle front of the frame and ziptied at the bottom front of the frame then with the standoff that is purtruding from the bottom of the frame will cause the poly carb to warps in an expontial curve like shape. (Noly translate) Ari had started the meeting by working on the summary of the game explination. Once he finished that he moved on to coming up with design ideas for endgame. Rhett drilled the holes in the polycarb for the screws, in order to attach it to the metal frame. Rebecca added screws into the polycarb and then everyone cleaned up. Rebecca was writing today's notebook entry as the meeting was happening.
+We started off the meeting by discussing how the polycarb would fit and warp if connected to the frame. 
+
+Rebecca made the argument that if the polycarb was screwed into the top and bottom on the front of the frame, then there would be a bump in the middle of the polycarb going from left to right because of the standoff protruding from the bottom of the frame. 
+
+Rhett made the argument that if the polycarb was screwed into the top and middle on the front of the frame, then ziptied at the bottom front of the frame, the standoff that is purtruding from the bottom will cause the polycarb to warp.
+ 
+Ari started the meeting by working on the summary of the game explination and worked on endgame design ideas. Rhett drilled holes into the polycarb for screws to attach it to the metal frame. Rebecca added screws into the polycarb and then everyone cleaned up. Rebecca was writing today's notebook entry as the meeting was happening.
 
 
 #### **End of Entry Thoughts**
@@ -1373,10 +1385,10 @@ Today we will begin looking at redesign possibilities for our intake and then ho
 
 
 ### **Goals for Today**
-
--[x] Begin Redesigning Intake
--[ ] Finish Game Explanation
--[ ] Finish Team Bios 
+- [x] Begin Redesigning Intake  
+- [ ] Finish Game Explanation  
+- [ ] Finish Team Bios  
+- [ ] (If Time) Begin Building Intake
 
 
 
