@@ -33,6 +33,7 @@
 28. [**9/2/2022 - _Intake Prototyping Day 5_**](#922022---intake-prototyping-day-5)
 29. [**9/6/2022 - _Intake Prototyping Day 6_**](#962022---intake-prototyping-day-6)
 30. [**9/7/2022 - _Intake Prototyping Day 7_**](#972022---intake-prototyping-day-7)
+31. [**9/8/2022 - _Intake Prototyping Day 8_**](#982022---intake-prototyping-day-8)
 
 
 
