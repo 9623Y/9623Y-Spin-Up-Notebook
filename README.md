@@ -1343,5 +1343,41 @@ Today we are going to finish mounting the polycarb to the ramp and then begin on
 
 #### **Building the Intake _(Cont.)_**
 
+Today we were able to finish mounting the polycarb for the ramp but we were unhappy with how the ramp turned out so instead of our design we have been working towards coming up with a new design idea, our polycarb cracking while trying to mount the ramp so wehen that happened we began looking into other alternatives for our intake design
+
+
+#### **End of Entry Thoughts** 
+
+We ended up having issues with mounting our intake so we are being led to redesign our intake, we believe that the redesign of our intake will make meshing our intake and shooting mechanism together a much easier task.
+
+
+
+
+------
+
+
+
+
+## **9/8/2022 - _Intake Prototyping Day 8_**
+
+Today we will begin looking at redesign possibilities for our intake and then hopefully begin designing the new intake we are going to build.
+
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [x] Rebecca
+- [x] Ari
+
+
+### **Goals for Today**
+
+-[x] Begin Redesigning Intake
+-[ ] Finish Game Explanation
+-[ ] Finish Team Bios 
+
+
+
 
 
