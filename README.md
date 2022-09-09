@@ -466,7 +466,8 @@ We decided to redesign the pusher on our pneumatic piston because the old one wa
 
 - Image of New Pneumatic Pusher Device
 
-![Snapchat-1389870806](https://user-images.githubusercontent.com/102620185/171167628-6cb88f8b-64e3-406a-8b0f-cd6a603b9734.jpg)
+
+<img src="https://user-images.githubusercontent.com/102620185/171167628-6cb88f8b-64e3-406a-8b0f-cd6a603b9734.jpg" height = "500">
 
 #### **The Bed**
 
@@ -481,7 +482,7 @@ Our discs were coming through the flywheels towards the bottom which was causing
 
 - Image of Solution for the discs hitting the Flywheel too low
 
-![Snapchat-92939264](https://user-images.githubusercontent.com/102620185/171167484-1d1cb8a3-f15e-46c1-8ab6-5ada45500a67.jpg)
+<img src="https://user-images.githubusercontent.com/102620185/171167484-1d1cb8a3-f15e-46c1-8ab6-5ada45500a67.jpg" height = "500">
 
 
 ### **End of Entry Thoughts**
@@ -516,7 +517,7 @@ When we went to mount the pneumatic pusher we designed yesterday we found out th
 
 - Image of Pnuematic Pusher Mount
 
-![Snapchat-607726671](https://user-images.githubusercontent.com/102620185/171167272-6c0dc82e-38db-4b2a-88d9-b2c40d027b10.jpg)
+<img src="https://user-images.githubusercontent.com/102620185/171167272-6c0dc82e-38db-4b2a-88d9-b2c40d027b10.jpg" height = "500"> 
 
 
 #### **Bed Rigidity**
@@ -533,7 +534,7 @@ We also decide to convert the axles for the flywheel system to high strength axl
 
 -Image of High Strength Axle gear ratio
 
-![Snapchat-1892870560](https://user-images.githubusercontent.com/102620185/171167555-628fe186-0d48-4a47-b999-64921d0a07bb.jpg)
+<img src = "https://user-images.githubusercontent.com/102620185/171167555-628fe186-0d48-4a47-b999-64921d0a07bb.jpg" height = "500">
 
 
 ### **End of Entry Thoughts**
@@ -805,20 +806,13 @@ When we got into class today we were looking for something to use as a testing b
 
 ##### **Images of the Base**
 
-![Snapchat-736651369](https://user-images.githubusercontent.com/102620185/185942969-e7989403-266a-40f0-be34-fbbae343ee40.jpg)
+<img src = "https://user-images.githubusercontent.com/102620185/185942969-e7989403-266a-40f0-be34-fbbae343ee40.jpg" height = "450">
+<img src = "https://user-images.githubusercontent.com/102620185/185942988-35acb786-4855-4461-9140-b62c192d690e.jpg" height = "450">
+<img src = "https://user-images.githubusercontent.com/102620185/185943014-b2eae981-5061-4ca0-b9ab-9cfe5210ed6d.jpg" height = "450">
 
 
-![Snapchat-1790966623](https://user-images.githubusercontent.com/102620185/185942988-35acb786-4855-4461-9140-b62c192d690e.jpg)
-
-
-![Snapchat-1684113494](https://user-images.githubusercontent.com/102620185/185943014-b2eae981-5061-4ca0-b9ab-9cfe5210ed6d.jpg)
-
-
-![Snapchat-1983686247](https://user-images.githubusercontent.com/102620185/185943067-6dc349ff-53c2-45fa-ab93-6ccc6a7278b6.jpg)
-
-
-![Snapchat-41641988](https://user-images.githubusercontent.com/102620185/185943099-201cb1f5-5599-4575-a652-1362805c84e2.jpg)
-
+<img src = "https://user-images.githubusercontent.com/102620185/185943067-6dc349ff-53c2-45fa-ab93-6ccc6a7278b6.jpg" height = "450">
+<img src = "https://user-images.githubusercontent.com/102620185/185943099-201cb1f5-5599-4575-a652-1362805c84e2.jpg" height = "450">
 
 #### **New Ideas for Intakes**
 
@@ -833,26 +827,22 @@ The tank tread intake works by using tank tread and paddles to pull discs in. Th
 ##### **Flex Wheel Intake Sketch**
 
 
-![IMG_20220822_100521](https://user-images.githubusercontent.com/102620185/185947050-f94d49c4-26ea-483f-b40d-57310be1b409.jpg)
-
+<img src = "https://user-images.githubusercontent.com/102620185/185947050-f94d49c4-26ea-483f-b40d-57310be1b409.jpg" height = "450">
 
 ##### **Intake Roller RC (Row Configuration) Sketch**
 
 
-![IMG_20220822_101700](https://user-images.githubusercontent.com/102620185/185946842-fe71a30e-b2e2-4cc4-9622-9bce3f6a42e8.jpg)
-
+<img src = "https://user-images.githubusercontent.com/102620185/185946842-fe71a30e-b2e2-4cc4-9622-9bce3f6a42e8.jpg" height = "450">
 
 ##### **Intake Roller CC (Column Configuration) Sketch**
 
 
-![IMG_20220822_101416](https://user-images.githubusercontent.com/102620185/185947093-aefcf684-e802-417b-ac11-9c421996c3b1.jpg)
-
+<img src = "https://user-images.githubusercontent.com/102620185/185947093-aefcf684-e802-417b-ac11-9c421996c3b1.jpg" height = "450">
 
 ##### **Tank Tread Intake Sketch**
 
 
-![IMG_20220822_100551](https://user-images.githubusercontent.com/102620185/185946952-62dbdf44-9757-4ded-947c-935cd75e11c7.jpg)
-
+<img src = "https://user-images.githubusercontent.com/102620185/185946952-62dbdf44-9757-4ded-947c-935cd75e11c7.jpg" height = "450">
 
 #### **End of Entry Thoughts**
 
@@ -887,11 +877,9 @@ Today we will begin building the 4 different types of intakes, the first two we 
 
 ###### **Images of Tank Tread Intake**
 
-![IMG_20220822_132542](https://user-images.githubusercontent.com/102620185/185985839-faa83d0f-e681-4527-b8f2-8d9d02f5dcb3.jpg)
-
-![IMG_20220822_132550](https://user-images.githubusercontent.com/102620185/185985854-9a0e942a-6759-4ac2-835f-e8e5c3c37aab.jpg)
-
-![IMG_20220822_132557](https://user-images.githubusercontent.com/102620185/185985860-fbf074cb-6542-4ad7-b10c-0613c501976c.jpg)
+<img src = "https://user-images.githubusercontent.com/102620185/185985839-faa83d0f-e681-4527-b8f2-8d9d02f5dcb3.jpg" height = "450">
+<img src = "https://user-images.githubusercontent.com/102620185/185985854-9a0e942a-6759-4ac2-835f-e8e5c3c37aab.jpg" height = "450">
+<img src = "https://user-images.githubusercontent.com/102620185/185985860-fbf074cb-6542-4ad7-b10c-0613c501976c.jpg" height = "450">
 
 
 #### **End of Entry Thoughts**
