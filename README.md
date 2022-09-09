@@ -1409,4 +1409,4 @@ After making little to no progress with our current intake idea, we ultimately d
 
 
 #### Next Meeting
-We are planning to meet outside of school so we had to gather the equipment we would need ahead of time.
+We are planning to meet outside of school so we had to gather the equipment we would need ahead of time. We found that we would like to spend more time on certain things, like the intake we just decided to redesign. We would like to get it done sooner rather than later to allow for more time later to work on other things.
