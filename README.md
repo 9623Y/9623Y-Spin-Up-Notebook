@@ -34,6 +34,7 @@
 29. [**9/6/2022 - _Intake Prototyping Day 6_**](#962022---intake-prototyping-day-6)
 30. [**9/7/2022 - _Intake Prototyping Day 7_**](#972022---intake-prototyping-day-7)
 31. [**9/8/2022 - _Intake Prototyping Day 8_**](#982022---intake-prototyping-day-8)
+32. [**9/9/2022 - _Intake Prototyping Day 9_**](#992022---intake-prototyping-day-9)
 
 
 
@@ -1308,7 +1309,7 @@ Rebecca made the argument that if the polycarb was screwed into the top and bott
 
 Rhett made the argument that if the polycarb was screwed into the top and middle on the front of the frame, then ziptied at the bottom front of the frame, the standoff that is purtruding from the bottom will cause the polycarb to warp.
  
-Ari started the meeting by working on the summary of the game explination and worked on endgame design ideas. Rhett drilled holes into the polycarb for screws to attach it to the metal frame. Rebecca added screws into the polycarb and then everyone cleaned up. Rebecca was writing today's notebook entry as the meeting was happening.
+Ari started the meeting by working on the summary of the game explination and worked on endgame design ideas. Rhett drilled holes into the polycarb for screws to attach it to the metal frame and we were able to attach it to the frame before we left.
 
 
 #### **End of Entry Thoughts**
@@ -1379,6 +1380,33 @@ Today we will begin looking at redesign possibilities for our intake and then ho
 - [ ] (If Time) Begin Building Intake
 
 
+#### Intake Redesign
+After making little to no progress with our current intake idea, we ultimately decided to completely restart from scratch. After sharing ideas for a bit we came up with a couple concepts that we will mix together to ultimately make a better robot and better design. Our leading intake design right now is different from our original design. We also have a basis for a loader that will push the discs into our launcher. We will go more in depth with these designs as they are being built.
+
+#### **End of Entry Thoughts**
 
 
 
+
+-------
+
+
+
+
+## **9/9/2022 - _Intake Prototyping Day 9_**
+
+[First Sentence]
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+### **Goals for Today**
+- [ ] Gather Equipment for Weekend Meeting
+
+
+#### Next Meeting
+We are planning to meet outside of school so we had to gather the equipment we would need ahead of time.
