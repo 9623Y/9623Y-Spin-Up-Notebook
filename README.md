@@ -35,6 +35,9 @@
 30. [**9/7/2022 - _Intake Prototyping Day 7_**](#972022---intake-prototyping-day-7)
 31. [**9/8/2022 - _Intake Prototyping Day 8_**](#982022---intake-prototyping-day-8)
 32. [**9/9/2022 - _Intake Prototyping Day 9_**](#992022---intake-prototyping-day-9)
+33. [**9/10/2022 - _Intake Prototyping Day 10_**](#9102022---intake-prototyping-day-10)
+34. [**9/11/2022 - _Intake Prototyping Day 11_**](#9112022---intake-prototyping-day-11)
+35. [**9/12/2022 - _Intake Prototyping Day 12_**](#9122022---intake-prototyping-day-12)
 
 
 
@@ -1375,15 +1378,18 @@ Today we will begin looking at redesign possibilities for our intake and then ho
 
 ### **Goals for Today**
 - [x] Begin Redesigning Intake  
-- [ ] Finish Game Explanation  
-- [ ] Finish Team Bios  
+- [ ] Work on Game Explanation  
+- [ ] Work on Team Bios  
 - [ ] (If Time) Begin Building Intake
 
 
-#### Intake Redesign
+#### **Intake Redesign**
+
 After making little to no progress with our current intake idea, we ultimately decided to completely restart from scratch. After sharing ideas for a bit we came up with a couple concepts that we will mix together to ultimately make a better robot and better design. Our leading intake design right now is different from our original design. We also have a basis for a loader that will push the discs into our launcher. We will go more in depth with these designs as they are being built.
 
 #### **End of Entry Thoughts**
+
+Today we were able to begin redesigning our intake and we have the basic idea for what we want to do down, and tomorrow we will be able to begin working towards building our new intake design.
 
 
 
@@ -1395,7 +1401,7 @@ After making little to no progress with our current intake idea, we ultimately d
 
 ## **9/9/2022 - _Intake Prototyping Day 9_**
 
-[First Sentence]
+Today we will get started on building our intake, we also decided that we wanted to work on the robot some over the weekend so we will spend part of the day gathering supplies that we will need to build some of the intake over the weekend.
 
 ### **Attendance**
 - [x] Rhett
@@ -1405,8 +1411,100 @@ After making little to no progress with our current intake idea, we ultimately d
 - [ ] Ari
 
 ### **Goals for Today**
-- [ ] Gather Equipment for Weekend Meeting
+- [x] Begin Working on the Intake
+- [x] Gather Equipment for Weekend Meeting
 
 
-#### Next Meeting
+#### **Intake Redesign Building**
+
+Today we were able to get part of the frame built and the holes mark for drilling out the metal for the high strength axles that we will use for our intake. This allowed us a good basis for knowing what we would need to take home over the weekend, as well as, give us a good understanding of how the intake should work and be built.
+
+
+#### **Next Meeting**
+
 We are planning to meet outside of school so we had to gather the equipment we would need ahead of time. We found that we would like to spend more time on certain things, like the intake we just decided to redesign. We would like to get it done sooner rather than later to allow for more time later to work on other things.
+
+
+#### **End of Entry Thoughts**
+
+Though we didnt get a lot done on the robot today we were able to get the supplies we need to work on the robot a good deal over the weekend and the work we did get done allowed us to gain a better understanding of the intake that we are hoping to build. Tomorrow we will be able to get the high-strength axle holes drilled and then hopefully be able to work on getting the frame mounted to the base and start figuring out driving the axles for the intake.  
+
+
+
+
+-------
+
+
+
+
+## **9/10/2022 - _Intake Prototyping Day 10_**
+
+Today we will drill the high-strength axle holes and the we will work towards mounting the frame of the intake to the base and figuring out how to drive the axles that the flex wheels for the intake will be on.
+
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [ ] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+### **Goals for Today**
+- [x] Drill the High-Strength Axle Holes
+- [x] Mount the Frame of the Intake to the Base
+- [x] Figure out how to Drive the Axles of the Intake
+
+
+#### **Intake Redesign Building _(Cont.)_**
+
+The first thing we did today was drill the holes for the high-strength axles to run through, then we began working on mounting the frame of the intake to our prototype base, once we got that done, we working on finding the correct spacing between where our ramp would be and where our flex wheels would be, we were unable to decide on spacing because our intake had to be hand driven because we werent finish and hadn't mounted motors, we decided we would come back to figuring out spacing when our intake was closer to being finished. For driving the axles of the intake we decided that using chain would be our best bet because it would take up the least amount of space, use the least amount of axles, and we could make it so that our bottom row of intake wheels would be able to index if we found some way to build a tensioner for the chain to stay taught so it doesn't slip off the sprocket.
+
+
+#### **End of Entry Thoughts**
+
+Happy with what we had managed to accomplish we decided that we were done for the day and that we would return tomorrow to continue working on our intake build.
+
+
+
+
+------
+
+
+
+
+## **9/11/2022 - _Intake Prototyping Day 11_**
+
+Today we decided that we would spend the day figuring out the bottom row of the intake and figuring out how to make it properly index withough moving to much and allowing it to return to the proper position.
+
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [ ] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+
+### **Goals for Today**
+-[x] Figure out How to Build the Indexing Bottom Row
+
+
+#### **Intake Redesign Building _(Cont.)_**
+
+For having the bottom row to be able to index we decided on mounting the axle on a piece of c-channel that is attached to a stand-off that is on a shaft-collar-stand-off joint, with the shaft collar joint attached to the robot on a screw joint, we then used flat metal sticking out and pointed up some to hold the stand-off at the position we want the low point at and used rubber bands that force the stand-off back down so that there is downwards pressure on the disc when it goes through and so that the bottom row of wheels will return to the point that we want them to rest at. 
+
+
+#### **End of Entry Thoughts**
+
+We unfortunately had to stop as it was beginning to get late and we would have to get up early so we will continue to work on the bottom row and the mounting and tension of the chain as it moves. However, even though we had to stop, we are happy and comfortable with the amount of work we were able to accomplish today.
+
+
+
+
+-------
+
+
+
+
+## **9/12/2022 - _Intake Prototyping Day 12_**
+
