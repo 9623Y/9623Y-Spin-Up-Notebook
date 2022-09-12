@@ -1508,3 +1508,23 @@ We unfortunately had to stop as it was beginning to get late and we would have t
 
 ## **9/12/2022 - _Intake Prototyping Day 12_**
 
+Today we will continue working on building the bottom indexing row of the intake, if we finish on the bottom row we might begin to work on building figuring out spacing for the ramp and then work from there.
+
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [x] Ari
+
+
+### **Goals For Today**
+- [ ] Finish Intake Bottom Row
+- [ ] (If Time) Begin working on Ramp Spacing
+
+#### **Intake Redesign Building _(Cont.)_**
+
+Today while working on the Bottom Row, Rhett Noticed an issue with the c-channel of the bottom row of the intake being unable to fit a high-strength bearing block, but Tyler said he already had a fix for that, Once the group began working on the bottom row, the rubber band to put resistance on the bottom row was mounted in a way that gave the bottom row what was felt to be a sufficient amount of resistance, and then we remounted the frame of the intake because we purposed used long c-channel so we could cut it down to the length that was needed afterwords but this meant when the robot was put in the box, the box was unable to close completely because of the height of the intake.
+
+
