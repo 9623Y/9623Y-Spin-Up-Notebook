@@ -38,6 +38,7 @@
 33. [**9/10/2022 - _Intake Prototyping Day 10_**](#9102022---intake-prototyping-day-10)
 34. [**9/11/2022 - _Intake Prototyping Day 11_**](#9112022---intake-prototyping-day-11)
 35. [**9/12/2022 - _Intake Prototyping Day 12_**](#9122022---intake-prototyping-day-12)
+36. [**9/13/2022 - _Intake Prototyping Day 13_**](#9132022---intake-prototyping-day-13)
 
 
 
@@ -1520,7 +1521,7 @@ Today we will continue working on building the bottom indexing row of the intake
 
 
 ### **Goals For Today**
-- [ ] Finish Intake Bottom Row
+- [x] Continue on Intake Bottom Row
 - [ ] (If Time) Begin working on Ramp Spacing
 
 #### **Intake Redesign Building _(Cont.)_**
@@ -1528,3 +1529,26 @@ Today we will continue working on building the bottom indexing row of the intake
 Today while working on the Bottom Row, Rhett Noticed an issue with the c-channel of the bottom row of the intake being unable to fit a high-strength bearing block, but Tyler said he already had a fix for that, Once the group began working on the bottom row, the rubber band to put resistance on the bottom row was mounted in a way that gave the bottom row what was felt to be a sufficient amount of resistance, and then we remounted the frame of the intake because we purposed used long c-channel so we could cut it down to the length that was needed afterwords but this meant when the robot was put in the box, the box was unable to close completely because of the height of the intake.
 
 
+#### **End of Entry Thoughts
+
+Today we werent able to exactly finish the bottom row for the intake but we made good progress on getting it done so we will hopefully be able to finish or get close to finishing it tomorrow and then we can get to working on the ramp and tensioner tomorrow if we have time.
+
+
+
+
+-----
+
+
+
+
+## **9/13/2022 - _Intake Prototyping Day 13_**
+
+Today we are hoping to finish the bottom row on the intake and then if we have time begin working on the ramp and the tensioner for the bottom row of the intake's chain, we would also like to finish the team bios and game explanation if possible today
+
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [x] Rebecca
+- [x] Ari
