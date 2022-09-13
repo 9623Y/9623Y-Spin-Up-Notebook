@@ -728,14 +728,15 @@ Today we came back together as a team to planning design ideas and to explore so
 - [x] Look over the Version 1.1 Game Manual
 - [ ] Discuss Possible Robot Ideas
 - [ ] (If Time) Begin designing intake
+- [Rebecca wrote this as a better way of stating our goals instead of just lazy bullet points] Our goals for today are to look over the Version 1.1 Game Manual and discuss possible robot ideas. If we have extra time, another goal is to begin designing the intake system.
 
 #### **Looking over the Game Manual**
-* There is now no verical expansion limit in the endgame - SG5
+* There is now no vertical expansion limit in the endgame - SG5
 * No trap limit in endgame - G15
 
 #### **End of Entry**
 
-We didnt get a ton done because we started rather late at night so we only got looking over the game manual but we will do some more work later in the week.
+We didnt get majority of our goals done, because we started rather late at night. We were only able to look over the game manual but we will do some more work later in the week. (Rebecca rephrased this but wasn't sure if they, who ever they are, finished looking over the manual)
 
 
 
@@ -755,6 +756,7 @@ Today we began working in class on a drive train to mount our prototype intake o
 - [x] Begin Building Drivetrain to Mount Prototype intake on
 - [x] Begin brainstorming and  a few different prototype intakes
 - [x] Figure out teams involving returning members during the meeting
+- [ ] The goals for today are to begin building the drivetrain for us to mount a prototype intake on and begin brainstroming a few different 
 
 
 #### **Drivetrain for intake prototype**
@@ -1402,7 +1404,7 @@ Today we were able to begin redesigning our intake and we have the basic idea fo
 
 ## **9/9/2022 - _Intake Prototyping Day 9_**
 
-Today we will get started on building our intake, we also decided that we wanted to work on the robot some over the weekend so we will spend part of the day gathering supplies that we will need to build some of the intake over the weekend.
+Today we will get started on building our intake. We also decided that we wanted to work on the robot some over the weekend, so we will spend part of the day gathering supplies, that we will need, to build some of the intake over the weekend.
 
 ### **Attendance**
 - [x] Rhett
@@ -1413,22 +1415,22 @@ Today we will get started on building our intake, we also decided that we wanted
 
 ### **Goals for Today**
 - [x] Begin Working on the Intake
-- [x] Gather Equipment for Weekend Meeting
+- [x] Gather Equipment for the Weekend Meetings
 
 
 #### **Intake Redesign Building**
 
-Today we were able to get part of the frame built and the holes marked for drilling out the metal for the high strength axles for our intake. This gave us a good basis for knowing what we would need to take home over the weekend, along with a good understanding of how the intake should work and how we should build it.
+Today we were able to get part of the frame built. For the intake, we got the holes marked, for drilling out the metal, for the high strength axles. This gave us a good basis for knowing what we would need to take home over the weekend. It also helped us get a good understanding of how the intake should work and how we should build it.
 
 
 #### **Next Meeting**
 
-We are planning to meet outside of school so we had to gather the equipment we would need ahead of time. We found that we would like to spend more time on certain things, like the intake we just decided to redesign. We would like to get it done sooner rather than later to allow for more time later to work on other things.
+We are planning to meet outside of school, so we had to gather the equipment, we would need, ahead of time. The team decided that we would like to spend more time on certain things, like the intake that we just decided to redesign. We would like to get it done sooner rather than later to allow for more time in the future to work on other things.
 
 
 #### **End of Entry Thoughts**
 
-Though we didnt get a lot done on the robot today we were able to get the supplies we need to work on the robot a good deal over the weekend and the work we did get done allowed us to gain a better understanding of the intake that we are hoping to build. Tomorrow we will be able to get the high-strength axle holes drilled and then hopefully be able to work on getting the frame mounted to the base and start figuring out driving the axles for the intake.  
+Though we didnt get a lot done on the robot today, we were able to get the supplies we need to work on the robot, a good deal, over the weekend The work we did get done allowed us to gain a better understanding of the intake that we are hoping to build. Tomorrow we will be able to get the high-strength axle holes drilled, and then hopefully be able to work on getting the frame mounted to the base, and start figuring out driving the axles for the intake.  
 
 
 
@@ -1440,7 +1442,7 @@ Though we didnt get a lot done on the robot today we were able to get the suppli
 
 ## **9/10/2022 - _Intake Prototyping Day 10_**
 
-Today we will drill the high-strength axle holes and the we will work towards mounting the frame of the intake to the base and figuring out how to drive the axles that the flex wheels for the intake will be on.
+Today we will drill the high-strength axle holes and we will work towards mounting the frame of the intake to the base. We will also be figuring out how to drive the axles, for the flex wheels, that the intake will be on.
 
 
 ### **Attendance**
@@ -1458,12 +1460,12 @@ Today we will drill the high-strength axle holes and the we will work towards mo
 
 #### **Intake Redesign Building _(Cont.)_**
 
-The first thing we did today was drill the holes for the high-strength axles to run through, then we began working on mounting the frame of the intake to our prototype base, once we got that done, we working on finding the correct spacing between where our ramp would be and where our flex wheels would be, we were unable to decide on spacing because our intake had to be hand driven because we werent finish and hadn't mounted motors, we decided we would come back to figuring out spacing when our intake was closer to being finished. For driving the axles of the intake we decided that using chain would be our best bet because it would take up the least amount of space, use the least amount of axles, and we could make it so that our bottom row of intake wheels would be able to index if we found some way to build a tensioner for the chain to stay taught so it doesn't slip off the sprocket.
+The first thing we did today was drill the holes for the high-strength axles to run through. Then we began working on mounting the frame of the intake to our prototype base, once we got that done, we worked on finding the correct spacing between where our ramp would be and where our flex wheels would be. We were unable to decide on spacing, because our intake had to be hand driven, because we werent finished and hadn't mounted our motors yet. We decided we would come back to figuring out spacing when our intake was closer to being finished. For driving the axles of the intake, we decided that using chain would be our best bet, because it would take up the least amount of space, use the least amount of axles, and we could make it so that our bottom row of intake wheels would be able to index if we found some way to build a tensioner for the chain to stay taught, so it doesn't slip off the sprocket.
 
 
 #### **End of Entry Thoughts**
 
-Happy with what we had managed to accomplish we decided that we were done for the day and that we would return tomorrow to continue working on our intake build.
+The team is happy with what we had managed to accomplish. We decided that we were done for the day, and that we would return tomorrow to continue working on our intake build.
 
 
 
