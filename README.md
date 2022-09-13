@@ -1418,7 +1418,7 @@ Today we will get started on building our intake, we also decided that we wanted
 
 #### **Intake Redesign Building**
 
-Today we were able to get part of the frame built and the holes mark for drilling out the metal for the high strength axles that we will use for our intake. This allowed us a good basis for knowing what we would need to take home over the weekend, as well as, give us a good understanding of how the intake should work and be built.
+Today we were able to get part of the frame built and the holes marked for drilling out the metal for the high strength axles for our intake. This gave us a good basis for knowing what we would need to take home over the weekend, along with a good understanding of how the intake should work and how we should build it.
 
 
 #### **Next Meeting**
