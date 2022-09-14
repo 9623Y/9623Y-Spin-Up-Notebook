@@ -39,6 +39,7 @@
 34. [**9/11/2022 - _Intake Prototyping Day 11_**](#9112022---intake-prototyping-day-11)
 35. [**9/12/2022 - _Intake Prototyping Day 12_**](#9122022---intake-prototyping-day-12)
 36. [**9/13/2022 - _Intake Prototyping Day 13_**](#9132022---intake-prototyping-day-13)
+37. [**9/14/2022 - _Intake Redesign and Prototyping Day 1_**](#9142022---intake-redesign-and-prototyping-day-1)
 
 
 
@@ -1404,7 +1405,7 @@ Today we were able to begin redesigning our intake and we have the basic idea fo
 
 ## **9/9/2022 - _Intake Prototyping Day 9_**
 
-Today we will get started on building our intake. We also decided that we wanted to work on the robot some over the weekend, so we will spend part of the day gathering supplies, that we will need, to build some of the intake over the weekend.
+Today we will get started on building our intake. We also decided that we wanted to work on the robot some over the weekend, so we will spend part of the day gathering the supplies we will need to work on the intake over the weekend.
 
 ### **Attendance**
 - [x] Rhett
@@ -1420,17 +1421,17 @@ Today we will get started on building our intake. We also decided that we wanted
 
 #### **Intake Redesign Building**
 
-Today we were able to get part of the frame built. For the intake, we got the holes marked, for drilling out the metal, for the high strength axles. This gave us a good basis for knowing what we would need to take home over the weekend. It also helped us get a good understanding of how the intake should work and how we should build it.
+Today we were able to get part of the frame built. We plan to drill holes for the high strength axles on our intake, so we had to plan and mark where we would put then. This gave us a good basis for what we need to take home over the weekend. It also helped us get a good understanding of how the intake should work and how we should build it.
 
 
 #### **Next Meeting**
 
-We are planning to meet outside of school, so we had to gather the equipment, we would need, ahead of time. The team decided that we would like to spend more time on certain things, like the intake that we just decided to redesign. We would like to get it done sooner rather than later to allow for more time in the future to work on other things.
+The team decided that we would like to spend more time on certain things, like the intake that we just redesigned, so we have to make time for it outside of school. We would like to get it done soon to allow for more time in the future to work on other things. The extra meetings might continue if we find that everyone can join them and they prove to be helpful.
 
 
 #### **End of Entry Thoughts**
 
-Though we didnt get a lot done on the robot today, we were able to get the supplies we need to work on the robot, a good deal, over the weekend The work we did get done allowed us to gain a better understanding of the intake that we are hoping to build. Tomorrow we will be able to get the high-strength axle holes drilled, and then hopefully be able to work on getting the frame mounted to the base, and start figuring out driving the axles for the intake.  
+Though we didnt get a lot done on the robot today, we were able to get the supplies we need to work on the robot over the weekend. The work we did get done allowed us to gain a better understanding of the intake that we are hoping to build. Tomorrow we will be able to drill out the holes for the high-strength axles, attach the frame to the base, figure out how we can minimize motor usage among the axles on the intake.  
 
 
 
@@ -1477,7 +1478,8 @@ The team is happy with what we had managed to accomplish. We decided that we wer
 
 ## **9/11/2022 - _Intake Prototyping Day 11_**
 
-Today we decided that we would spend the day figuring out the bottom row of the intake and figuring out how to make it properly index withough moving to much and allowing it to return to the proper position.
+Today we decided that we would spend the day figuring out the bottom row of the intake and how to make it properly move without it going too far and allowing it to index properly.
+
 
 
 ### **Attendance**
@@ -1494,8 +1496,10 @@ Today we decided that we would spend the day figuring out the bottom row of the 
 
 #### **Intake Redesign Building _(Cont.)_**
 
-For having the bottom row to be able to index we decided on mounting the axle on a piece of c-channel that is attached to a stand-off that is on a shaft-collar-stand-off joint, with the shaft collar joint attached to the robot on a screw joint, we then used flat metal sticking out and pointed up some to hold the stand-off at the position we want the low point at and used rubber bands that force the stand-off back down so that there is downwards pressure on the disc when it goes through and so that the bottom row of wheels will return to the point that we want them to rest at. 
+For having the bottom row to be able to index we decided on mounting the axle on a piece of c-channel that is attached to a stand-off that is on a shaft-collar-stand-off joint,with the shaft collar joint attached to the robot on a screw joint, we then used flat metal sticking out and pointed up some to hold the stand-off at the position we want the low point at and used rubber bands that force the stand-off back down so that there is downwards pressure on the disc when it goes through and so that the bottom row of wheels will return to the point that we want them to rest at. 
 
+Translation 1
+Having a mobile bottom row would be extreamly useful as it would allow. To make the bottom row mobile, we attached a stand-off to a shaft collar 
 
 #### **End of Entry Thoughts**
 
@@ -1554,3 +1558,15 @@ Today we are hoping to finish the bottom row on the intake and then if we have t
 - [x] Noly
 - [x] Rebecca
 - [x] Ari
+
+
+
+-------
+
+
+
+
+
+## **9/14/2022 - _Intake Redesign and Prototyping Day 1_**
+
+We are going to put the two flex wheels on the outside rather than the previous arrangement so they hit the outer sides of the flex wheels rather than the center. This will help us grab the disc and push it against the plastic and push it up. We also might add a track in the middle with flappers to also have something push against the middle of the disc in case the disc slips from the wheels. We also need to start structuring the entire robot better. We are going to widen the intake to add structure. 
