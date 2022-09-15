@@ -1497,10 +1497,10 @@ Today we decided that we would spend the day figuring out the bottom row of the 
 
 #### **Intake Redesign Building _(Cont.)_**
 
-For having the bottom row to be able to index we decided on mounting the axle on a piece of c-channel that is attached to a stand-off that is on a shaft-collar-stand-off joint,with the shaft collar joint attached to the robot on a screw joint, we then used flat metal sticking out and pointed up some to hold the stand-off at the position we want the low point at and used rubber bands that force the stand-off back down so that there is downwards pressure on the disc when it goes through and so that the bottom row of wheels will return to the point that we want them to rest at. 
+For having the bottom row to be able to index we decided on mounting the axle on a piece of c-channel that is attached to a stand-off that is on a shaft-collar-stand-off joint, with the shaft collar joint attached to the robot on a screw joint. We bent the end of the metal into an "L" shape in order to prvent the index from going to high. We used rubber bands that force the stand-off back down, so that there is downwards pressure on the disc when it goes through. This will help the bottom row of wheels return to the point that we want them to rest at. 
 
 _Translation 1_
-Having a mobile bottom row would be extreamly useful as it would help pull the disc into the intake. To make the bottom row mobile, we attached a stand-off to a shaft collar and used a screw to attach it to the base. The shaft collar allows it to spin freely and the stand-off allows us to attach it further out from the base. We used rubber bands to help hold it down and make it more precise, allowing it to index, or move more percisely than before. The rubber bands would also add the force needed to pull the disc into the intake and return the row back to its original position.
+Having a mobile bottom row would be extreamly useful as it would help pull the disc into the intake. To make the bottom row mobile, we attached a stand-off to a shaft collar and used a screw to attach it to the base. The shaft collar allows it to spin freely and the stand-off allows us to attach it further out from the base. We used rubber bands to help hold it down and make it more precise, allowing it to index, or move more percisely than before. The rubber bands would also add the force needed to pull the disc into the intake and return the row back to its original position. (What's it)
 
 #### **End of Entry Thoughts**
 
