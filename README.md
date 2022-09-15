@@ -1567,7 +1567,6 @@ We were able to get the flex wheels on the intake and start on how the motors an
 
 
 
-
 -----
 
 
@@ -1612,3 +1611,6 @@ We are going to attach the lexane to angle brachets on the intake. This will lim
 
 #### **Launcher Redesigning**
 The original launcher prototype is too big for the space we have available on our robot, so we have to shrink the overall size of the launcher.
+
+#### **Laucher Building**
+We atarted building the gear boxes for the laucnher.
