@@ -530,7 +530,7 @@ When we went to mount the pneumatic pusher we designed yesterday we found out th
 
 Our bed was more than likely already rigid enough but when the base plate connecting the bottom c-channels got put in it was no square with the c-channels and was causing mounting issues. In our move to High Strength axles we swapped the 2 wide c-channel we had on the sides out for 3 wide c-channel to give enough room to the high strength axles and their bearing blocks. When we took apart the bed to re-level it we decided to add more standoffs to create more support for the beds and c-channels this means that the bed will be more stable and have less flexing issues.
 
--Image of New Bed Desing
+- Image of New Bed Desing
 
 ![Snapchat-834160790 (1)](https://user-images.githubusercontent.com/102620185/171167916-e3ff7d24-4860-4b93-b6a9-b4796dfe681c.jpg)
 
@@ -538,7 +538,7 @@ Our bed was more than likely already rigid enough but when the base plate connec
 
 We also decide to convert the axles for the flywheel system to high strength axles because they are going to be what we most likely use in our actual robot so we need to run all of our tests using them, this will allow us to have accurate data to base our robot off of. We chose to use high strength axles because they are less likely to bend and twist that the low strength axles and flex less than the low strength axles.
 
--Image of High Strength Axle gear ratio
+- Image of High Strength Axle gear ratio
 
 <img src = "https://user-images.githubusercontent.com/102620185/171167555-628fe186-0d48-4a47-b999-64921d0a07bb.jpg" height = "500">
 
