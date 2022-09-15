@@ -40,6 +40,7 @@
 35. [**9/12/2022 - _Intake Prototyping Day 12_**](#9122022---intake-prototyping-day-12)
 36. [**9/13/2022 - _Intake Prototyping Day 13_**](#9132022---intake-prototyping-day-13)
 37. [**9/14/2022 - _Intake Redesign and Prototyping Day 1_**](#9142022---intake-redesign-and-prototyping-day-1)
+38. [**9/15/2022 - _Intake and Launcher Prototyping_**](#9152022---intake-and-launcher-prototyping)
 
 
 
@@ -1498,13 +1499,12 @@ Today we decided that we would spend the day figuring out the bottom row of the 
 
 For having the bottom row to be able to index we decided on mounting the axle on a piece of c-channel that is attached to a stand-off that is on a shaft-collar-stand-off joint,with the shaft collar joint attached to the robot on a screw joint, we then used flat metal sticking out and pointed up some to hold the stand-off at the position we want the low point at and used rubber bands that force the stand-off back down so that there is downwards pressure on the disc when it goes through and so that the bottom row of wheels will return to the point that we want them to rest at. 
 
-Translation 1
-Having a mobile bottom row would be extreamly useful as it would allow. To make the bottom row mobile, we attached a stand-off to a shaft collar 
+_Translation 1_
+Having a mobile bottom row would be extreamly useful as it would help pull the disc into the intake. To make the bottom row mobile, we attached a stand-off to a shaft collar and used a screw to attach it to the base. The shaft collar allows it to spin freely and the stand-off allows us to attach it further out from the base. We used rubber bands to help hold it down and make it more precise, allowing it to index, or move more percisely than before. The rubber bands would also add the force needed to pull the disc into the intake and return the row back to its original position.
 
 #### **End of Entry Thoughts**
 
-We unfortunately had to stop as it was beginning to get late and we would have to get up early so we will continue to work on the bottom row and the mounting and tension of the chain as it moves. However, even though we had to stop, we are happy and comfortable with the amount of work we were able to accomplish today.
-
+We did have to stop before we were able to mount and tension, but we are happy with everything we were able to accomplish and comfortable with how far we got.
 
 
 
@@ -1532,12 +1532,12 @@ Today we will continue working on building the bottom indexing row of the intake
 
 #### **Intake Redesign Building _(Cont.)_**
 
-Today while working on the Bottom Row, Rhett Noticed an issue with the c-channel of the bottom row of the intake being unable to fit a high-strength bearing block, but Tyler said he already had a fix for that, Once the group began working on the bottom row, the rubber band to put resistance on the bottom row was mounted in a way that gave the bottom row what was felt to be a sufficient amount of resistance, and then we remounted the frame of the intake because we purposed used long c-channel so we could cut it down to the length that was needed afterwords but this meant when the robot was put in the box, the box was unable to close completely because of the height of the intake.
+While working on the bottom row, Rhett noticed that the intake's bottom row c-channel was unable to fit a high-strength bearing block, though Tyler was able to find a fix for that. We were able to remount the frame on longer metal to allow for trimming in the future, though it does mean we are unable to close the box and are outside the 18. The rubber band for the bottom row was also added in a certain way to give it the right amount of resistance. This allows the disc to move underneath it but force the disc up into the intake at the same time.
 
 
 #### **End of Entry Thoughts
 
-Today we werent able to exactly finish the bottom row for the intake but we made good progress on getting it done so we will hopefully be able to finish or get close to finishing it tomorrow and then we can get to working on the ramp and tensioner tomorrow if we have time.
+Today we werent able to finish the bottom row for the intake but we made good progress on getting it done. We will hopefully be able to finish it tomorrow and =get to working on the ramp and tensioner tomorrow if we have time.
 
 
 
@@ -1559,9 +1559,16 @@ Today we are hoping to finish the bottom row on the intake and then if we have t
 - [x] Rebecca
 - [x] Ari
 
+### **Goals for Today**
+- [ ] Continue Intake Building
+
+#### **Intake Building**
+We were able to get the flex wheels on the intake and start on how the motors and chains would interact. We were able to use one motor on the intake by connecting them all together with properly tensioned chains. We decided to switch out the motor for a high torque motor as it would work best for the resistance of the discs. 
 
 
--------
+
+
+-----
 
 
 
@@ -1569,4 +1576,39 @@ Today we are hoping to finish the bottom row on the intake and then if we have t
 
 ## **9/14/2022 - _Intake Redesign and Prototyping Day 1_**
 
-We are going to put the two flex wheels on the outside rather than the previous arrangement so they hit the outer sides of the flex wheels rather than the center. This will help us grab the disc and push it against the plastic and push it up. We also might add a track in the middle with flappers to also have something push against the middle of the disc in case the disc slips from the wheels. We also need to start structuring the entire robot better. We are going to widen the intake to add structure. 
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+### **Goals for Today**
+- [x] Continue Intake Building
+
+#### **Intake Building**
+We might put the two flex wheels on the outside rather than the previous staggered arrangement so they hit the outer sides of the flex wheels rather than the center. This will help us grab the disc and push it against the plastic to move it up into the launcher. We also might add a track in the middle with flappers to also have something push against the middle of the disc in case the disc slips from the wheels. We also found that our robot lacks in structure so we are going to start with just the intake again.
+
+
+
+
+-----
+
+
+
+
+
+## **9/15/2022 - _Intake and Launcher Prototyping_**
+
+Today we are going to finish the intake and start on the launcher.
+
+### **Goals for Today**
+- [ ] Finish Intake Building
+- [ ] Redesgin Launcher
+- [ ] (If Time) Start Launcher Building
+
+#### **Intake Building**
+We are going to attach the lexane to angle brachets on the intake. This will limit the space used by the lexane and leave more room for the launcher.
+
+#### **Launcher Redesigning**
+The original launcher prototype is too big for the space we have available on our robot, so we have to shrink the overall size of the launcher.
