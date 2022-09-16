@@ -1606,6 +1606,13 @@ We might put the two flex wheels on the outside rather than the previous stagger
 
 Today we are going to finish the intake and start on the launcher.
 
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [x] Rebecca
+- [x] Ari
+
 ### **Goals for Today**
 - [ ] Finish Intake Building
 - [x] Redesgin Launcher
@@ -1635,6 +1642,12 @@ We started building the gear boxes for the launcher. By starting with the gear b
 ## **9/16/2022 - _Launcher Prototyping_**
 
 
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
 
 ### **Goals for Today**
 - [ ] Get Code Translated to PROSE
@@ -1646,4 +1659,4 @@ We started building the gear boxes for the launcher. By starting with the gear b
 #### **Building Launcher**
 We started on the gear boxes yesterday and we plan to finish them today. 
 
-### **End of Entry Thoughts**
+#### **End of Entry Thoughts**
