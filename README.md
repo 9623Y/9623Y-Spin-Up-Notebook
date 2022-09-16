@@ -41,6 +41,7 @@
 36. [**9/13/2022 - _Intake Prototyping Day 13_**](#9132022---intake-prototyping-day-13)
 37. [**9/14/2022 - _Intake Redesign and Prototyping Day 1_**](#9142022---intake-redesign-and-prototyping-day-1)
 38. [**9/15/2022 - _Intake and Launcher Prototyping_**](#9152022---intake-and-launcher-prototyping)
+39. [**9/16/2022 - _Launcher Prototyping_**](#9162022---launcher-prototyping)
 
 
 
@@ -1535,7 +1536,7 @@ Today we will continue working on building the bottom indexing row of the intake
 While working on the bottom row, Rhett noticed that the intake's bottom row c-channel was unable to fit a high-strength bearing block, though Tyler was able to find a fix for that. We were able to remount the frame on longer metal to allow for trimming in the future, though it does mean we are unable to close the box and are outside the 18. The rubber band for the bottom row was also added in a certain way to give it the right amount of resistance. This allows the disc to move underneath it but force the disc up into the intake at the same time.
 
 
-#### **End of Entry Thoughts
+#### **End of Entry Thoughts**
 
 Today we werent able to finish the bottom row for the intake but we made good progress on getting it done. We will hopefully be able to finish it tomorrow and =get to working on the ramp and tensioner tomorrow if we have time.
 
@@ -1565,6 +1566,8 @@ Today we are hoping to finish the bottom row on the intake and then if we have t
 #### **Intake Building**
 We were able to get the flex wheels on the intake and start on how the motors and chains would interact. We were able to use one motor on the intake by connecting them all together with properly tensioned chains. We decided to switch out the motor for a high torque motor as it would work best for the resistance of the discs. 
 
+### **End of Entry Thoughts**
+
 
 
 -----
@@ -1588,6 +1591,8 @@ We were able to get the flex wheels on the intake and start on how the motors an
 #### **Intake Building**
 We might put the two flex wheels on the outside rather than the previous staggered arrangement so they hit the outer sides of the flex wheels rather than the center. This will help us grab the disc and push it against the plastic to move it up into the launcher. We also might add a track in the middle with flappers to also have something push against the middle of the disc in case the disc slips from the wheels. We also found that our robot lacks in structure so we are going to start with just the intake again.
 
+### **End of Entry Thoughts**
+
 
 
 
@@ -1603,17 +1608,42 @@ Today we are going to finish the intake and start on the launcher.
 
 ### **Goals for Today**
 - [ ] Finish Intake Building
-- [ ] Redesgin Launcher
-- [ ] (If Time) Start Launcher Building
+- [x] Redesgin Launcher
+- [x] (If Time) Start Launcher Building
 
 #### **Intake Building**
 We are going to attach the lexane to angle brachets on the intake. This will limit the space used by the lexane and leave more room for the launcher.
 
 #### **Launcher Redesigning**
-The original launcher prototype is too big for the space we have available on our robot, so we have to shrink the overall size of the launcher.
+The original launcher prototype is too big for the space we have available on our robot, so we have to shrink the overall size of the launcher. We are moving the motors underneath the fly wheel subsystem to save space above the launcher system.
 
 #### **Laucher Building**
-We atarted building the gear boxes for the laucnher.
+We started building the gear boxes for the launcher. By starting with the gear boxes, we are able to build the rest of the launcher around the space available after adding them in.
 
-#### **Robot Code**
-We are testing a new code for the robot
+### **End of Entry Thoughts**
+
+
+
+
+-----
+
+
+
+
+
+
+## **9/16/2022 - _Launcher Prototyping_**
+
+
+
+### **Goals for Today**
+- [ ] Get Code Translated to PROSE
+- [x] Countinue Launcher Building
+
+#### **Code Translating**
+
+
+#### **Building Launcher**
+We started on the gear boxes yesterday and we plan to finish them today. 
+
+### **End of Entry Thoughts**
