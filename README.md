@@ -42,6 +42,8 @@
 37. [**9/14/2022 - _Intake Redesign and Prototyping Day 1_**](#9142022---intake-redesign-and-prototyping-day-1)
 38. [**9/15/2022 - _Intake and Launcher Prototyping_**](#9152022---intake-and-launcher-prototyping)
 39. [**9/16/2022 - _Launcher Prototyping_**](#9162022---launcher-prototyping)
+40. [**9/17/22**](#91722)
+41. [**9/19/22**](#91922)
 
 
 
@@ -1660,3 +1662,55 @@ We started building the gear boxes for the launcher. By starting with the gear b
 We started on the gear boxes yesterday and we plan to finish them today. 
 
 #### **End of Entry Thoughts**
+
+
+
+
+-----
+
+
+
+
+
+
+## **9/17/22**
+
+Took robot homes
+added a curved edge on the top of the intake as a prototype to guide the disc into the launcher.
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [ ] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+### **Goals for Today**
+- [ ] Make progress of the intake
+- [ ] (If Time) Attach Launcher to Intake
+
+#### **Intake Prototyping**
+We added flat metal to the top of the intake to help guide the disc into the launcher. The curved edge should push and guide the disc to lay flat in the launcher. We already have plans to change the design of the curved edge, though we want to see if it ends up working first.
+
+### **End of Entry Thoughts**
+
+
+
+
+## **9/19/22**
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+### **Goals for Today**
+- [ ] Cut and Mount Lexane for the Intake
+- [ ] 
+
+#### **Intake Prototyping**
+The lexane was finally able to be cut today. We plan to use it to guide the disc up into the intake and to act as a wall for the disc to push against when in the intake.
+
+### **End of Entry Thoughts**
