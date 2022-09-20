@@ -44,6 +44,7 @@
 39. [**9/16/2022 - _Launcher Prototyping_**](#9162022---launcher-prototyping)
 40. [**9/17/22**](#91722)
 41. [**9/19/22**](#91922)
+42. [**9/20/22**](#92022)
 
 
 
@@ -1552,7 +1553,7 @@ Today we werent able to finish the bottom row for the intake but we made good pr
 
 ## **9/13/2022 - _Intake Prototyping Day 13_**
 
-Today we are hoping to finish the bottom row on the intake and then if we have time begin working on the ramp and the tensioner for the bottom row of the intake's chain, we would also like to finish the team bios and game explanation if possible today
+Today we are hoping to finish the bottom row on the intake and, if time permits, begin working on the ramp and tensioner for the bottom row of the intake's chain. We would also like to finish the team bios and game explanation if possible.
 
 
 ### **Attendance**
@@ -1563,12 +1564,16 @@ Today we are hoping to finish the bottom row on the intake and then if we have t
 - [x] Ari
 
 ### **Goals for Today**
-- [ ] Continue Intake Building
+- [x] Continue Intake Building
+- [ ] Finish Team Bios
+- [ ] Finish Game Explanation.
 
 #### **Intake Building**
-We were able to get the flex wheels on the intake and start on how the motors and chains would interact. We were able to use one motor on the intake by connecting them all together with properly tensioned chains. We decided to switch out the motor for a high torque motor as it would work best for the resistance of the discs. 
+We were able to get the flex wheels on the intake and start on how the motors and chains would interact. We were able to use one motor on the intake by connecting them all together with properly tensioned chains. The original motor was too weak for our use so we switched it out with a high torque motor.
 
 ### **End of Entry Thoughts**
+We were able to continue working on the intake, team bios, and the game explanation, though we weren't able to finish both the team bios or the game explanation.
+
 
 
 
@@ -1579,6 +1584,8 @@ We were able to get the flex wheels on the intake and start on how the motors an
 
 
 ## **9/14/2022 - _Intake Redesign and Prototyping Day 1_**
+
+Today we are going to continue working on the intake to hopefully finish it as soon as we can.
 
 ### **Attendance**
 - [x] Rhett
@@ -1591,9 +1598,15 @@ We were able to get the flex wheels on the intake and start on how the motors an
 - [x] Continue Intake Building
 
 #### **Intake Building**
-We might put the two flex wheels on the outside rather than the previous staggered arrangement so they hit the outer sides of the flex wheels rather than the center. This will help us grab the disc and push it against the plastic to move it up into the launcher. We also might add a track in the middle with flappers to also have something push against the middle of the disc in case the disc slips from the wheels. We also found that our robot lacks in structure so we are going to start with just the intake again.
+
+After finding some faults in our current arrangement, we came up with some ideas on how to improve our design.
+
+We found that the current plan for the arrangement of flex wheels wouldn't hit where we need on the disc due to the varying heights. We will either put two in the middle of the bars to only hit the middle of the disc or put them just on the ends of the bars to hit the thicker part of the disc. If we put the two flex wheels on the outside, we might add a track through the center with flappers to help push it up using the inner lip on the disc.
+
+Another issue that came up was the lack of structure on our robot. While certain parts of our robot are structurally sound, most of it can wiggle freely back and forth. We took apart the robot to start with just the intake and working out way down. This will allow us to focus on structuring the base around the intake and help us to make the base structurally sound.
 
 ### **End of Entry Thoughts**
+We were able to come up with ideas to improve our robot and identify issues that either currently exist or that may arise in the near future. 
 
 
 
@@ -1630,7 +1643,7 @@ The original launcher prototype is too big for the space we have available on ou
 We started building the gear boxes for the launcher. By starting with the gear boxes, we are able to build the rest of the launcher around the space available after adding them in.
 
 ### **End of Entry Thoughts**
-
+While we weren't able to get much farther on the intake, we were able to start on the launcher and redesign our prototype beforehand to fit a smaller area.
 
 
 
@@ -1643,6 +1656,7 @@ We started building the gear boxes for the launcher. By starting with the gear b
 
 ## **9/16/2022 - _Launcher Prototyping_**
 
+Today we are working on the second launcher prototype redesigned to fit onto a robot.
 
 ### **Attendance**
 - [x] Rhett
@@ -1652,17 +1666,13 @@ We started building the gear boxes for the launcher. By starting with the gear b
 - [ ] Ari
 
 ### **Goals for Today**
-- [ ] Get Code Translated to PROSE
 - [x] Countinue Launcher Building
-
-#### **Code Translating**
-
 
 #### **Building Launcher**
 We started on the gear boxes yesterday and we plan to finish them today. 
 
 #### **End of Entry Thoughts**
-
+We were able to finish the gear boxes.
 
 
 
@@ -1675,8 +1685,7 @@ We started on the gear boxes yesterday and we plan to finish them today.
 
 ## **9/17/22**
 
-Took robot homes
-added a curved edge on the top of the intake as a prototype to guide the disc into the launcher.
+Today we will work on the intake and the launcher from home.
 
 ### **Attendance**
 - [x] Rhett
@@ -1686,13 +1695,19 @@ added a curved edge on the top of the intake as a prototype to guide the disc in
 - [ ] Ari
 
 ### **Goals for Today**
-- [ ] Make progress of the intake
+- [x] Make progress of the intake
 - [ ] (If Time) Attach Launcher to Intake
 
 #### **Intake Prototyping**
 We added flat metal to the top of the intake to help guide the disc into the launcher. The curved edge should push and guide the disc to lay flat in the launcher. We already have plans to change the design of the curved edge, though we want to see if it ends up working first.
 
 ### **End of Entry Thoughts**
+We were able to make progress and improvements on the intake.
+
+
+
+-----
+
 
 
 
@@ -1707,10 +1722,42 @@ We added flat metal to the top of the intake to help guide the disc into the lau
 - [ ] Ari
 
 ### **Goals for Today**
-- [ ] Cut and Mount Lexane for the Intake
-- [ ] 
+- [x] Cut and Mount Lexane for the Intake
 
 #### **Intake Prototyping**
 The lexane was finally able to be cut today. We plan to use it to guide the disc up into the intake and to act as a wall for the disc to push against when in the intake.
 
 ### **End of Entry Thoughts**
+While we ran into a few issues while cutting the lexane, we were able to cut it to the correct size and it was able to be mounted perfectly.
+
+
+
+-----
+
+
+
+
+
+## **9/20/22**
+
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+### **Goals for Today**
+- [ ] Mount Intake to Launcher
+- [ ] Testing Intake for faults
+
+#### **Intake Testing**
+We found that our redesign of the intake flywheels keeps trapping the disc in the intake. We tried only spacing out the bottom row, which definetly helps, though it gets stuck in the top. In the end, we have the top row and the second to last row spaced out with the middle row together. This prevents the disc from getting stuck and pushes it out the top. 
+
+Another issue we came across was the lack of flex with the lexane. One reason we had so many issues with the top row was how we mounted the lexane. The second to last row had the lexane mounted above it, allowing it to flex around the disc. The top row had the lexane mounted almost parallel to the row, preventing the lexane from flexing properly. We moved the lexane and the top row of screws down a bit, which allows the lexane to flex or push out and away from the intake, hopefully dropping into the launcher.
+
+
+### **End of Entry Thoughts**
+
+
