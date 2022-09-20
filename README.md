@@ -1606,7 +1606,7 @@ We might put the two flex wheels on the outside rather than the previous stagger
 
 ## **9/15/2022 - _Intake and Launcher Prototyping_**
 
-Today we are going to finish the intake and start on the launcher.
+Today we are going to try to finish the intake and start on the launcher.
 
 ### **Attendance**
 - [x] Rhett
