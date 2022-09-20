@@ -1745,7 +1745,7 @@ While we ran into a few issues while cutting the lexane, we were able to cut it 
 - [x] Rhett
 - [x] Tyler
 - [x] Noly
-- [ ] Rebecca
+- [x] Rebecca
 - [ ] Ari
 
 ### **Goals for Today**
@@ -1759,5 +1759,7 @@ Another issue we came across was the lack of flex with the lexane. One reason we
 
 
 ### **End of Entry Thoughts**
+
+
 
 
