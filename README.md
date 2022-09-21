@@ -1631,7 +1631,7 @@ Today we are going to try to finish the intake and start on the launcher.
 
 ### **Goals for Today**
 - [ ] Finish Intake Building
-- [x] Redesgin Launcher
+- [x] Redesgin Launcher for Mounting on Robot
 - [x] (If Time) Start Launcher Building
 
 #### **Intake Building**
@@ -1749,9 +1749,11 @@ While we ran into a few issues while cutting the lexane, we were able to cut it 
 - [x] Rebecca
 - [ ] Ari
 
+
 ### **Goals for Today**
 - [x] Mount Intake to Launcher
 - [ ] Testing Intake for faults
+
 
 #### **Intake Testing**
 We found that our redesign of the intake flywheels keeps trapping the disc in the intake. We tried only spacing out the bottom row, which definetly helps, though it gets stuck in the top. In the end, we have the top row and the second to last row spaced out with the middle row together. This prevents the disc from getting stuck and pushes it out the top. 
@@ -1775,6 +1777,7 @@ We were able to get a lot done on the intake and we were even able to start plan
 
 Today we are working on completing the base prototype and continuing the code. 
 
+
 ### **Attendance**
 - [x] Rhett
 - [x] Tyler
@@ -1782,9 +1785,13 @@ Today we are working on completing the base prototype and continuing the code.
 - [ ] Rebecca
 - [ ] Ari
 
+
 ### **Goals for Today**
-- [ ] Finish Base Prototyping
+- [ ] Redo Base Prototyping for Intake Mounting Reasons
 - [x] Continue Programming
+
+
+#### **Base Prototyping**
 
 
 
