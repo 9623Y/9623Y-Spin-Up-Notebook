@@ -40,11 +40,12 @@
 35. [**9/12/2022 - _Intake Prototyping Day 12_**](#9122022---intake-prototyping-day-12)
 36. [**9/13/2022 - _Intake Prototyping Day 13_**](#9132022---intake-prototyping-day-13)
 37. [**9/14/2022 - _Intake Redesign and Prototyping Day 1_**](#9142022---intake-redesign-and-prototyping-day-1)
-38. [**9/15/2022 - _Intake and Launcher Prototyping_**](#9152022---intake-and-launcher-prototyping)
+38. [**9/15/2022 - _Intake and Launcher Prototyping Day 1_**](#9152022---intake-and-launcher-prototyping-day-1)
 39. [**9/16/2022 - _Launcher Prototyping_**](#9162022---launcher-prototyping)
-40. [**9/17/22**](#91722)
-41. [**9/19/22**](#91922)
-42. [**9/20/22**](#92022)
+40. [**9/17/22 - _Intake and Launcher Prototyping Day 2_**](#91722---intake-and-launcher-prototyping-day-2)
+41. [**9/19/22 - _Intake and Launcher Prototyping Day 3_**](#91922---intake-and-launcher-prototyping-day-3)
+42. [**9/20/22 - _Intake and Base Prototyping_**](#92022---intake-and-base-prototyping)
+43. [**9/21/22 - _Base Prototyping_**](#92122---base-prototyping)
 
 
 
@@ -1617,7 +1618,7 @@ We were able to come up with ideas to improve our robot and identify issues that
 
 
 
-## **9/15/2022 - _Intake and Launcher Prototyping_**
+## **9/15/2022 - _Intake and Launcher Prototyping Day 1_**
 
 Today we are going to try to finish the intake and start on the launcher.
 
@@ -1683,7 +1684,7 @@ We were able to finish the gear boxes.
 
 
 
-## **9/17/22**
+## **9/17/22 - _Intake and Launcher Prototyping Day 2_**
 
 Today we will work on the intake and the launcher from home.
 
@@ -1712,7 +1713,7 @@ We were able to make progress and improvements on the intake.
 
 
 
-## **9/19/22**
+## **9/19/22 - _Intake and Launcher Prototyping Day 3_**
 
 ### **Attendance**
 - [x] Rhett
@@ -1738,7 +1739,7 @@ While we ran into a few issues while cutting the lexane, we were able to cut it 
 
 
 
-## **9/20/22**
+## **9/20/22 - _Intake and Base Prototyping_**
 
 
 ### **Attendance**
@@ -1749,7 +1750,7 @@ While we ran into a few issues while cutting the lexane, we were able to cut it 
 - [ ] Ari
 
 ### **Goals for Today**
-- [ ] Mount Intake to Launcher
+- [x] Mount Intake to Launcher
 - [ ] Testing Intake for faults
 
 #### **Intake Testing**
@@ -1759,6 +1760,31 @@ Another issue we came across was the lack of flex with the lexane. One reason we
 
 
 ### **End of Entry Thoughts**
+We were able to get a lot done on the intake and we were even able to start planning how it would mount to the base. We weren't able to mount the launcher onto the intake, unfortunatly. We think the base will have to be built before we can mount the launcher.
+
+
+
+
+-----
+
+
+
+
+
+## **9/21/22 - _Base Prototyping_**
+
+Today we are working on completing the base prototype and continuing the code. 
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+### **Goals for Today**
+- [ ] Finish Base Prototyping
+- [x] Continue Programming
 
 
 
