@@ -46,6 +46,7 @@
 41. [**9/19/22 - _Intake and Launcher Prototyping Day 3_**](#91922---intake-and-launcher-prototyping-day-3)
 42. [**9/20/22 - _Intake and Base Prototyping_**](#92022---intake-and-base-prototyping)
 43. [**9/21/22 - _Base Prototyping_**](#92122---base-prototyping)
+44. [**9/22/22 - _Finalizig Prototype_**](#92222---finalizig-prototype)
 
 
 
@@ -1792,6 +1793,22 @@ Today we are working on completing the base prototype and continuing the code.
 
 
 #### **Base Prototyping**
+
+
+## **9/22/22 - _Finalizig Prototype_**
+
+Today we are going to finish up the overall prototype for our robot.\
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+### **Goals for Today**
+- [ ] Start coming up with final prototype design.
+
 
 
 
