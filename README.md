@@ -46,7 +46,8 @@
 41. [**9/19/22 - _Intake and Launcher Prototyping Day 3_**](#91922---intake-and-launcher-prototyping-day-3)
 42. [**9/20/22 - _Intake and Base Prototyping_**](#92022---intake-and-base-prototyping)
 43. [**9/21/22 - _Base Prototyping_**](#92122---base-prototyping)
-44. [**9/22/22 - _Finalizig Prototype_**](#92222---finalizig-prototype)
+44. [**9/22/22 - _Finalizig Prototype Day 1_**](#92222---finalizig-prototype-day-1)
+45. [**9/23/22 - _Finalizing Prototype Day 2_**](#92322---finalizing-prototype-day-2)
 
 
 
@@ -1795,9 +1796,44 @@ Today we are working on completing the base prototype and continuing the code.
 #### **Base Prototyping**
 
 
-## **9/22/22 - _Finalizig Prototype_**
+## **9/22/22 - _Finalizig Prototype Day 1_**
 
-Today we are going to finish up the overall prototype for our robot.\
+Today we are going to finish up the overall prototype for our robot.
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [x] Rebecca
+- [ ] Ari
+
+### **Goals for Today**
+- [ ] Start coming up with final prototype design.
+- [ ] (If possible) Mount Bottom Row of Intake
+
+
+#### **Prototype ajustments**
+We widened the base from to allow the mecanum wheels to sit beside sprokets. We are going to use chain drive which requires the sprockets to be attached to the wheels.
+
+#### **Checking up on Others**
+We walked around and talked to other teams to see where they were in the planning and/or building process. Some teams were running into issues that we were able to try and help with. We were also able to send Rebecca over to help 9623W focus on their work.
+
+### **End of Entry Thoughts**
+We were able to start on finalizing the robot prototype and help out other teams where we could.
+
+
+
+
+-----
+
+
+
+
+
+
+## **9/23/22 - _Finalizing Prototype Day 2_**
+
+Today we plan to mount the bottom row and finalize mounting the intake to the base.
 
 ### **Attendance**
 - [x] Rhett
@@ -1807,9 +1843,8 @@ Today we are going to finish up the overall prototype for our robot.\
 - [ ] Ari
 
 ### **Goals for Today**
-- [ ] Start coming up with final prototype design.
+- [ ] Mount Bottom Row
+- [x] Continue Team Bios
 
-
-
-
-
+#### **Bottom Row**
+The bottom row is spun using the motor from the intake. We attached a sprocket to the second to last 
