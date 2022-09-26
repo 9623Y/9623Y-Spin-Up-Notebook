@@ -1763,7 +1763,7 @@ We found that our redesign of the intake flywheels keeps trapping the disc in th
 
 Another issue we came across was the lack of flex with the lexane. One reason we had so many issues with the top row was how we mounted the lexane. The second to last row had the lexane mounted above it, allowing it to flex around the disc. The top row had the lexane mounted almost parallel to the row, preventing the lexane from flexing properly. We moved the lexane and the top row of screws down a bit, which allows the lexane to flex or push out and away from the intake, hopefully dropping into the launcher.
 
-<img src="IMG_4344.jpg" height = "500">
+<img src="https://user-images.githubusercontent.com/93736394/192306106-a865cded-d3da-46bf-bc09-67fb4171a7b3.jpg" height = "400">
 
 
 ### **End of Entry Thoughts**
