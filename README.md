@@ -48,6 +48,7 @@
 43. [**9/21/22 - _Base Prototyping_**](#92122---base-prototyping)
 44. [**9/22/22 - _Finalizig Prototype Day 1_**](#92222---finalizig-prototype-day-1)
 45. [**9/23/22 - _Finalizing Prototype Day 2_**](#92322---finalizing-prototype-day-2)
+46. [**9/26/22 - _Finalizing Prototype Day 3_**](#92622---finalizing-prototype-day-3)
 
 
 
@@ -1762,6 +1763,8 @@ We found that our redesign of the intake flywheels keeps trapping the disc in th
 
 Another issue we came across was the lack of flex with the lexane. One reason we had so many issues with the top row was how we mounted the lexane. The second to last row had the lexane mounted above it, allowing it to flex around the disc. The top row had the lexane mounted almost parallel to the row, preventing the lexane from flexing properly. We moved the lexane and the top row of screws down a bit, which allows the lexane to flex or push out and away from the intake, hopefully dropping into the launcher.
 
+<img src="IMG_4344.jpg" height = "500">
+
 
 ### **End of Entry Thoughts**
 We were able to get a lot done on the intake and we were even able to start planning how it would mount to the base. We weren't able to mount the launcher onto the intake, unfortunatly. We think the base will have to be built before we can mount the launcher.
@@ -1789,11 +1792,21 @@ Today we are working on completing the base prototype and continuing the code.
 
 
 ### **Goals for Today**
-- [ ] Redo Base Prototyping for Intake Mounting Reasons
+- [ ] Redo Base Prototyping
 - [x] Continue Programming
 
 
 #### **Base Prototyping**
+We decided to redo the base to better incorperate the intake. The original base wasn't structured well and allowed the base to bend and twist. We made the base thinner to attach the intake directly onto the base rather than with standoffs like the previous base.
+
+
+
+
+-----
+
+
+
+
 
 
 ## **9/22/22 - _Finalizig Prototype Day 1_**
@@ -1847,4 +1860,35 @@ Today we plan to mount the bottom row and finalize mounting the intake to the ba
 - [x] Continue Team Bios
 
 #### **Bottom Row**
-The bottom row is spun using the motor from the intake. We attached a sprocket to the second to last 
+The bottom row is spun using the motor from the intake. We attached a sprocket to the second to last row and the bottom row for the chain connecting them together. This should help us save motors and run the whole intake system at the same time.
+
+
+
+
+-----
+
+
+
+
+
+## **9/26/22 - _Finalizing Prototype Day 3_**
+
+Today we are working on finializing the intake and improving the launcher.
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+### **Goals for Today**
+- [ ] Finalizing Intake
+- [x] Continuing Launcher
+
+
+#### **Launcher**
+We are adding rotational sensors to the launcher to track the flywheel rpm. This should give us an accurate reading on the flywheels so we can program more accurately.
+
+#### **Intake**
+The edge of the base sticks out too far for the sprocket on the bottom row to turn comfortably. We are able to cut and shave down the edge to prevent the chain or the sprocket from getting caught.  
