@@ -1914,8 +1914,8 @@ Today we are finishing up the intake and fixing errors we found in yesterday's t
 - [x] Rhett
 - [x] Tyler
 - [x] Noly
-- [ ] Rebecca
-- [ ] Ari
+- [x] Rebecca
+- [x] Ari
 
 ### **Goals for Today**
 - [ ] Fixing Code Errors
