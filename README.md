@@ -49,6 +49,7 @@
 44. [**9/22/22 - _Finalizig Prototype Day 1_**](#92222---finalizig-prototype-day-1)
 45. [**9/23/22 - _Finalizing Prototype Day 2_**](#92322---finalizing-prototype-day-2)
 46. [**9/26/22 - _Finalizing Prototype Day 3_**](#92622---finalizing-prototype-day-3)
+47. [**9/27/22 - _Finalizing Prototype Day 4_**](#92722---finalizing-prototype-day-4)
 
 
 
@@ -1799,7 +1800,7 @@ Today we are working on completing the base prototype and continuing the code.
 #### **Base Prototyping**
 We decided to redo the base to better incorperate the intake. The original base wasn't structured well and allowed the base to bend and twist. We made the base thinner to attach the intake directly onto the base rather than with standoffs like the previous base.
 
-
+<img src="https://user-images.githubusercontent.com/93736394/192545041-6cbc95ce-25e4-4f6f-b5a9-92fbfe2c44e9.jpg " height = "500">
 
 
 -----
@@ -1883,7 +1884,7 @@ Today we are working on finializing the intake and improving the launcher.
 - [ ] Ari
 
 ### **Goals for Today**
-- [ ] Finalizing Intake
+- [x] Finalizing Intake
 - [x] Continuing Launcher
 
 
@@ -1892,3 +1893,34 @@ We are adding rotational sensors to the launcher to track the flywheel rpm. This
 
 #### **Intake**
 The edge of the base sticks out too far for the sprocket on the bottom row to turn comfortably. We are able to cut and shave down the edge to prevent the chain or the sprocket from getting caught.  
+
+### **End of Entry Thoughts**
+We were able to attach the bottom row to the rest of the motorized intake. We were also able to add the rotational sensors and begin testing code to give us a better idea on how we can use them in the future.
+
+
+
+
+-----
+
+
+
+
+
+## **9/27/22 - _Finalizing Prototype Day 4_**
+
+Today we are finishing up the intake and fixing errors we found in yesterday's testing code.
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+### **Goals for Today**
+- [ ] Fixing Code Errors
+- [ ] Correcting Tolarences to Finalize Intake
+- [ ] (If Time) Start on the Ramp
+
+#### **Intake**
+The shaft collar on the outside of the wheel is being used to pull the wheel away from the chain and sproket. Over time, we think the shaft collar could wear away the metal, so we added a washer to prevent this. 
