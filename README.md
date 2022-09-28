@@ -50,6 +50,7 @@
 45. [**9/23/22 - _Finalizing Prototype Day 2_**](#92322---finalizing-prototype-day-2)
 46. [**9/26/22 - _Finalizing Prototype Day 3_**](#92622---finalizing-prototype-day-3)
 47. [**9/27/22 - _Finalizing Prototype Day 4_**](#92722---finalizing-prototype-day-4)
+48. [**9/28/22 - _Finalizing Prototype Day 5_**](#92822---finalizing-prototype-day-5)
 
 
 
@@ -101,7 +102,6 @@ You can score points in autonomous, however the same rules still apply to both a
 ## **5/11/22 - _The Contest Begins_**
 
 Tonight a one week build and design contest to see who can build the best disc launcher for Spin Up was announced in out Robotics team Discord server. We began working on designs as soon as we saw the announcement.
-
 
 ### **The Challenge**
 
@@ -739,7 +739,7 @@ Today we came back together as a team to planning design ideas and to explore so
 - [x] Look over the Version 1.1 Game Manual
 - [ ] Discuss Possible Robot Ideas
 - [ ] (If Time) Begin designing intake
-- [Rebecca wrote this as a better way of stating our goals instead of just lazy bullet points] Our goals for today are to look over the Version 1.1 Game Manual and discuss possible robot ideas. If we have extra time, another goal is to begin designing the intake system.
+
 
 #### **Looking over the Game Manual**
 * There is now no vertical expansion limit in the endgame - SG5
@@ -747,7 +747,7 @@ Today we came back together as a team to planning design ideas and to explore so
 
 #### **End of Entry**
 
-We didnt get majority of our goals done, because we started rather late at night. We were only able to look over the game manual but we will do some more work later in the week. (Rebecca rephrased this but wasn't sure if they, who ever they are, finished looking over the manual)
+We didnt get majority of our goals done, because we started rather late at night. We were only able to look over the game manual but we will do some more work later in the week. 
 
 
 
@@ -1041,7 +1041,7 @@ We are using an inertial sensor and a GPS sensor to help with our autonomous cod
 We are building another base identical to the previous mecanum base for the intake. We are using the other base for GPS testing and we will be able to test and alter two different things without altering either one, creating less time we have to wait till its built.
 
 #### **End of Entry Thoughts**
-
+We were able to get everything we planned on doing done. We were also able to add sensors to a test bot that should help us code autonomous in the future.
 
 
 -------
@@ -1072,7 +1072,9 @@ We started working on the code and the base for the intake. We also tested diffe
 
 #### ****Notebook**
 
-We decided to start another repository to make the proccess of moving the notebook to a more user-friendly site easier down the line. We are organizing everything by month and then creating separate files for each day. We also used the beginning of our meeting to talk about different notebook requirement and what we can do to meet them. We realize we forgot to include attendence for our previous entries so we are including entries from this entry forward.
+We decided to start another repository to make the proccess of moving the notebook to a more user-friendly site easier down the line. We are organizing everything by month and then creating separate files for each day. We also used the beginning of our meeting to talk about different notebook requirement and what we can do to meet them. 
+
+We realize we forgot to include attendence for our previous entries so we are including attendence entries from this entry forward. This should helps us keep track of who comes to each meeting and what everyone is doing.
 
 #### **End of Entry Thoughts**
 We were able to work on the prototype for the intake system and where we plan to aim. We were also able to get a lot done notebook-wise that can help us in the future.
@@ -1802,6 +1804,9 @@ We decided to redo the base to better incorperate the intake. The original base 
 
 <img src="https://user-images.githubusercontent.com/93736394/192545041-6cbc95ce-25e4-4f6f-b5a9-92fbfe2c44e9.jpg " height = "500">
 
+### **End of Entry Thoughts**
+
+
 
 -----
 
@@ -1862,6 +1867,9 @@ Today we plan to mount the bottom row and finalize mounting the intake to the ba
 
 #### **Bottom Row**
 The bottom row is spun using the motor from the intake. We attached a sprocket to the second to last row and the bottom row for the chain connecting them together. This should help us save motors and run the whole intake system at the same time.
+
+### **End of Entry Thoughts**
+We were able to get some work done on the team bios and all we are needing now is pictures from everyone. We weren't able to completely mount the bottom row of the intake, but we did get further along in attaching it to the bot.
 
 
 
@@ -1924,3 +1932,35 @@ Today we are finishing up the intake and fixing errors we found in yesterday's t
 
 #### **Intake**
 The shaft collar on the outside of the wheel is being used to pull the wheel away from the chain and sproket. Over time, we think the shaft collar could wear away the metal, so we added a washer to prevent this. 
+
+### **End of Entry Thoughts**
+We were able to get a lot talked about during the meeting and we plan to start finishing up the bot for an early competiton. This competition should help us get some ideas on how we can improve our robot and reveal any flaws we might have overlooked.
+
+
+
+-----
+
+
+
+
+
+
+## **9/28/22 - _Finalizing Prototype Day 5_**
+
+Today we are planning to finally finish up the Intake and test pnuematics pressuring.
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+### **Goals for Today**
+- [ ] Finalize the Intake
+- [ ] Test Pneumatics
+- [ ] Add Code to the Notebook
+- [ ] Add Code onto a Seperate File
+
+### **Code**
+We are going to add bit of the code Rhett has been working on to the actual notebook, but add a link to a separete file that contains the entire code for people who would like to check it out. This should show how we have been working on the code while allowing people to look at just the code if they are curious on how something works.
