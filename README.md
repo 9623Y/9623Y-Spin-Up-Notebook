@@ -1988,7 +1988,7 @@ We are going to add bit of the code Rhett has been working on to the actual note
 ### **Goals for Today**
 - [ ] Finish the Bases Drivetrain
 - [x] Add Pneumatics Test to Notebook
-- [ ] Add Code to Notebook
+- [ ] Add PROS Code Explanations to Notebook
 
 
 #### **Base Work**
@@ -2014,6 +2014,9 @@ We Wanted to Run a test to see if we could use a double acting cylinder as our p
 |**Test 10**|40|46|52|
 |**Average**|40.8|45.3|50|
 
-#### **Code**
+#### **Preface to Code Explanations**
+
+All of the Code so far has only been tested individualy by itself or has been written to work in theory. All code has not been tested together and may not work as intended. We will be testing the code together and fixing any errors that may arise in the future.
+
 
 
