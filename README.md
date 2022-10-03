@@ -2018,5 +2018,90 @@ We Wanted to Run a test to see if we could use a double acting cylinder as our p
 
 All of the Code so far has only been tested individualy by itself or has been written to work in theory. All code has not been tested together and may not work as intended. We will be testing the code together and fixing any errors that may arise in the future.
 
+#### **PROS Driver Control Drive Code**
+
+```cpp
+void opDriveControl()
+//Driver Control Mecanum Drive Control Function
+{
+	//Drive Control
+	int turn = master.get_analog(ANALOG_RIGHT_X); //Gets the Analog Value of the Right Joystick's X Axis
+	int power = master.get_analog(ANALOG_LEFT_Y); //Gets the Analog Value of the Left Joystick's Y Axis
+	int strafe = master.get_analog(ANALOG_LEFT_X); //Gets the Analog Value of the Left Joystick's X Axis
+
+	//Maths
+	int strafeReversed = -(strafe); //Reverses the Strafe Value
+	int fl = -(power + turn - strafeReversed); //Calculates the Front Left Motor voltage
+	int bl = power + turn + strafeReversed; //Calculates the Back Left Motor voltage
+	int fr = -(power - turn + strafeReversed); //Calculates the Front Right Motor voltage
+	int br = power - turn - strafeReversed; //Calculates the Back Right Motor voltage
+
+	//Motor Control
+	flDrive.move(fl); //Moves the Front Left Motor at the Calculated Voltage
+	blDrive.move(bl); //Moves the Back Left Motor at the Calculated Voltage
+	frDrive.move(fr); //Moves the Front Right Motor at the Calculated Voltage
+	brDrive.move(br); //Moves the Back Right Motor at the Calculated Voltage
+}
+```
+This code takes the analog values of the left and right joysticks and uses them to calculate the voltage to send to each motor. This code is written to work with a mecanum drive, but can be easily modified to work with a tank drive or any other type of drive.
+
+#### **PROS Driver Control Intake Control Code**
+
+```cpp
+void intakeControl()
+//Driver Control Intake Control Function
+{
+	//Intake On/Off Toggle Variable Control
+	
+	if(master.get_digital(ButtonUp) != lastKnownStateOfButtonIntake)
+	// check if the button's state is different from its last known state (has there been a change?)
+	{
+
+		lastKnownStateOfButtonIntake = master.get_digital(ButtonUp); //updates last know state of button for next loop
+
+		if(master.get_digital(ButtonUp))
+		//check the new state of the button (what just happened?)
+		{
+
+			//the button was just pressed, so toggle the state of the intake
+			if(shouldIntakeRun == true)
+			{
+				shouldIntakeRun = false;
+			}
+			else if(shouldIntakeRun == false)
+			{
+				shouldIntakeRun = true;
+			}
+			else
+			{
+				//the button was just released, but we dont care, so do nothing
+			}
+		}
+	}
+
+	//Intake Toggle Code
+
+	if(shouldIntakeRun == true)
+	//Spins the Motor if shouldIntakeRun is equal to true
+	{
+		intakeMotor.move_velocity(100);
+	}
+	else if(shouldIntakeRun == false)
+	//Stops the Motor if shouldIntakeRun is equal to false
+	{
+		intakeMotor.brake();
+	}
+	else 
+	{
+		//shouldIntakeRun is neither true nor false, so do nothing
+	}
+}
+```
+This code takes the state of the up button on the controller and uses it to toggle the state of the intake. This code is written to work by toggling the intake on and off, but can be easily modified to work with a button that is held down to run the intake.
+
+#### **PROS Driver Control Flywheel Control Code**
+
+```cpp
+
 
 
