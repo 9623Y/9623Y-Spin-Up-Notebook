@@ -2023,6 +2023,69 @@ We Wanted to Run a test to see if we could use a double acting cylinder as our p
 
 All of the Code so far has only been tested individualy by itself or has been written to work in theory. All code has not been tested together and may not work as intended. We will be testing the code together and fixing any errors that may arise in the future.
 
+
+#### **PROS Device Initialization Code**
+
+```cpp
+//Motor Initalization
+pros::Motor intakeMotor(INTAKE_MOTOR_PORT, TORQUEBOX); //Initializes the Intake Motor
+pros::Motor rightFlyMotor(R_FLYWHEEL_MOTOR_PORT, true); //Initializes the Right Flywheel Motor
+pros::Motor leftFlyMotor(L_FLYWHEEL_MOTOR_PORT); //Initializes the Left Flywheel Motor
+pros::Motor flDrive(FL_DRIVE_PORT); //Initializes the Front Left Drive Motor
+pros::Motor frDrive(FR_DRIVE_PORT); //Initializes the Front Right Drive Motor
+pros::Motor blDrive(BL_DRIVE_PORT); //Initializes the Back Left Drive Motor
+pros::Motor brDrive(BR_DRIVE_PORT); //Initializes the Back Right Drive Motor
+
+//Sensor Initalization
+pros::Rotation rightFlyRot(RIGHT_FLYWHEEL_ROTATION_SENSOR_PORT); //Initializes the Right Flywheel Rotation Sensor
+pros::Rotation leftFlyRot(LEFT_FLYWHEEL_ROTATION_SENSOR_PORT); //Initializes the Left Flywheel Rotation Sensor
+pros::Optical rollerOptical(OPTICAL_PORT); //Initializes the Optical Sensor
+pros::Vision discRecognition(VISION_PORT); //Initializes the Vision Sensor
+pros::Gps gps(GPS_PORT, 0.00, -0.135); //Initializes the GPS Sensor
+pros::Imu imu(IMU_PORT); //Initializes the IMU Sensor
+pros::Distance frontDistance(FRONT_DISTANCE_PORT); //Initializes the Front Distance Sensor
+pros::Distance backDistance(BACK_DISTANCE_PORT); //Initializes the Back Distance Sensor
+pros::Distance rightDistance(RIGHT_DISTANCE_PORT); //Initializes the Right Distance Sensor
+pros::Distance leftDistance(LEFT_DISTANCE_PORT); //Initializes the Left Distance Sensor
+pros::ADIDigitalOut flywheelActuator(FLYWHEEL_ACTUATOR); //Initializes the Flywheel Actuator
+pros::ADIDigitalOut endgameActuator(ENDGAME_ACTUATOR); //Initializes the Endgame Actuator
+
+//Controller Initilization
+pros::Controller master(pros::E_CONTROLLER_MASTER); //Initializes the Master Controller
+```
+This code initializes all the motors and sensors used in the robot to be able to be called by the PROS API. This code could be easily modified to work with any other motors or sensors that are wanted to be used.
+
+
+#### **PROS Device Initialization Function Code**
+
+```cpp
+void deviceInitialization()
+//Device Initialization Function
+{
+	pros::delay(3000); //Delays the Function by 3 Seconds
+	rollerOptical.set_led_pwm(100); //Turns on the Roller Optical Sensor LED at full Brightness
+	flywheelActuator.set_value(true); //Moves the Actuator to its Starting Position
+
+	switch(allianceValue)
+	//Initializes Devices Based on the Alliance Color selected on the GUI
+	{
+		case 1: //Initializes GPS for Red Alliance Starting Position
+			gps.initialize_full(xRedGPSInital, yRedGPSInital, currentHeading, xGPSOffset, yGPSOffset);
+		break;
+
+		case 2: //Initializes GPS for Blue Alliance Starting Position
+			gps.initialize_full(xBlueGPSInital, yBlueGPSInital, currentHeading, xGPSOffset, yGPSOffset);
+		break;
+		
+		case 3: //Initializes GPS for Skills Starting Position
+			gps.initialize_full(xSkillsGPSInital, ySkillsGPSInital, currentHeading, xGPSOffset, yGPSOffset);
+		break;
+	}
+}
+```
+This code turns on the optical sensors led and moves the actuator to its starting position. As well as initializes the GPS for the starting position of the alliance selected on the GUI.
+
+
 #### **PROS Driver Control Drivetrain Control Code**
 
 ```cpp
@@ -2049,6 +2112,7 @@ void opDriveControl()
 }
 ```
 This code takes the analog values of the left and right joysticks and uses them to calculate the voltage to send to each motor. This code is written to work with a mecanum drive, but can be easily modified to work with a tank drive or any other type of drive.
+
 
 #### **PROS Driver Control Intake Control Code**
 
@@ -2104,9 +2168,211 @@ void intakeControl()
 ```
 This code takes the state of the up button on the controller and uses it to toggle the state of the intake. This code is written to work by toggling the intake on and off, but can be easily modified to work with a button that is held down to run the intake.
 
-#### **PROS Driver Control Flywheel Control Code**
+
+#### **PROS Flywheel Data Output Code**
 
 ```cpp
+void RPMValue(int dataInterval)
+//Flywheel Data Output Function
+{
+	leftFlySpeed = (leftFlyRot.get_velocity()/6); //Gets the Speed of the Left Flywheel in RPM
+	rightFlySpeed = (rightFlyRot.get_velocity()/6); //Gets the Speed of the Right Flywheel in RPM
+	absLeftFlySpeed = abs(leftFlySpeed); //Gets the Absolute Value of the Left Flywheel Speed
+	absRightFlySpeed = abs(rightFlySpeed); //Gets the Absolute Value of the Right Flywheel Speed
+	std::cout << recordedTime << "," << absLeftFlySpeed << "," << absRightFlySpeed << "\n"; //Prints the Time and Flywheel Speeds to the Console
+	pros::delay(dataInterval); //Delays the Function by the Specified Amount of Time
+	recordedTime += dataInterval; //Adds the dataInterval to the Recorded Time to track the Time
+}
+```
+This code takes the speed of the flywheel and prints it to the console. This code is written to work with the flywheel motors, but can be easily modified to work with any other motor.
+
+
+#### **PROS Driver Control Flywheel Control Code**]
+
+```cpp
+void FlywheelControl(int leftFlyRPM, int rightFlyRPM)
+//Flywheel Control Function
+{
+	theoreticalRightFlywheelSpeed = rightFlyRPM*10; //Sets the Speed that the Right Flywheel Should Be Going
+	theoreticalLeftFlywheelSpeed = leftFlyRPM*10; //Sets the Speed that the Left Flywheel Should Be Going
+
+	if (master.get_digital(ButtonA))
+	//Runs the Flywheel at the Specified Speeds and Starts Data output when the A Button is Pressed 
+	{
+		leftFlyMotor.move_velocity(leftFlyRPM); //spins the left flywheel at the specified speed
+		rightFlyMotor.move_velocity(rightFlyRPM); //spins the right flywheel at the specified speed
+		spinning = true; //Sets the Variable to output data to true
+		flywheelStopped = false; //Sets the Variable to indicate that the Flywheel is Stopped to False
+	}
+
+	if (master.get_digital(ButtonB))
+	//Stops the Flywheels when the B Button is Pressed 
+	{
+		leftFlyMotor.brake(); //Stops the Left Flywheel motor
+		rightFlyMotor.brake(); //Stops the Right Flywheel motor
+		flywheelStopped = true; //Sets the Variable to indicate that the Flywheel is Stopped to True
+	}
+
+	if (master.get_digital(ButtonY))
+	//Fires the Pnuematic Actuator when the Y Button is Pressed 
+	{
+		flywheelActuator.set_value(false); //Moves the Actuator to Push the Disc into the Flywheel
+		pros::delay(100); //waits 100 milliseconds
+		flywheelActuator.set_value(true); //Moves the Actuator to Return the Actuator to its Original Position
+	}
+
+	if (master.get_digital(ButtonL1))
+	//Increases the Left and Right Flywheel Speeds by 10 RPM When the Left Bumper is Pressed 
+	{
+		leftFlyRPM += 10; //Increases the Left Flywheel Speed by 10 RPM 
+		rightFlyRPM += 10; //Increases the Right Flywheel Speed by 10 RPM
+		leftFlyMotor.move_velocity(leftFlyRPM); //Spins the Left Flywheel at the New Speed
+		rightFlyMotor.move_velocity(rightFlyRPM); //Spins the Right Flywheel at the New Speed
+
+	}
+
+	if (master.get_digital(ButtonL2))
+	//Decreases the Left and Right Flywheel Speeds by 10 RPM When the Left Trigger is Pressed 
+	{
+		leftFlyRPM -= 10; //Decreases the Left Flywheel Speed by 10 RPM
+		rightFlyRPM -= 10; //Decreases the Right Flywheel Speed by 10 RPM
+		leftFlyMotor.move_velocity(leftFlyRPM); //Spins the Left Flywheel at the New Speed
+		rightFlyMotor.move_velocity(rightFlyRPM); //Spins the Right Flywheel at the New Speed
+	}
+
+	if (leftFlySpeed < 1 && rightFlySpeed < 1 && flywheelStopped == true) 
+	//Stops data output when the Flywheels stop spinning and the flywheelStopped Variable is True
+	{
+		spinning = false; //Sets the Variable to output data to False
+	}
+
+	if (spinning == true)
+	//Runs the Data Output Function when the spinning Variable is True
+	{
+		RPMValue(25); //Runs the Data Output Function at the specified data interval
+	}
+	//prints the theoretical flywheel speeds to the controller
+	master.print(0, 0, "L: %i", theoreticalLeftFlywheelSpeed, "  |  ", "R: %i" , theoreticalRightFlywheelSpeed);
+}
+```
+This code controls the flywheel motors and the actuator. This code is written to work with the flywheel motors and the actuator, but can be easily modified to work with any other motor or actuator. This code also uses the RPMValue function to output the flywheel speeds to the console as well as uses some code to print the theoretical flywheel speeds to the controller.
+
+
+#### **PROS Roller Identification Code**
+
+```cpp
+void rollerIdentification()
+//Roller Owner Identification Function
+{
+	switch(allianceValue)
+	//Identifies whether the Roller is Owned or Not based on the Alliance Color Selected on the GUI
+	{
+		case 1: //Red Alliance
+			if(opticalHue >= 60 && opticalHue <= 270)
+			//Identifies the Roller as Red
+			{
+				rollerOwner = "Red"; //Sets the rollerOwner String to Red
+				rollerOwned = true; //Sets the rollerOwned Variable to True
+			}
+			if(opticalHue >= 0 && opticalHue <= 45)
+			//Identifies the Roller as Blue
+			{
+				rollerOwner = "Blue"; //Sets the rollerOwner String to Blue
+				rollerOwned = false; //Sets the rollerOwned Variable to False
+			}
+		break;
+
+		case 2: //Blue Alliance
+			if(opticalHue >= 60 && opticalHue <= 270)
+			//Identifies the Roller as Red
+			{
+				rollerOwner = "Red"; //Sets the rollerOwner String to Red
+				rollerOwned = false; //Sets the rollerOwned Variable to False
+			}
+			if(opticalHue >= 0 && opticalHue <= 45)
+			//Identifies the Roller as Blue
+			{
+				rollerOwner = "Blue"; //Sets the rollerOwner String to Blue
+				rollerOwned = true; //Sets the rollerOwned Variable to True
+			}
+		break;
+
+	}
+}
+```
+This code uses the alliance selected on the GUI to identify whether the roller is owned or not. This allows the robot to know when to stop spinning the roller.
+
+
+#### **PROS Driver Control Roller Control Code**
+
+```cpp
+void rollerControl()
+//Driver Control Roller Control Function
+{
+	if(rollerOwned == false)
+	//Spins the Roller if rollerOwned is equal to false
+	{
+		intakeMotor.move_velocity(25);
+	}
+	else if(rollerOwned == true)
+	//Stops the Roller if rollerOwned is equal to true
+	{
+		intakeMotor.brake();
+	}
+	else
+	{
+		//rollerOwned is neither true nor false, so do nothing
+	}
+}
+```
+This code uses the rollerOwned variable to determine whether the roller should be spinning or not. This code is written to work with the intake motor, which also will control the roller mechanism in theory, but can be easily modified to work with any other motor.
+
+
+#### **PROS Driver Control Code**
+
+```cpp
+void opFunctions()
+//Driver Control Parrallel Tasks Function
+{
+	while(true)
+	{	
+		#pragma omp parrallel
+		//Runs all of the enclosed tasks in parrallel 
+		{
+			#pragma omp task
+			//Defines the enclosed code as a task
+			{
+				opDriveControl(); //Runs the Driver Control Mecanum Drive Control Function	
+			}
+			#pragma omp task
+			//Defines the enclosed code as a task
+			{
+				FlywheelControl(160, 200); //Runs the Flywheel Control Function
+			}
+			#pragma omp task
+			//Defines the enclosed code as a task
+			{
+				intakeControl(); //Runs the Intake Control Function
+			}
+			#pragma omp task
+			//Defines the enclosed code as a task
+			{
+				rollerIdentification(); //Runs the Roller Identification Function
+			}
+			#pragma omp task
+			//Defines the enclosed code as a task
+			{
+				rollerControl(); //Runs the Roller Control Function
+			}
+		}
+	}	
+}
+```
+This code runs all of the driver control functions in parallel. This code is written to work with the functions listed, but can be easily modified to work with any other functions, or have functions added to it.
+
+
+
+
 
 
 
