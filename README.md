@@ -1969,13 +1969,46 @@ We are going to add bit of the code Rhett has been working on to the actual note
 #### **Pneumatics Testing**
 We decided to run some tests to find out if we were able to use a double acting cylinder in the launcher. Unfortunatly, we weren't able to finish it today, so we will finish the tests tomorrow and add them to tomorrow's entry.
 
+### **End of Entry Thoughts**
+We were able to finalize the intake and begin testing different pneumatics systems for the launcher. We plan to continue pneumetics testing tomorrow and begin adding code into the notebook.
+
+
+
+
+-----
+
+## **9/29/22 - _Base Prototyping_**
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [ ] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+### **Goals for Today**
+- [ ] Continue Base prototyping
+
+#### **Base Prototyping**
+We weren't at school for this meeting due to the hurrican, which prevented us from continuing the pneumatics testing for the launcher. Rhett and Tyler were able to meet up outside of school to work on the base before the hurricane. We were able to get the wheels and motors attached and ready for chain-drive. 
+
+### **End of Entry Thoughts**
+While we weren't able to get what we originally wanted done, we were able to work on some things that have been set aside till now, like the wheels.
+
 
 
 
 -----
 
 
-added wheels, widen by quarter inch, widened intake and entire bot so connecting c-channel would line up, added rear motor wheels, spacing for rear wheels 
+
+
+
+## **10/2/22**
+Sunday
+Widened entire bot by quarter inch for connecting c-channel
+
+
 
 
 
