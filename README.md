@@ -1958,19 +1958,24 @@ Today we are planning to finally finish up the Intake and test pnuematics pressu
 - [ ] Ari
 
 ### **Goals for Today**
-- [ ] Finalize the Intake
-- [ ] Test Pneumatics
+- [x] Finalize the Intake
+- [x] Test Pneumatics
 - [ ] Add Code to the Notebook
 - [ ] Add Code onto a Seperate File
 
-### **Code**
+#### **Code**
 We are going to add bit of the code Rhett has been working on to the actual notebook, but add a link to a separete file that contains the entire code for people who would like to check it out. This should show how we have been working on the code while allowing people to look at just the code if they are curious on how something works.
+
+#### **Pneumatics Testing**
+We decided to run some tests to find out if we were able to use a double acting cylinder in the launcher. Unfortunatly, we weren't able to finish it today, so we will finish the tests tomorrow and add them to tomorrow's entry.
 
 
 
 
 -----
 
+
+added wheels, widen by quarter inch, widened intake and entire bot so connecting c-channel would line up, added rear motor wheels, spacing for rear wheels 
 
 
 
@@ -1992,7 +1997,7 @@ We are going to add bit of the code Rhett has been working on to the actual note
 
 
 #### **Base Work**
-
+The spacing for our wheels doesnt leave a whole lot of room between different parts. The sprocket for chain drive does fit, though the space is quite tight and doesn't leave much room
 
 #### **Pneumatics Test**
 
