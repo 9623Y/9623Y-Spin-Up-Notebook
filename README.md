@@ -51,6 +51,7 @@
 46. [**9/26/22 - _Finalizing Prototype Day 3_**](#92622---finalizing-prototype-day-3)
 47. [**9/27/22 - _Finalizing Prototype Day 4_**](#92722---finalizing-prototype-day-4)
 48. [**9/28/22 - _Finalizing Prototype Day 5_**](#92822---finalizing-prototype-day-5)
+49. [**10/3/22**](#10322)
 
 
 
@@ -1964,3 +1965,27 @@ Today we are planning to finally finish up the Intake and test pnuematics pressu
 
 ### **Code**
 We are going to add bit of the code Rhett has been working on to the actual notebook, but add a link to a separete file that contains the entire code for people who would like to check it out. This should show how we have been working on the code while allowing people to look at just the code if they are curious on how something works.
+
+
+
+
+-----
+
+
+
+
+
+## **10/3/22**
+
+
+### **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+### **Goals for Today**
+- [ ] Finish Base
+- [ ] Add Pneumatics Test to Notebook
+- [ ] Add Code to Notebook
