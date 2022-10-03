@@ -1986,6 +1986,34 @@ We are going to add bit of the code Rhett has been working on to the actual note
 - [ ] Ari
 
 ### **Goals for Today**
-- [ ] Finish Base
-- [ ] Add Pneumatics Test to Notebook
+- [ ] Finish the Bases Drivetrain
+- [x] Add Pneumatics Test to Notebook
 - [ ] Add Code to Notebook
+
+
+#### **Base Work**
+
+
+#### **Pneumatics Test**
+
+We Wanted to Run a test to see if we could use a double acting cylinder as our pnuematics device to conserve space and make a more effective launcher. However we were unsure just how many shots we could get on a double acting cylinder, and if we used a double acting cylinder we would even be able to have enough shots to last the whole match (We figure this to be somewhere between 40 to 50 shots in a match where we have to shoot more discs than usual). To test if we would be able to get enough shots we ran a test to see how many shots we could get on a double acting cylinder with three different setups, without a needle valve limiter, with a needle valve limiter allowing the max amount of air through, and a needle valve limiter allowing just enough air to run the double acting cylinder (This was about half-way open/closed on with the needle valve). With no limiter we averaged 40.8 shots over 10 tests, with a limiter allowing the max amount of air through we averaged 45.3 shots over ten tests, and with a limiter allowing just enough air to run the double acting cylinder effectively we averaged an even 50 shots over 10 tests. These tests lead us to believe that we will be able to use a double acting cylinder for the acutuator for our flywheel, meaning we can save space and make a more effective launcher.
+
+#### **Pneumatics Test Results**
+
+||**No Limiter**|**Unlimited With Limiter**|**Half-way Limited**|
+|:---|:---:|:---:|:---:|
+|**Test 1**|42|45|50|
+|**Test 2**|39|46|51|
+|**Test 3**|44|46|50|
+|**Test 4**|40|43|49|
+|**Test 5**|40|47|48|
+|**Test 6**|38|44|50|
+|**Test 7**|42|45|51|
+|**Test 8**|41|47|51|
+|**Test 9**|42|44|48|
+|**Test 10**|40|46|52|
+|**Average**|40.8|45.3|50|
+
+#### **Code**
+
+
