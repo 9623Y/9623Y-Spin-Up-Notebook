@@ -2724,3 +2724,18 @@ The flywheels at the bottom row prevent the disc from tilting properly into the 
 - [ ] Finish Intake
 - [ ] (If Time) Mount Launch
 
+Rubberband row
+Ramp
+Battery case
+
+We widened the intake
+Sprockets from rubberband roller kept getting caught on disc
+
+### **Intake Ajustments**
+The discs were getting caught on the sprockets so we widened the intake to allow space for the disc to fit between the sprockets. 
+
+### **Ramp Redesign**
+Our old ramp was too steep and prevented the disc from entering the intake properly. We are creating a more gentle ramp that uses the flexability of the rubberbands to push it into the intake. 
+
+
+
