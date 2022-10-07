@@ -57,10 +57,10 @@
 52. [**9/29/22 - _Base Prototyping_**](#92922---base-prototyping)
 53. [**10/2/22 - _Base Prototyping Day 2_**](#10222---base-prototyping-day-2)
 54. [**10/3/22 - _Pneumatics Testing and Code_**](#10322---pneumatics-testing-and-code)
-55. [**10/4/22**](#10422)
-56. [**10/5/22**](#10522)
-57. [**10/6/22**](#10622)
-58. [**10/7**](#107)
+55. [**10/4/22 - _Testing and Finalizing Intake_**](#10422---testing-and-finalizing-intake)
+56. [**10/5/22 - _Intake Building_**](#10522---intake-building)
+57. [**10/6/22 - _Intake Redesign and Long Meeting_**](#10622---intake-redesign-and-long-meeting)
+58. [**10/7 - _Intake Redesigning and Notebook Work_**](#107---intake-redesigning-and-notebook-work)
 
 
 
@@ -2690,7 +2690,7 @@ We were able to finish the pneumatics testing and finally add code to the notebo
 
 
 
-# **10/4/22**
+# **10/4/22 - _Testing and Finalizing Intake_**
 
 Today we are working to finish the intake and fix any flaws along the way.
 
@@ -2713,24 +2713,59 @@ The flywheels at the bottom row prevent the disc from tilting properly into the 
 
 
 
-# **10/5/22**
+
+-----
+
+
+
+
+
+# **10/5/22 - _Intake Building_**
+
+Today we are working on the bottom row of the intake.
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
 
 ## **Goals for Today**
 - [ ] Start on Bottom Row Redesign
+- [ ] Replace Broken Wires in Battery Case
+
+### **Intake Redesign**
 
 
-# **10/6/22**
+### **Battery Case**
+The battery case for our club had a few fraying wires, so we decided to replace the wires to prevent people from getting shocked on the wires.
+
+## **End of Entry Thoughts**
+We werent able to finish fixing the battery case and we will have to continue it tomorrow.
+
+
+-----
+
+
+
+
+
+# **10/6/22 - _Intake Redesign and Long Meeting_**
+
+Today we are working to finish the intake and finish replacing the wires in the battery case. We have a long meeting today and we plan to use our time as wisely as we can.
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [x] Rebecca
+- [x] Ari
 
 ## **Goals for Today**
 - [ ] Finish Intake
 - [ ] (If Time) Mount Launch
-
-Rubberband row
-Ramp
-Battery case
-
-We widened the intake
-Sprockets from rubberband roller kept getting caught on disc
+- [ ] Finish Replacing Wires in Battery Case
 
 ### **Intake Ajustments**
 The discs were getting caught on the sprockets so we widened the intake to allow space for the disc to fit between the sprockets. We widened it by 4 inches to give the disk some extra space. 
@@ -2738,13 +2773,32 @@ The discs were getting caught on the sprockets so we widened the intake to allow
 ### **Ramp Redesign**
 Our old ramp was too steep and prevented the disc from entering the intake properly. We are creating a more gentle ramp that uses the flexability of the rubberbands to push it into the intake. The ramp we tested first was a flat ramp with a tight turn into the upper intake. This helped the disc get onto the ramp, but it wouldnt get into the upper intake. We went back to our original curved ramp design after testing multiple different angles as it was much more effective than the tight turn from lower intake into the upper intake.
 
-Experimented with flat ramp - angle from ramp into the upper intake too steep. Went back to curved ramp. 
+### **Team Battery Case**
+We decided to replace multiple cables to prevent people from accidently shocking themselves and prevent other cables from degrading further. We also labeled the cables for future repairs. This will help us have back-up batteries prepared for the whole club during competition and easily bring our batteries to and from competition.
+
+## **End of Entry Thoughts**
+We were able to get a lot done today and test a new ramp design. We also got the chance to talk to some of the people who were previously on the team and have since graduated. They were able to help us with ideas on things we could test or things that might not work on our current prototype.
 
 
-# **10/7**
+
+
+-----
+
+
+
+
+
+
+# **10/7 - _Intake Redesigning and Notebook Work_**
+
+Today we plan to continue working on the intake after yesterday's redesigning and update yesterday's notebooking with the notes we left yesterday.
 
 ## **Goals for Today**
 - [ ] General Notebook Housekeeping
+- [ ] Continue Intake
+
+### **Intake Adjustments**
+We are replacing the bottom row of the upper intake with altered flex wheels that should help give us a little more rigitity than the rubberband and sprocket row but giving us more flexability than the flexwheel rows.
 
 
 
