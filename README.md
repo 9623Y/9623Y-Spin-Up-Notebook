@@ -60,6 +60,7 @@
 55. [**10/4/22**](#10422)
 56. [**10/5/22**](#10522)
 57. [**10/6/22**](#10622)
+58. [**10/7**](#107)
 
 
 
@@ -2732,10 +2733,18 @@ We widened the intake
 Sprockets from rubberband roller kept getting caught on disc
 
 ### **Intake Ajustments**
-The discs were getting caught on the sprockets so we widened the intake to allow space for the disc to fit between the sprockets. 
+The discs were getting caught on the sprockets so we widened the intake to allow space for the disc to fit between the sprockets. We widened it by 4 inches to give the disk some extra space. 
 
 ### **Ramp Redesign**
-Our old ramp was too steep and prevented the disc from entering the intake properly. We are creating a more gentle ramp that uses the flexability of the rubberbands to push it into the intake. 
+Our old ramp was too steep and prevented the disc from entering the intake properly. We are creating a more gentle ramp that uses the flexability of the rubberbands to push it into the intake. The ramp we tested first was a flat ramp with a tight turn into the upper intake. This helped the disc get onto the ramp, but it wouldnt get into the upper intake. We went back to our original curved ramp design after testing multiple different angles as it was much more effective than the tight turn from lower intake into the upper intake.
+
+Experimented with flat ramp - angle from ramp into the upper intake too steep. Went back to curved ramp. 
+
+
+# **10/7**
+
+## **Goals for Today**
+- [ ] General Notebook Housekeeping
 
 
 
