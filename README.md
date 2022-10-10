@@ -55,12 +55,13 @@
 50. [**9/27/22 - _Finalizing Prototype Day 4_**](#92722---finalizing-prototype-day-4)
 51. [**9/28/22 - _Finalizing Prototype Day 5_**](#92822---finalizing-prototype-day-5)
 52. [**9/29/22 - _Base Prototyping_**](#92922---base-prototyping)
-53. [**10/2/22 - _Base Prototyping Day 2_**](#10222---base-prototyping-day-2)
-54. [**10/3/22 - _Pneumatics Testing and Code_**](#10322---pneumatics-testing-and-code)
-55. [**10/4/22 - _Testing and Finalizing Intake_**](#10422---testing-and-finalizing-intake)
-56. [**10/5/22 - _Intake Building_**](#10522---intake-building)
-57. [**10/6/22 - _Intake Redesign and Long Meeting_**](#10622---intake-redesign-and-long-meeting)
-58. [**10/7 - _Intake Redesigning and Notebook Work_**](#107---intake-redesigning-and-notebook-work)
+53. [**10/02/22 - _Base Prototyping Day 2_**](#100222---base-prototyping-day-2)
+54. [**10/03/22 - _Pneumatics Testing and Code_**](#100322---pneumatics-testing-and-code)
+55. [**10/04/22 - _Testing and Finalizing Intake_**](#100422---testing-and-finalizing-intake)
+56. [**10/05/22 - _Intake Building_**](#100522---intake-building)
+57. [**10/06/22 - _Intake Redesign and Long Meeting_**](#100622---intake-redesign-and-long-meeting)
+58. [**10/07/22 - _Intake Redesigning and Notebook Work_**](#100722---intake-redesigning-and-notebook-work)
+59. [**10/10/22 - _Intake Prototyping Day 15_**](#101022---intake-prototyping-day-15)
 
 
 
@@ -2013,7 +2014,7 @@ While we weren't able to get what we originally wanted done, we were able to wor
 
 
 
-# **10/2/22 - _Base Prototyping Day 2_**
+# **10/02/22 - _Base Prototyping Day 2_**
 
 
 ## **Attendance**
@@ -2042,7 +2043,7 @@ We were able to get the bot widened and improve the structure of our robot.
 
 
 
-# **10/3/22 - _Pneumatics Testing and Code_**
+# **10/03/22 - _Pneumatics Testing and Code_**
 
 
 ## **Attendance**
@@ -2690,7 +2691,7 @@ We were able to finish the pneumatics testing and finally add code to the notebo
 
 
 
-# **10/4/22 - _Testing and Finalizing Intake_**
+# **10/04/22 - _Testing and Finalizing Intake_**
 
 Today we are working to finish the intake and fix any flaws along the way.
 
@@ -2711,6 +2712,9 @@ The shaft on the bottom row of the intake was too short for the new width so we 
 ### **Intake Redesign**
 The flywheels at the bottom row prevent the disc from tilting properly into the intake. We are switching the flywheels out for a sprocket and rubberband like the very last row of the intake. The extra elasticity and space should be enough room for the disc to be pushed up into the intake.
 
+## **End of Entry Thoughts**
+We were able to finalize this version of the intake but testing proved that there was still more to be done.
+
 
 
 
@@ -2720,7 +2724,7 @@ The flywheels at the bottom row prevent the disc from tilting properly into the 
 
 
 
-# **10/5/22 - _Intake Building_**
+# **10/05/22 - _Intake Building_**
 
 Today we are working on the bottom row of the intake.
 
@@ -2751,7 +2755,7 @@ We werent able to finish fixing the battery case and we will have to continue it
 
 
 
-# **10/6/22 - _Intake Redesign and Long Meeting_**
+# **10/06/22 - _Intake Redesign and Long Meeting_**
 
 Today we are working to finish the intake and finish replacing the wires in the battery case. We have a long meeting today and we plan to use our time as wisely as we can.
 
@@ -2765,16 +2769,16 @@ Today we are working to finish the intake and finish replacing the wires in the 
 ## **Goals for Today**
 - [ ] Finish Intake
 - [ ] (If Time) Mount Launch
-- [ ] Finish Replacing Wires in Battery Case
+- [x] Finish Replacing Wires in Battery Case
 
 ### **Intake Ajustments**
 The discs were getting caught on the sprockets so we widened the intake to allow space for the disc to fit between the sprockets. We widened it by 4 inches to give the disk some extra space. 
 
 ### **Ramp Redesign**
-Our old ramp was too steep and prevented the disc from entering the intake properly. We are creating a more gentle ramp that uses the flexability of the rubberbands to push it into the intake. The ramp we tested first was a flat ramp with a tight turn into the upper intake. This helped the disc get onto the ramp, but it wouldnt get into the upper intake. We went back to our original curved ramp design after testing multiple different angles as it was much more effective than the tight turn from lower intake into the upper intake.
+Our old ramp was too steep and prevented the disc from entering the intake properly. We are creating a more gentle ramp that uses the flexability of the rubberbands to push the disc into the intake. The ramp we tested first was a flat ramp with a tight turn into the upper intake. This helped the disc get onto the ramp, but it wouldnt get into the upper intake. We went back to our original curved ramp design after testing multiple different angles as it was much more effective than the tight turn from the lower intake into the upper intake.
 
 ### **Team Battery Case**
-We decided to replace multiple cables to prevent people from accidently shocking themselves and prevent other cables from degrading further. We also labeled the cables for future repairs. This will help us have back-up batteries prepared for the whole club during competition and easily bring our batteries to and from competition.
+We decided to replace multiple cables to prevent people from accidently shocking themselves and prevent other cables from degrading further. We also labeled the cables for future repairs. This will help us have back-up batteries prepared for the whole club during competition and easily transport our batteries to and from competition.
 
 ## **End of Entry Thoughts**
 We were able to get a lot done today and test a new ramp design. We also got the chance to talk to some of the people who were previously on the team and have since graduated. They were able to help us with ideas on things we could test or things that might not work on our current prototype.
@@ -2789,16 +2793,46 @@ We were able to get a lot done today and test a new ramp design. We also got the
 
 
 
-# **10/7 - _Intake Redesigning and Notebook Work_**
+# **10/07/22 - _Intake Redesigning and Notebook Work_**
 
 Today we plan to continue working on the intake after yesterday's redesigning and update yesterday's notebooking with the notes we left yesterday.
 
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
 ## **Goals for Today**
-- [ ] General Notebook Housekeeping
-- [ ] Continue Intake
+- [x] General Notebook Housekeeping
+- [x] Continue Intake
 
 ### **Intake Adjustments**
-We are replacing the bottom row of the upper intake with altered flex wheels that should help give us a little more rigitity than the rubberband and sprocket row but giving us more flexability than the flexwheel rows.
+We are replacing the bottom row of the upper intake with altered flex wheels that should help give us a little more rigitity than the rubberband and sprocket row but giving us more flexability than the flex wheel rows.
+
+## **End of Entry Thoughts**
+We weren't able to get a lot done due to the shortened day, but we did fix up the notebook and begin working on the intake redesign.
+
+
+
+
+-----
+
+
+
+
+
+
+# **10/10/22 - _Intake Prototyping Day 15_**
+
+## **Goals for Today**
+- [ ] Finish Intake System
+- [ ] (If time) Start on Ramp
+
+### **Intake System Ajustments**
+We are switching out the bottom row of the upper intake with custom cut flex wheels to provide a bit more regitity than the rubber bands but more flexibility than the original flex wheels.
+
 
 
 
