@@ -78,7 +78,7 @@ The field will be divided diagonally into two halves. Robots will be attempting 
 
 The match will start with a 15 second autonomous period followed by a driver controlled period lasting a minute and 45 seconds. All game rules are in effect during both the autonomous period and the driver controlled period, though manually driving the bot using the contoller is not allowed during the autonomous period. Teams are given 2 preloadable discs per team before the match and 7 match discs per alliance teams can add onto the field using a metal ramp along the sides of the field. 
 
-During the match, each robot can only hold at most 3 discs at a time.
+During the match, each robot can only hold at most 3 discs at a time. Theres is a vertical and horizontal limit of 18 inches during the match. There is a 24 inch height limit, but its limited to a vertical cylinder with a 2" diameter.
 
 -- Original Info -- 
 
