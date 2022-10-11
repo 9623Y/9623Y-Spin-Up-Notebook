@@ -2872,6 +2872,7 @@ We didn't get much done today but we were able to get the two top rows of the up
 - [ ] Finish Intake
 - [ ] 
 
-
+### **Intake Ideas**
+We are using 3 flex wheels for the middle row to help boost the disc up to the top row. We are concerned about the middle flex wheel not touching the disc, so we will cut the two outer wheels to match the already cut ones on the bottom row if this issue occurs.
 
 
