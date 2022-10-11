@@ -74,7 +74,13 @@
 # ***Game Explanation***
 This year the competition is titled VEX: Spin-Up
 
-The field will be divided diagonally.
+The field will be divided diagonally into two halves. Robots will be attempting to score discs from the field into the high goals and low goals. There is only 1 high goal and 1 low goal assigned to each allience. Teams can use the temporary unlimited horizontal expansion limit in the last 10 seconds to cover as many tiles as possible and earn points with each tile covered. There are a total of 36 tiles on the field and both teams can be awarded points for touching the same tile. Teams can also use the robots to change the color of the rollers to their assigned alliance color to gain points. There are a total of 4 rollars around the field that either alliance can score. Teams can also gain points from the autonomous driving period. Whichever team completes the autonomous period tasks will be awarded the autonomous bonus points.
+
+The match will start with a 15 second autonomous period followed by a driver controlled period lasting a minute and 45 seconds. All game rules are in effect during both the autonomous period and the driver controlled period, though manually driving the bot using the contoller is not allowed during the autonomous period. Teams are given 2 preloadable discs per team before the match and 7 match discs per alliance teams can add onto the field using a metal ramp along the sides of the field. 
+
+During the match, each robot can only hold at most 3 discs at a time.
+
+-- Original Info -- 
 
 robots will be attepting to score discs from the field into high goals,low goals as well as at the end of the round cover as many tiles as possible. Teams may also change the color of rollers to their assigned color to gain points as well.
 Rollers are worth 10 points per (4 rollers)
@@ -2748,6 +2754,8 @@ The battery case for our club had a few fraying wires, so we decided to replace 
 
 ## **End of Entry Thoughts**
 We werent able to finish fixing the battery case and we will have to continue it tomorrow.
+
+
 
 
 -----
