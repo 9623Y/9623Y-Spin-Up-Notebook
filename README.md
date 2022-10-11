@@ -62,6 +62,7 @@
 57. [**10/06/22 - _Intake Redesign and Long Meeting_**](#100622---intake-redesign-and-long-meeting)
 58. [**10/07/22 - _Intake Redesigning and Notebook Work_**](#100722---intake-redesigning-and-notebook-work)
 59. [**10/10/22 - _Intake Prototyping Day 15_**](#101022---intake-prototyping-day-15)
+60. [**10/11/22**](#101122)
 
 
 
@@ -2826,12 +2827,50 @@ We weren't able to get a lot done due to the shortened day, but we did fix up th
 
 # **10/10/22 - _Intake Prototyping Day 15_**
 
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
 ## **Goals for Today**
 - [ ] Finish Intake System
 - [ ] (If time) Start on Ramp
 
 ### **Intake System Ajustments**
 We are switching out the bottom row of the upper intake with custom cut flex wheels to provide a bit more regitity than the rubber bands but more flexibility than the original flex wheels.
+
+We originally moved the two top rows of the upper intake back by one hole to help with fitting the disc between the lexane from the bottom row. The new bottom row messed up the spacing for this design so we are moving the two top rows forward again to try and fix the spacing for the disc.
+
+### **Launcher CAD**
+<img src="https://user-images.githubusercontent.com/93736394/195106660-371cc110-e3f3-41ba-bd91-19626e254317.jpg" height = "400">
+
+## **End of Entry Thoughts**
+We didn't get much done today but we were able to get the two top rows of the upper intake taken off and prepped for tomorrow.
+
+
+
+
+-----
+
+
+
+
+
+# **10/11/22**
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+
+## **Goals for Today**
+- [ ] Finish Intake
+- [ ] 
 
 
 
