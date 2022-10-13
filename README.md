@@ -2890,3 +2890,18 @@ We continued to move the intake forward one hole to help the two top rows of the
 
 
 # **10/13/22**
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+## **Goals for Today**
+- [x] Test Intake
+- [ ] Finish Launcher
+- [ ] (If Time) Mount Launcher
+
+### **Intake**
+With the intake finally completed, we were able to begin testing our intake. We found that the robot wouldn't turn correctly because of the base bowing in the middle. To fix this, we added a supporting bar across the entire robot, attaching it to the inner and outer wheel bars. Before we reattached the lower intake, we tested it to see if we actually needed it or if we could use the space for the launcher or any other things we need. The intake couldn't get to the disc without it so we ended up adding it back on.
