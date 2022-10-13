@@ -63,6 +63,8 @@
 58. [**10/07/22 - _Intake Redesigning and Notebook Work_**](#100722---intake-redesigning-and-notebook-work)
 59. [**10/10/22 - _Intake Prototyping Day 15_**](#101022---intake-prototyping-day-15)
 60. [**10/11/22**](#101122)
+61. [**10/12/22**](#101222)
+62. [**10/13/22**](#101322)
 
 
 
@@ -2872,15 +2874,19 @@ We didn't get much done today but we were able to get the two top rows of the up
 - [x] Rhett
 - [x] Tyler
 - [x] Noly
-- [ ] Rebecca
-- [ ] Ari
+- [x] Rebecca
+- [x] Ari
 
 
 ## **Goals for Today**
 - [ ] Finish Intake
-- [ ] 
 
 ### **Intake Ideas**
-We are using 3 flex wheels for the middle row to help boost the disc up to the top row. We are concerned about the middle flex wheel not touching the disc, so we will cut the two outer wheels to match the already cut ones on the bottom row if this issue occurs.
+We are using 3 flex wheels for the middle row to help boost the disc up to the top row. We are concerned about the middle flex wheel not touching the disc, so we will cut the two outer wheels to match the already cut ones on the bottom row if this issue occurs. 
+
+We continued to move the intake forward one hole to help the two top rows of the upper intake reach the disc and pull it up
+
+# **10/12/22**
 
 
+# **10/13/22**
