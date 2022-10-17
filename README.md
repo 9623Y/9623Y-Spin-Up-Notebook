@@ -3,66 +3,68 @@
 
 # ***Table of Contents***
 
-1. [***Team Bio***](#team-bio)
-2. [***Game Explanation***](#game-explanation)
-3. [***Dated Entries***](#dated-entries)
-4. [**5/11/22 - _The Contest Begins_**](#51122---the-contest-begins)
-5. [**5/12/2022 - _Beginning Design_**](#5122022---beginning-design)
-6. [**5/16/2022 - _Fusion Design Begins_**](#5162022---fusion-design-begins)
-7. [**5/17/2022 - _Design Continues and Building Begins_**](#5172022---design-continues-and-building-begins)
-8. [**5/18/2022 - _Prototyping Continues_**](#5182022---prototyping-continues)
-9. [**5/19/2022 - _Designing a Test_**](#5192022---designing-a-test)
-10. [**5/20/2022 - _Gear Ratios_**](#5202022---gear-ratios)
-11. [**5/23/2022 - _Programming and Maybe Testing_**](#5232022---programming-and-maybe-testing)
-12. [**5/24/2022 - _Programming and Working Towards Finalizing the Prototyping/Test Bed_**](#5242022---programming-and-working-towards-finalizing-the-prototypingtest-bed)
-13. [**5/25/2022 - _Continuing Work on the Test Bed_**](#5252022---continuing-work-on-the-test-bed)
-14. [**5/26/2022 - _Testing Begins_**](#5262022---testing-begins)
-15. [**5/27/2022 - _Heavily Testing_**](#5272022---heavily-testing)
-16. [**5/31/2022 - _Launcher Testing and Intake Design_**](#5312022---launcher-testing-and-intake-design)
-17. [**7/28/22 -  _Returning from break / Returning to planning_**](#72822----returning-from-break--returning-to-planning)
-18. [**8/18/2022 - _Beginning Work in Class / First In-Season Team Meeting_**](#8182022---beginning-work-in-class--first-in-season-team-meeting)
-19. [**8/19/22 - _Intake Design_**](#81922---intake-design)
-20. [**8/22/2022 - _Intake Prototype Building Begins_**](#8222022---intake-prototype-building-begins)
-21. [**8/23/2022 - _Intake Prototype Design and Discussion Day 2_**](#8232022---intake-prototype-design-and-discussion-day-2)
-22. [**8/24/2022 - _Intake Problem Solving_**](#8242022---intake-problem-solving)
-23. [**8/25/2022 - _Base Prototype Building Begins_**](#8252022---base-prototype-building-begins)
-24. [**8/26/2022 - _Mecanum Base Experimentation_**](#8262022---mecanum-base-experimentation)
-25. [**8/29/2022 - _Intake Prototyping and GPS Testing_**](#8292022---intake-prototyping-and-gps-testing)
-26. [**8/30/22 - _Intake Prototyping Day 2_**](#83022---intake-prototyping-day-2)
-27. [**8/31/2022 - _Intake Prototyping Day 3_**](#8312022---intake-prototyping-day-3)
-28. [**9/1/2022 - _Intake Prototyping Day 4_**](#912022---intake-prototyping-day-4)
-29. [**9/2/2022 - _Intake Prototyping Day 5_**](#922022---intake-prototyping-day-5)
-30. [**9/6/2022 - _Intake Prototyping Day 6_**](#962022---intake-prototyping-day-6)
-31. [**9/7/2022 - _Intake Prototyping Day 7_**](#972022---intake-prototyping-day-7)
-32. [**9/8/2022 - _Intake Prototyping Day 8_**](#982022---intake-prototyping-day-8)
-33. [**9/9/2022 - _Intake Prototyping Day 9_**](#992022---intake-prototyping-day-9)
-34. [**9/10/2022 - _Intake Prototyping Day 10_**](#9102022---intake-prototyping-day-10)
-35. [**9/11/2022 - _Intake Prototyping Day 11_**](#9112022---intake-prototyping-day-11)
-36. [**9/12/2022 - _Intake Prototyping Day 12_**](#9122022---intake-prototyping-day-12)
-37. [**9/13/2022 - _Intake Prototyping Day 13_**](#9132022---intake-prototyping-day-13)
-38. [**9/14/2022 - _Intake Redesign and Prototyping Day 1_**](#9142022---intake-redesign-and-prototyping-day-1)
-39. [**9/15/2022 - _Intake and Launcher Prototyping Day 1_**](#9152022---intake-and-launcher-prototyping-day-1)
-40. [**9/16/2022 - _Launcher Prototyping_**](#9162022---launcher-prototyping)
-41. [**9/17/22 - _Intake and Launcher Prototyping Day 2_**](#91722---intake-and-launcher-prototyping-day-2)
-42. [**9/19/22 - _Intake and Launcher Prototyping Day 3_**](#91922---intake-and-launcher-prototyping-day-3)
-43. [**9/20/22 - _Intake and Base Prototyping_**](#92022---intake-and-base-prototyping)
-44. [**9/21/22 - _Base Prototyping_**](#92122---base-prototyping)
-45. [**9/22/22 - _Finalizig Prototype Day 1_**](#92222---finalizig-prototype-day-1)
-46. [**9/23/22 - _Finalizing Prototype Day 2_**](#92322---finalizing-prototype-day-2)
-47. [**9/26/22 - _Finalizing Prototype Day 3_**](#92622---finalizing-prototype-day-3)
-48. [**9/27/22 - _Finalizing Prototype Day 4_**](#92722---finalizing-prototype-day-4)
-49. [**9/28/22 - _Finalizing Prototype Day 5_**](#92822---finalizing-prototype-day-5)
-50. [**9/29/22 - _Base Prototyping_**](#92922---base-prototyping)
-51. [**10/02/22 - _Base Prototyping Day 2_**](#100222---base-prototyping-day-2)
-52. [**10/03/22 - _Pneumatics Testing and Code_**](#100322---pneumatics-testing-and-code)
-53. [**10/04/22 - _Testing and Finalizing Intake_**](#100422---testing-and-finalizing-intake)
-54. [**10/05/22 - _Intake Building_**](#100522---intake-building)
-55. [**10/06/22 - _Intake Redesign and Long Meeting_**](#100622---intake-redesign-and-long-meeting)
-56. [**10/07/22 - _Intake Redesigning and Notebook Work_**](#100722---intake-redesigning-and-notebook-work)
-57. [**10/10/22 - _Intake Prototyping Day 15_**](#101022---intake-prototyping-day-15)
-58. [**10/11/22**](#101122)
-59. [**10/12/22**](#101222)
-60. [**10/13/22**](#101322)
+1. [***9623Y Spin Up Notebook***](#9623y-spin-up-notebook)
+2. [***Table of Contents***](#table-of-contents)
+3. [***Team Bio***](#team-bio)
+4. [***Game Explanation***](#game-explanation)
+5. [***Dated Entries***](#dated-entries)
+6. [**5/11/22 - _The Contest Begins_**](#51122---the-contest-begins)
+7. [**5/12/2022 - _Beginning Design_**](#5122022---beginning-design)
+8. [**5/16/2022 - _Fusion Design Begins_**](#5162022---fusion-design-begins)
+9. [**5/17/2022 - _Design Continues and Building Begins_**](#5172022---design-continues-and-building-begins)
+10. [**5/18/2022 - _Prototyping Continues_**](#5182022---prototyping-continues)
+11. [**5/19/2022 - _Designing a Test_**](#5192022---designing-a-test)
+12. [**5/20/2022 - _Gear Ratios_**](#5202022---gear-ratios)
+13. [**5/23/2022 - _Programming and Maybe Testing_**](#5232022---programming-and-maybe-testing)
+14. [**5/24/2022 - _Programming and Working Towards Finalizing the Prototyping/Test Bed_**](#5242022---programming-and-working-towards-finalizing-the-prototypingtest-bed)
+15. [**5/25/2022 - _Continuing Work on the Test Bed_**](#5252022---continuing-work-on-the-test-bed)
+16. [**5/26/2022 - _Testing Begins_**](#5262022---testing-begins)
+17. [**5/27/2022 - _Heavily Testing_**](#5272022---heavily-testing)
+18. [**5/31/2022 - _Launcher Testing and Intake Design_**](#5312022---launcher-testing-and-intake-design)
+19. [**7/28/22 -  _Returning from break / Returning to planning_**](#72822----returning-from-break--returning-to-planning)
+20. [**8/18/2022 - _Beginning Work in Class / First In-Season Team Meeting_**](#8182022---beginning-work-in-class--first-in-season-team-meeting)
+21. [**8/19/22 - _Intake Design_**](#81922---intake-design)
+22. [**8/22/2022 - _Intake Prototype Building Begins_**](#8222022---intake-prototype-building-begins)
+23. [**8/23/2022 - _Intake Prototype Design and Discussion Day 2_**](#8232022---intake-prototype-design-and-discussion-day-2)
+24. [**8/24/2022 - _Intake Problem Solving_**](#8242022---intake-problem-solving)
+25. [**8/25/2022 - _Base Prototype Building Begins_**](#8252022---base-prototype-building-begins)
+26. [**8/26/2022 - _Mecanum Base Experimentation_**](#8262022---mecanum-base-experimentation)
+27. [**8/29/2022 - _Intake Prototyping and GPS Testing_**](#8292022---intake-prototyping-and-gps-testing)
+28. [**8/30/22 - _Intake Prototyping Day 2_**](#83022---intake-prototyping-day-2)
+29. [**8/31/2022 - _Intake Prototyping Day 3_**](#8312022---intake-prototyping-day-3)
+30. [**9/1/2022 - _Intake Prototyping Day 4_**](#912022---intake-prototyping-day-4)
+31. [**9/2/2022 - _Intake Prototyping Day 5_**](#922022---intake-prototyping-day-5)
+32. [**9/6/2022 - _Intake Prototyping Day 6_**](#962022---intake-prototyping-day-6)
+33. [**9/7/2022 - _Intake Prototyping Day 7_**](#972022---intake-prototyping-day-7)
+34. [**9/8/2022 - _Intake Prototyping Day 8_**](#982022---intake-prototyping-day-8)
+35. [**9/9/2022 - _Intake Prototyping Day 9_**](#992022---intake-prototyping-day-9)
+36. [**9/10/2022 - _Intake Prototyping Day 10_**](#9102022---intake-prototyping-day-10)
+37. [**9/11/2022 - _Intake Prototyping Day 11_**](#9112022---intake-prototyping-day-11)
+38. [**9/12/2022 - _Intake Prototyping Day 12_**](#9122022---intake-prototyping-day-12)
+39. [**9/13/2022 - _Intake Prototyping Day 13_**](#9132022---intake-prototyping-day-13)
+40. [**9/14/2022 - _Intake Redesign and Prototyping Day 1_**](#9142022---intake-redesign-and-prototyping-day-1)
+41. [**9/15/2022 - _Intake and Launcher Prototyping Day 1_**](#9152022---intake-and-launcher-prototyping-day-1)
+42. [**9/16/2022 - _Launcher Prototyping_**](#9162022---launcher-prototyping)
+43. [**9/17/22 - _Intake and Launcher Prototyping Day 2_**](#91722---intake-and-launcher-prototyping-day-2)
+44. [**9/19/22 - _Intake and Launcher Prototyping Day 3_**](#91922---intake-and-launcher-prototyping-day-3)
+45. [**9/20/22 - _Intake and Base Prototyping_**](#92022---intake-and-base-prototyping)
+46. [**9/21/22 - _Base Prototyping_**](#92122---base-prototyping)
+47. [**9/22/22 - _Finalizig Prototype Day 1_**](#92222---finalizig-prototype-day-1)
+48. [**9/23/22 - _Finalizing Prototype Day 2_**](#92322---finalizing-prototype-day-2)
+49. [**9/26/22 - _Finalizing Prototype Day 3_**](#92622---finalizing-prototype-day-3)
+50. [**9/27/22 - _Finalizing Prototype Day 4_**](#92722---finalizing-prototype-day-4)
+51. [**9/28/22 - _Finalizing Prototype Day 5_**](#92822---finalizing-prototype-day-5)
+52. [**9/29/22 - _Base Prototyping_**](#92922---base-prototyping)
+53. [**10/02/22 - _Base Prototyping Day 2_**](#100222---base-prototyping-day-2)
+54. [**10/03/22 - _Pneumatics Testing and Code_**](#100322---pneumatics-testing-and-code)
+55. [**10/04/22 - _Testing and Finalizing Intake_**](#100422---testing-and-finalizing-intake)
+56. [**10/05/22 - _Intake Building_**](#100522---intake-building)
+57. [**10/06/22 - _Intake Redesign and Long Meeting_**](#100622---intake-redesign-and-long-meeting)
+58. [**10/07/22 - _Intake Redesigning and Notebook Work_**](#100722---intake-redesigning-and-notebook-work)
+59. [**10/10/22 - _Intake Prototyping Day 15_**](#101022---intake-prototyping-day-15)
+60. [**10/11/22**](#101122)
+61. [**10/12/22**](#101222)
+62. [**10/13/22**](#101322)
 
 
 
@@ -74,24 +76,16 @@
 # ***Game Explanation***
 This year the competition is titled VEX: Spin-Up
 
-The field will be divided diagonally into two halves. Robots will be attempting to score discs from the field into the high goals and low goals. There is only 1 high goal and 1 low goal assigned to each allience, with a disc scored in the high goal being worth 5 points and a disc in the low goal being worth 1 point. Teams can use the temporary unlimited horizontal expansion limit in the last 10 seconds to cover as many tiles as possible and earn an additional 3 points for each tile covered. There are a total of 36 tiles on the field and both teams can be awarded points for touching the same tile. Teams can also use the robots to change the color of the rollers to their assigned alliance color to gain 10 points for each roller owned by their alliance. There are a total of 4 rollars around the field that either alliance can score. Teams can also gain points from the autonomous driving period. Whichever team completes the autonomous period tasks will be awarded the autonomous bonus points.
+The field will be divided diagonally into two halves. Robots will be attempting to score discs from the field into the high goals and low goals. There is only 1 high goal and 1 low goal assigned to each allience, with a disc scored in the high goal being worth 5 points and a disc in the low goal being worth 1 point. Teams can use the temporary unlimited horizontal expansion limit in the last 10 seconds to cover as many tiles as possible and earn an additional 3 points for each tile covered. There are a total of 36 tiles on the field and both teams can be awarded points for touching the same tile. Each covered tile is worth 3 points. Teams can also use the robots to change the color of the rollers to their assigned alliance color to gain 10 points for each roller owned by their alliance. There are a total of 4 rollars around the field that either alliance can score. Teams can also gain points from the autonomous driving period. Whichever team completes the autonomous period tasks will be awarded the 10 autonomous bonus points.
+
+<img src="https://user-images.githubusercontent.com/93736394/196194837-514300cb-4613-436a-89bc-c94df2e87edb.png" height = "250">
+<img src="https://user-images.githubusercontent.com/93736394/196195898-4993a281-fc40-453b-894e-de4e4478d20a.png" height = "250">
 
 The match will start with a 15 second autonomous period followed by a driver controlled period lasting a minute and 45 seconds. All game rules are in effect during both the autonomous period and the driver controlled period, though manually driving the bot using the contoller is not allowed during the autonomous period. Teams are given 2 preloadable discs per team before the match and 7 match discs per alliance teams can add onto the field using a metal ramp along the sides of the field. 
 
-During the match, each robot can only hold at most 3 discs at a time. Theres is a vertical and horizontal limit of 18 inches during the match. There is a 24 inch height limit, but its limited to a vertical cylinder with a 2" diameter.
+During the match, each robot can only hold at most 3 discs at a time. Theres is a vertical and horizontal limit of 18 inches during the match. There is a 24 inch height limit, but its limited to a vertical cylinder with a 2" diameter. This year, teams are not allowed to trap a robot in any way, including blocking a robot from moving on its intended path. Trapping for 5 seconds or more will penalize the team on the offense. Any less than 5 seconds and the opposing team will be given the benefit of the doubt.
 
--- Original Info -- 
-
-robots will be attepting to score discs from the field into high goals,low goals as well as at the end of the round cover as many tiles as possible. Teams may also change the color of rollers to their assigned color to gain points as well.
-Rollers are worth 10 points per (4 rollers)
-High goal scores 5 points per(1 goal per team)
-Low goal scores 1 point per(1 goal per team)
-tile scores 3 points per tile covered(36 tiles)
-The team also can gain 10 points from winning the autonomous period
-The game starts with 15 seconds autonomous period, then a 1:45 minute driver controlled period.
-
-You can score points in autonomous, however the same rules still apply to both autonomous and driver controlled periods. Trapping a robot is not allowed, which includes blocking a robot from moving on their path. Trapping for 5 seconds or more will penalize the team on the offense. You get 2 preloaded discs and 7 match discs you can load onto the field at any time. During the matches, you have an internal disc capacity of at most 3 discs at any given time. Building has a limit of 8 motors, 2 pneumatic resivoirs(each at 100Psi max). No external tampering with any electronic components is allowed. There is a 24" vertical height limit and an 18" by 18" horizontal height limit. Horizontal expansion does become unlimited at the last 10 seconds of the driver controlled period.
-
+The robot can only use 8 motors and 2 pneumatic resivoirs, each capped at 100 Psi. No external tampering with any electronic devices is allowed.
 
 ## ***Scoring***
 
@@ -103,7 +97,28 @@ You can score points in autonomous, however the same rules still apply to both a
 |Each Covered Field Tile| 3 points|
 |Winner of Autonomus Bonus| 10 points|
 
+## ***Field Elements***
+In Spin Up, there are 4 unique field elements consisting of the High Goals, Low Goal barriers, Rollers, and Discs.
 
+### **High Goals**
+The High Goals can be found in opposing corners of the field and sit on bars attached to the outer walls of the field. They can be found in two colors, red and blue, to designate which alliance scores in each High Goal. 
+
+<img src="https://user-images.githubusercontent.com/93736394/196198613-301018af-5adb-433d-b4be-32aa60684321.png" height = "250">
+
+Each High Goal has a lower basket with a bar through the middle. The bar holds up a thin, plastic disc that hold the chains, and the chains themselves. These chains are used to help catch the disc and give it a better chance at making it into the basket. 
+
+The High Goal itself only sits at 14.1". The supporting bar defintily add a new level of difficulty to the game as the bar sits 18.5" above the field. This added height lifts the base of the lower basket to 21.4" off the field.. The outer lip of the basket sits roughly 25" above the field with the highest point of the High Goal contraption sitting 35.5" off the field.
+
+These goals are made for robots to shoot discs into the lower basket and gives 5 points for each disc sucessfully landed into the basket.
+
+### **Low Goals**
+The Low Goals can be found under each High Goal and uses a slightly raised ramp to separate the goal area from the rest of the field. The two ramps are found in two colors, red and blue, to designate which alliance scores in each Low Goal. Each alliance's Low Goal is located under the opposing alliance's High Goal. 
+
+Each Low Goal consists of a ramp and a small portion of the field blocked off within that ramp. The ramp sits with an incline towards the outside of the Low Goal, allowing robots easy access out of the goal but difficulty getting in.
+
+The Low Goal ramps are roughly a little more than 1 tile wide on each side in an L shape, hugging the corner of the outermost tile. The Low Goal area only takes up 4 tiles underneath the High Goal.
+
+The way these goals are set up allows missed shots into the High Goals to become points for the opposing teams. Each disc into this goal is only 1 point.
 
 
 
