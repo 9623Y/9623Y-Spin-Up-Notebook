@@ -62,9 +62,10 @@
 57. [**10/06/22 - _Intake Redesign and Long Meeting_**](#100622---intake-redesign-and-long-meeting)
 58. [**10/07/22 - _Intake Redesigning and Notebook Work_**](#100722---intake-redesigning-and-notebook-work)
 59. [**10/10/22 - _Intake Prototyping Day 15_**](#101022---intake-prototyping-day-15)
-60. [**10/11/22**](#101122)
-61. [**10/12/22**](#101222)
-62. [**10/13/22**](#101322)
+60. [**10/11/22 - _Intake Finalizing_**](#101122---intake-finalizing)
+61. [**10/12/22 - _Intake Finalizing Day 2_**](#101222---intake-finalizing-day-2)
+62. [**10/13/22 - _Intake Testing and Launcher Prototyping_**](#101322---intake-testing-and-launcher-prototyping)
+63. [**10/18/22 - _Intake Finalizing and Launcher Prototyping_**](#101822---intake-finalizing-and-launcher-prototyping)
 
 
 
@@ -2905,7 +2906,7 @@ We didn't get much done today but we were able to get the two top rows of the up
 
 
 
-# **10/11/22**
+# **10/11/22 - _Intake Finalizing_**
 
 ## **Attendance**
 - [x] Rhett
@@ -2923,10 +2924,10 @@ We are using 3 flex wheels for the middle row to help boost the disc up to the t
 
 We continued to move the intake forward one hole to help the two top rows of the upper intake reach the disc and pull it up
 
-# **10/12/22**
+# **10/12/22 - _Intake Finalizing Day 2_**
 
 
-# **10/13/22**
+# **10/13/22 - _Intake Testing and Launcher Prototyping_**
 
 ## **Attendance**
 - [x] Rhett
@@ -2955,5 +2956,21 @@ We weren't able to finish the launcher today but we were able to test the intake
 
 
 
-# **10/18/22**
+# **10/18/22 - _Intake Finalizing and Launcher Prototyping_**
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [x] Ari
+
+## **Goals for Today**
+- [ ] Finish Launcher
+- [ ] Finalize Intake
+- [ ] Create Contraption for Rollers
+- [ ] Updating Notebook
+
+### **Notebook**
+We spent some time working on updating the notebook to fully complete past entries and clarify the Game Explanation. 
 
