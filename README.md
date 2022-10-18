@@ -100,7 +100,7 @@ The robot can only use 8 motors and 2 pneumatic resivoirs, each capped at 100 Ps
 ## ***Field Elements***
 In Spin Up, there are 4 unique field elements consisting of the High Goals, Low Goal barriers, Rollers, and Discs.
 
-### **High Goals**
+### ***High Goals***
 The High Goals can be found in opposing corners of the field and sit on bars attached to the outer walls of the field. They can be found in two colors, red and blue, to designate which alliance scores in each High Goal. 
 
 <img src="https://user-images.githubusercontent.com/93736394/196198613-301018af-5adb-433d-b4be-32aa60684321.png" height = "250">
@@ -111,7 +111,7 @@ The High Goal itself only sits at 14.1". The supporting bar defintily add a new 
 
 These goals are made for robots to shoot discs into the lower basket and gives 5 points for each disc sucessfully landed into the basket.
 
-### **Low Goals**
+### ***Low Goals***
 The Low Goals can be found under each High Goal and uses a slightly raised ramp to separate the goal area from the rest of the field. The two ramps are found in two colors, red and blue, to designate which alliance scores in each Low Goal. Each alliance's Low Goal is located under the opposing alliance's High Goal. 
 
 Each Low Goal consists of a ramp and a small portion of the field blocked off within that ramp. The ramp sits with an incline towards the outside of the Low Goal, allowing robots easy access out of the goal but difficulty getting in.
@@ -120,9 +120,33 @@ The Low Goal ramps are roughly a little more than 1 tile wide on each side in an
 
 The way these goals are set up allows missed shots into the High Goals to become points for the opposing teams. Each disc into this goal is only 1 point.
 
+### ***Rollers***
+The Rollers can be found in the two corners unused by the High Goals. They sit on the outer walls of the field and they spin between red and blue, a color for each alliance. There are a total of 4 rollers, which are all identical.
+
+<img src="https://user-images.githubusercontent.com/93736394/196445931-16101aba-ba2a-4913-9eec-9a51deab7cd0.jpg" height = "250">
+
+Each Roller has a spinning tube colored half blue and half red. The plastic parts on either side hold the Roller to the wall and allow the tube to spin. The tubes have two bolts in the middle of each color on the far left and right of the tubes. The arms on either side of the plastic pointing towards the tube catch on the bolts. This system helps teams who are able to push the Roller hard enough to catch between these arms and prevent other teams who don't have that strength from switching it to another color.
+
+The tube of the Rollers is 9.80". The outer plastic walls holding the tube to the wall make the entire Roller 13.15". The middle of the Roller sits 13.85" above the field, with the highest point reaching 15.23" above the field. Each Roller sits 2.85" from the wall.
+
+These Rollers allow teams to gain 10 points if their color is shown between the arms. Some teams won't have the mechanics needed to spin the Rollers, giving the teams that do an advantage. It can give teams with stronger contraptions an even bigger advantage to other teams that can't spin the roller hard enough to push the bolt under the arms.
+
+### ***Discs***
+The Discs are found scattered across the field. They can be moved around on the field and are only found in one color: yellow. Both alliances are able to pick up and use all of the discs no matter where they are on the field, as long as the robots can reach them. 
+
+<img src="https://user-images.githubusercontent.com/93736394/196459608-e61025e5-7a79-4dd0-bb37-9aabb23c3a00.png" height = "250">
+
+Each Disc is a flat circle with a raised lip around the edge. Robots can pick them up and fling them at High Goals, or toss and/or push them into Low Goals to score them. Each robot can only hold 3 discs at a time and more discs can be added through the Loader at any time in the match. 
+
+The Discs have a total diameter of 5.51" with a +-0.13" tolerance. Each Disc has a total width of 0.79" with a +-0.02" tolerance.
+
+The Discs by themselves won't score any points, but they can be used to score points in the two different goals.
 
 
--------
+
+
+-----
+
 
 
 
@@ -2908,8 +2932,8 @@ We continued to move the intake forward one hole to help the two top rows of the
 - [x] Rhett
 - [x] Tyler
 - [x] Noly
-- [ ] Rebecca
-- [ ] Ari
+- [x] Rebecca
+- [x] Ari
 
 ## **Goals for Today**
 - [x] Test Intake
@@ -2918,3 +2942,18 @@ We continued to move the intake forward one hole to help the two top rows of the
 
 ### **Intake**
 With the intake finally completed, we were able to begin testing our intake. We found that the robot wouldn't turn correctly because of the base bowing in the middle. To fix this, we added a supporting bar across the entire robot, attaching it to the inner and outer wheel bars. Before we reattached the lower intake, we tested it to see if we actually needed it or if we could use the space for the launcher or any other things we need. The intake couldn't get to the disc without it so we ended up adding it back on.
+
+## **End of Entry Thoughts**
+We weren't able to finish the launcher today but we were able to test the intake and work out any immediate issues.
+
+
+
+
+-----
+
+
+
+
+
+# **10/18/22**
+
