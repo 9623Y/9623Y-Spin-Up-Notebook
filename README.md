@@ -1991,6 +1991,9 @@ Today we are finishing up the intake and fixing errors we found in yesterday's t
 ### **Intake**
 The shaft collar on the outside of the wheel is being used to pull the wheel away from the chain and sproket. Over time, we think the shaft collar could wear away the metal, so we added a washer to prevent this. 
 
+### **Base**
+Today we ended up working on the base rails and putting the wheels on our robot for correct intake height so we can get proper testing done. Tyler ended up putting all 4 motors at the rear of the bot and using a chain and sprocket to connect the wheels to the motors. There was a slight issue getting the wheels to spin freely, but that was quickly fixed with proper c channel alignment. Overall it was a successful progressive day and hopefully will better prepare us for the upcoming competition.
+
 ## **End of Entry Thoughts**
 We were able to get a lot talked about during the meeting and we plan to start finishing up the bot for an early competiton. This competition should help us get some ideas on how we can improve our robot and reveal any flaws we might have overlooked.
 
