@@ -2791,7 +2791,7 @@ Today we are working on the bottom row of the intake.
 - [ ] Replace Broken Wires in Battery Case
 
 ### **Intake Redesign**
-
+Today we began work on designing the bottom row of the intake. We came to the conclusion that the smaller flex wheels weren’t viable due to the design being nearly impossible for us to get correct. Instead of using smaller flex wheels we decided on a rubber band roller and got working on building it today. We went for this design over others because of the way that the rubber bands are able to flex around the disc yet have enough tension to grab them
 
 ### **Battery Case**
 The battery case for our club had a few fraying wires, so we decided to replace the wires to prevent people from getting shocked on the wires.
@@ -2931,6 +2931,8 @@ Today we are working on finalizing the intake.
 We are using 3 flex wheels for the middle row to help boost the disc up to the top row. We are concerned about the middle flex wheel not touching the disc, so we will cut the two outer wheels to match the already cut ones on the bottom row if this issue occurs. 
 
 We continued to move the intake forward one hole to help the two top rows of the upper intake reach the disc and pull it up into the launcher.
+
+Today we continued working on the intake and redesigning parts to fit better. The main thing we did was put 3 flex wheels on the middle row to grab the disc better. There are concerns about the center wheel not touching the disc, which would be fixed by cutting the outer flex wheels. We’re gonna test without cut wheels first so we don’t cut wheels that don’t need it. The bottom row of the upper intake was moved forward one hole in an attempt to give the disc more space to move in and up the intake. The upper bottom row also got cut flex wheels with teeth like cuts so it’s able to grab the flex wheel better. Overall progress is being made even if it’s slow.
 
 ## **End of Entry Thoughts**
 We weren't able to get as much done as we would have liked but we should be able to finish the intake tomorrow.
