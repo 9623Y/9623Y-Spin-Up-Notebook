@@ -66,6 +66,7 @@
 61. [**10/12/22 - _Intake Finalizing Day 2_**](#101222---intake-finalizing-day-2)
 62. [**10/13/22 - _Intake Testing and Launcher Prototyping_**](#101322---intake-testing-and-launcher-prototyping)
 63. [**10/18/22 - _Intake Finalizing and Launcher Prototyping_**](#101822---intake-finalizing-and-launcher-prototyping)
+64. [**10/19/22 - _Launcher Rebuilding_**](#101922---launcher-rebuilding)
 
 
 
@@ -2878,6 +2879,8 @@ We weren't able to get a lot done due to the shortened day, but we did fix up th
 
 # **10/10/22 - _Intake Prototyping Day 15_**
 
+Today we are working on finishing up the intake system and start on building the ramp.
+
 ## **Attendance**
 - [x] Rhett
 - [x] Tyler
@@ -2911,6 +2914,8 @@ We didn't get much done today but we were able to get the two top rows of the up
 
 # **10/11/22 - _Intake Finalizing_**
 
+Today we are working on finalizing the intake.
+
 ## **Attendance**
 - [x] Rhett
 - [x] Tyler
@@ -2925,12 +2930,37 @@ We didn't get much done today but we were able to get the two top rows of the up
 ### **Intake Ideas**
 We are using 3 flex wheels for the middle row to help boost the disc up to the top row. We are concerned about the middle flex wheel not touching the disc, so we will cut the two outer wheels to match the already cut ones on the bottom row if this issue occurs. 
 
-We continued to move the intake forward one hole to help the two top rows of the upper intake reach the disc and pull it up
+We continued to move the intake forward one hole to help the two top rows of the upper intake reach the disc and pull it up into the launcher.
+
+## **End of Entry Thoughts**
+We weren't able to get as much done as we would have liked but we should be able to finish the intake tomorrow.
+
+
+
+
+-----
+
+
+
+
+
 
 # **10/12/22 - _Intake Finalizing Day 2_**
 
 
+
+
+
+-----
+
+
+
+
+
+
 # **10/13/22 - _Intake Testing and Launcher Prototyping_**
+
+Today we are working on testing the intake and finishing the launcher.
 
 ## **Attendance**
 - [x] Rhett
@@ -2961,19 +2991,58 @@ We weren't able to finish the launcher today but we were able to test the intake
 
 # **10/18/22 - _Intake Finalizing and Launcher Prototyping_**
 
+Today we are working on finalizing the intake and finish up the launcher.
+
 ## **Attendance**
 - [x] Rhett
 - [x] Tyler
 - [x] Noly
-- [ ] Rebecca
+- [x] Rebecca
 - [x] Ari
 
 ## **Goals for Today**
 - [ ] Finish Launcher
 - [ ] Finalize Intake
 - [ ] Create Contraption for Rollers
-- [ ] Updating Notebook
+- [x] Updating Notebook
 
 ### **Notebook**
 We spent some time working on updating the notebook to fully complete past entries and clarify the Game Explanation. 
 
+### **Intake**
+Today we’re working on the intake, Ari had the thought process of if the bottom row of the upper intake used dark grey flex wheels instead of light grey, it might grab the disc better, due to them being more rigid. Ari and Tyler cut up dark grey flex wheels to replace the light grey ones. Ari installed them on the robot and ran a couple tests. In class Tyler worked on the intake ramp and tested a couple different possibilities on it. An angle bracket was added for rigidity and rubber flaps on the bottom for picking up the disc better. The angle bracket didn’t work because the disc just got caught on the screws used to mount it.
+
+Ari worked the most on the intake after school and moved the ramp down by 0.875". Ari also added washers between the standoffs and the ramp.
+
+## **End of Entry Thoughts**
+We were able to get a lot one in the notebook and in the intake 
+
+
+
+
+-----
+
+
+
+
+
+
+# **10/19/22 - _Launcher Rebuilding_**
+
+Today we are working on rebuilding the launcher.
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+## **Goals for Today**
+- [x] Continue Launcher
+- [ ] Finish CAD Intake
+
+### **Launcher**
+We are working on putting the launcher back together. We originally took it apart to rebuild it with the new parts we got from Robosource. These new parts should help us with fitting more into tighter spaces.
+
+## **End of Entry Thoughts**
