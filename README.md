@@ -67,6 +67,8 @@
 62. [**10/13/22 - _Intake Testing and Launcher Prototyping_**](#101322---intake-testing-and-launcher-prototyping)
 63. [**10/18/22 - _Intake Finalizing and Launcher Prototyping_**](#101822---intake-finalizing-and-launcher-prototyping)
 64. [**10/19/22 - _Launcher Rebuilding_**](#101922---launcher-rebuilding)
+65. [**10/20/22**](#102022)
+66. [**10/24/22**](#102422)
 
 
 
@@ -3048,3 +3050,39 @@ Today we are working on rebuilding the launcher.
 We are working on putting the launcher back together. We originally took it apart to rebuild it with the new parts we got from Robosource. These new parts should help us with fitting more into tighter spaces.
 
 ## **End of Entry Thoughts**
+
+
+
+
+
+-----
+
+
+
+
+
+
+# **10/20/22**
+
+Today we are working 
+
+
+-----
+
+
+
+
+
+
+# **10/24/22**
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+## **Goals for Today**
+- [ ] Fix Spacing Issues
+- [ ] 
