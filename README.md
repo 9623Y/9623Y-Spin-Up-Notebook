@@ -3064,7 +3064,17 @@ We are working on putting the launcher back together. We originally took it apar
 
 # **10/20/22**
 
-Today we are working 
+Today we are working on setting up laptops to teach others how to use Inventor.
+
+## **Attendence**
+
+## **Goals for Today**
+- [x] Download Inventor on 5 Laptops
+- [ ] Download Desktop Connector on 5 Laptops
+- [ ] Teach anyone who would like to learn how to use Inventor
+
+### **Laptops**
+We were able to install Inventor on 5 separate laptops but only 2 would allow us to download Desktop Connector. The laptop we used for someone else unfortunatly wouldn't open Inventor correctly and we spent the entire meeting troubleshooting to attempt to fix it. None of our ideas worked so we will work on it on Monday.
 
 
 -----
@@ -3085,4 +3095,7 @@ Today we are working
 
 ## **Goals for Today**
 - [ ] Fix Spacing Issues
-- [ ] 
+- [ ] Troubleshoot Laptops
+
+### **Laptops**
+We tried two different laptops, one with Desktop Connector and another without. The one with Desktop Connector opened and ran Inventor just fine, but the one without Desktop Connector wouldn't open the log in screen and crash as soon as I try to log in. The only differences I noticed in the two computer is one only have the V5 program while
