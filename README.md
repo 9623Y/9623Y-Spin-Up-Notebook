@@ -68,6 +68,7 @@
 63. [**10/20/22**](#102022)
 64. [**10/24/22**](#102422)
 65. [**10/25/22**](#102522)
+66. [**10/26/22**](#102622)
 
 
 
@@ -3144,3 +3145,54 @@ We tried two different laptops, one with Desktop Connector and another without. 
 - [ ] Noly
 - [x] Rebecca
 - [ ] Ari
+
+## **Goals for Today**
+- [x] Continue Working on New Intake Designs
+
+
+### **Flex Wheel Intake Redesign**
+
+
+
+### **New Tubing Intake Design**
+
+
+
+## **End of Entry Thoughts**
+
+
+
+
+-----
+
+
+
+
+# **10/26/22**
+
+
+## **Attendance**
+- [x] Rhett
+- [ ] Noly
+- [ ] Tyler
+- [ ] Rebecca
+- [ ] Ari
+
+## **Goals for Today**
+- [x] Continue Working on Intake Redesigns
+
+
+### **Flex Wheel Intake Redesign**
+
+
+
+### **New Tubing Intake Design**
+
+
+
+## **End of Entry Thoughts**
+
+
+
+
+-----
