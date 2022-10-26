@@ -3129,7 +3129,7 @@ We were able to install Inventor on 5 separate laptops but only 2 would allow us
 - [ ] Troubleshoot Laptops
 
 ### **Laptops**
-We tried two different laptops, one with Desktop Connector and another without. The one with Desktop Connector opened and ran Inventor just fine, but the one without Desktop Connector wouldn't open the log in screen and crash as soon as I try to log in. The only differences I noticed in the two computer is one only have the V5 program while... (add more later)
+We tried two different laptops, one with Desktop Connector and another without. The one with Desktop Connector opened and ran Inventor just fine, but the one without Desktop Connector wouldn't open the log in screen and crash as soon as I try to log in. The only differences I noticed in the two computer is one only have the V5 program while the other also has Fusion 360 and the Graphics Card Update. After looking at multiple laptops that have Desktop Connector and multiple that don't, the only difference between the two is some having the Graphics Card Update and the others lacking it. I will try to install the update on a computer lacking it to see if it works.
 
 
 
@@ -3150,6 +3150,7 @@ We tried two different laptops, one with Desktop Connector and another without. 
 
 ## **Goals for Today**
 - [x] Continue Working on New Intake Designs
+- [ ] Continue Laptop Testing
 
 ### **Ramp Redesign Ideas**
 If we use flat metal and bend it to the point that it has a slight hill in it, and as long as our wheel placement is proper, there’s enough clearance to get past the ridge and the indentation in the disc will be lifted enough that there’s constant contact with the disc. We feel like this could potentially be extreamly useful for moving discs as reliably as possible on a horizontal angled ramp.
@@ -3184,6 +3185,7 @@ If we use flat metal and bend it to the point that it has a slight hill in it, a
 
 ## **Goals for Today**
 - [x] Continue Working on Intake Redesigns
+- [ ] Continue Laptop Testing
 
 
 ### **Flex Wheel Intake Redesign**
