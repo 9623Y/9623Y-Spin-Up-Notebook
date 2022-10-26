@@ -67,6 +67,7 @@
 62. [**10/19/22 - _Launcher Rebuilding_**](#101922---launcher-rebuilding)
 63. [**10/20/22**](#102022)
 64. [**10/24/22**](#102422)
+65. [**10/25/22**](#102522)
 
 
 
@@ -2930,7 +2931,6 @@ We didn't get much done today but we were able to get the two top rows of the up
 
 
 
-
 # **10/11/22 - _Intake Finalizing_**
 
 Today we are working on finalizing the intake.
@@ -2964,17 +2964,29 @@ We weren't able to get as much done as we would have liked but we should be able
 
 
 
-
-
 # **10/12/22 - _Intake Finalizing Day 2_**
 
+## **Attendance**
+- [x] Rhett
+- [ ] Tyler
+- [ ] Noly
+- [ ] Rebecca
+- [ ] Ari
+  
 
+## **Goals for Today**
+- [x] Finish Intake
+
+### **Finishing the Intake**
+
+Today, Rhett was able to get a working intake that would reliablely intake a disc when being hand fed but issues with the ramp led the bot to not be able to drive around the field without the ramp digging into the tiles and causing the bot to get stuck. We will continue to work on solutions to this issues when the whole team is able to discuss what we can do to fix this issue.
+
+## **End of Entry Thoughts**
+We were able to get a working intake but we still have issues with the ramp that we will need to fix before we can test the bot on the field and begin to integrate the launcher with the intake as well.
 
 
 
 -----
-
-
 
 
 
@@ -3005,7 +3017,6 @@ We weren't able to finish the launcher today but we were able to test the intake
 
 
 -----
-
 
 
 
@@ -3046,8 +3057,6 @@ We were able to get a lot one in the notebook and in the intake
 
 
 
-
-
 # **10/19/22 - _Launcher Rebuilding_**
 
 Today we are working on rebuilding the launcher.
@@ -3067,14 +3076,11 @@ Today we are working on rebuilding the launcher.
 We are working on putting the launcher back together. We originally took it apart to rebuild it with the new parts we got from Robosource. These new parts should help us with fitting more into tighter spaces.
 
 ## **End of Entry Thoughts**
-
-
+We were able to finish the launcher but havent been able to test it and we still need to finish the intake in CAD.
 
 
 
 -----
-
-
 
 
 
@@ -3084,7 +3090,12 @@ We are working on putting the launcher back together. We originally took it apar
 Today we are working on setting up laptops to teach others how to use Inventor.
 
 ## **Attendence**
-
+- [x] Rhett
+- [ ] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+  
 ## **Goals for Today**
 - [x] Download Inventor on 5 Laptops
 - [ ] Download Desktop Connector on 5 Laptops
@@ -3094,9 +3105,9 @@ Today we are working on setting up laptops to teach others how to use Inventor.
 We were able to install Inventor on 5 separate laptops but only 2 would allow us to download Desktop Connector. The laptop we used for someone else unfortunatly wouldn't open Inventor correctly and we spent the entire meeting troubleshooting to attempt to fix it. None of our ideas worked so we will work on it on Monday.
 
 
+
+
 -----
-
-
 
 
 
@@ -3116,3 +3127,20 @@ We were able to install Inventor on 5 separate laptops but only 2 would allow us
 
 ### **Laptops**
 We tried two different laptops, one with Desktop Connector and another without. The one with Desktop Connector opened and ran Inventor just fine, but the one without Desktop Connector wouldn't open the log in screen and crash as soon as I try to log in. The only differences I noticed in the two computer is one only have the V5 program while
+
+
+
+
+-----
+
+
+
+
+# **10/25/22**
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [ ] Noly
+- [x] Rebecca
+- [ ] Ari
