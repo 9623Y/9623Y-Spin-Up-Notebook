@@ -3096,7 +3096,7 @@ Today we are working on setting up laptops to teach others how to use Inventor.
 - [x] Rhett
 - [ ] Tyler
 - [x] Noly
-- [ ] Rebecca
+- [x] Rebecca
 - [ ] Ari
   
 ## **Goals for Today**
