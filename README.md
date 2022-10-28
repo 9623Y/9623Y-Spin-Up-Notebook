@@ -71,7 +71,8 @@
 66. [**10/24/22**](#102422)
 67. [**10/25/22**](#102522)
 68. [**10/26/22**](#102622)
-69. [**10/26/22**](#102622-1)
+69. [**10/27/22**](#102722)
+70. [**10/28/22**](#102822)
 
 
 
@@ -3215,7 +3216,7 @@ After installing the Graphics Card Update and reinstalling Inventor, everything 
 
 
 
-# **10/26/22**
+# **10/27/22**
 
 
 ## **Attendance**
@@ -3233,4 +3234,33 @@ After installing the Graphics Card Update and reinstalling Inventor, everything 
 
 
 
-### **New Tubing Intake Design**
+
+
+
+
+-----
+
+
+
+
+
+# **10/28/22**
+
+
+## **Attendance**
+- [x] Rhett
+- [x] Noly
+- [x] Tyler
+- [ ] Rebecca
+- [ ] Ari
+
+## **Goals for Today**
+- [x] Continue Working on Intake Redesign
+- [ ] Sort out Merch for Next Meeting
+
+
+### **Flex Wheel Intake Redesign**
+
+
+### **Merch**
+We sorted out the merch into bags to easily hand out what each person got. We sorted the bags into 2 piles to allow people who already paid to find theirs easily next meeting.
