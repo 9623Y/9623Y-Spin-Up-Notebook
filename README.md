@@ -3231,7 +3231,11 @@ After installing the Graphics Card Update and reinstalling Inventor, everything 
 
 
 ### **Flex Wheel Intake Redesign**
+Today Tyler tested his intake prototype some more, including moving the middle row of rollers down 2 rows so that the disc wouldn’t be pushed down in between the 2 flat metal ridges and instead would be pushed down near the end of the first ridge. After changing the wheel placement, there was a noticeable difference in efficiency. The lower chain was tensioned and would snap when 2 discs stacked were put in. Another chainlink was added and that lead to the sprocket skipping once or twice before picking up a disc, which is a much more desirable outcome over having a broken chain and unusable intake for the rest of the match. Overall I’m confident that this new intake design is much better and is easier to design and build around.
 
+**Example of Intake in action**
+
+https://youtu.be/0-MIhhQ13q0 
 
 
 
@@ -3260,6 +3264,7 @@ After installing the Graphics Card Update and reinstalling Inventor, everything 
 
 
 ### **Flex Wheel Intake Redesign**
+We are adding 2 more flaps on the bottom of the intake to help guide the disk into the intake. We also moved the bottom row of the intake two holes down to try to help pull the disk into the intake while we are driving.
 
 
 ### **Merch**
