@@ -3,76 +3,76 @@
 
 # ***Table of Contents***
 
-1. [***9623Y Spin Up Notebook***](#9623y-spin-up-notebook)
-2. [***Table of Contents***](#table-of-contents)
-3. [***Team Bio***](#team-bio)
-4. [***Game Explanation***](#game-explanation)
-5. [***Dated Entries***](#dated-entries)
-6. [**5/11/22 - _The Contest Begins_**](#51122---the-contest-begins)
-7. [**5/12/2022 - _Beginning Design_**](#5122022---beginning-design)
-8. [**5/16/2022 - _Fusion Design Begins_**](#5162022---fusion-design-begins)
-9. [**5/17/2022 - _Design Continues and Building Begins_**](#5172022---design-continues-and-building-begins)
-10. [**5/18/2022 - _Prototyping Continues_**](#5182022---prototyping-continues)
-11. [**5/19/2022 - _Designing a Test_**](#5192022---designing-a-test)
-12. [**5/20/2022 - _Gear Ratios_**](#5202022---gear-ratios)
-13. [**5/23/2022 - _Programming and Maybe Testing_**](#5232022---programming-and-maybe-testing)
-14. [**5/24/2022 - _Programming and Working Towards Finalizing the Prototyping/Test Bed_**](#5242022---programming-and-working-towards-finalizing-the-prototypingtest-bed)
-15. [**5/25/2022 - _Continuing Work on the Test Bed_**](#5252022---continuing-work-on-the-test-bed)
-16. [**5/26/2022 - _Testing Begins_**](#5262022---testing-begins)
-17. [**5/27/2022 - _Heavily Testing_**](#5272022---heavily-testing)
-18. [**5/31/2022 - _Launcher Testing and Intake Design_**](#5312022---launcher-testing-and-intake-design)
-19. [**7/28/22 -  _Returning from break / Returning to planning_**](#72822----returning-from-break--returning-to-planning)
-20. [**8/18/2022 - _Beginning Work in Class / First In-Season Team Meeting_**](#8182022---beginning-work-in-class--first-in-season-team-meeting)
-21. [**8/19/22 - _Intake Design_**](#81922---intake-design)
-22. [**8/22/2022 - _Intake Prototype Building Begins_**](#8222022---intake-prototype-building-begins)
-23. [**8/23/2022 - _Intake Prototype Design and Discussion Day 2_**](#8232022---intake-prototype-design-and-discussion-day-2)
-24. [**8/24/2022 - _Intake Problem Solving_**](#8242022---intake-problem-solving)
-25. [**8/25/2022 - _Base Prototype Building Begins_**](#8252022---base-prototype-building-begins)
-26. [**8/26/2022 - _Mecanum Base Experimentation_**](#8262022---mecanum-base-experimentation)
-27. [**8/29/2022 - _Intake Prototyping and GPS Testing_**](#8292022---intake-prototyping-and-gps-testing)
-28. [**8/30/22 - _Intake Prototyping Day 2_**](#83022---intake-prototyping-day-2)
-29. [**8/31/2022 - _Intake Prototyping Day 3_**](#8312022---intake-prototyping-day-3)
-30. [**9/1/2022 - _Intake Prototyping Day 4_**](#912022---intake-prototyping-day-4)
-31. [**9/2/2022 - _Intake Prototyping Day 5_**](#922022---intake-prototyping-day-5)
-32. [**9/6/2022 - _Intake Prototyping Day 6_**](#962022---intake-prototyping-day-6)
-33. [**9/7/2022 - _Intake Prototyping Day 7_**](#972022---intake-prototyping-day-7)
-34. [**9/8/2022 - _Intake Prototyping Day 8_**](#982022---intake-prototyping-day-8)
-35. [**9/9/2022 - _Intake Prototyping Day 9_**](#992022---intake-prototyping-day-9)
-36. [**9/10/2022 - _Intake Prototyping Day 10_**](#9102022---intake-prototyping-day-10)
-37. [**9/11/2022 - _Intake Prototyping Day 11_**](#9112022---intake-prototyping-day-11)
-38. [**9/12/2022 - _Intake Prototyping Day 12_**](#9122022---intake-prototyping-day-12)
-39. [**9/13/2022 - _Intake Prototyping Day 13_**](#9132022---intake-prototyping-day-13)
-40. [**9/14/2022 - _Intake Redesign and Prototyping Day 1_**](#9142022---intake-redesign-and-prototyping-day-1)
-41. [**9/15/2022 - _Intake and Launcher Prototyping Day 1_**](#9152022---intake-and-launcher-prototyping-day-1)
-42. [**9/16/2022 - _Launcher Prototyping_**](#9162022---launcher-prototyping)
-43. [**9/17/22 - _Intake and Launcher Prototyping Day 2_**](#91722---intake-and-launcher-prototyping-day-2)
-44. [**9/19/22 - _Intake and Launcher Prototyping Day 3_**](#91922---intake-and-launcher-prototyping-day-3)
-45. [**9/20/22 - _Intake and Base Prototyping_**](#92022---intake-and-base-prototyping)
-46. [**9/21/22 - _Base Prototyping_**](#92122---base-prototyping)
-47. [**9/22/22 - _Finalizig Prototype Day 1_**](#92222---finalizig-prototype-day-1)
-48. [**9/23/22 - _Finalizing Prototype Day 2_**](#92322---finalizing-prototype-day-2)
-49. [**9/26/22 - _Finalizing Prototype Day 3_**](#92622---finalizing-prototype-day-3)
-50. [**9/27/22 - _Finalizing Prototype Day 4_**](#92722---finalizing-prototype-day-4)
-51. [**9/28/22 - _Finalizing Prototype Day 5_**](#92822---finalizing-prototype-day-5)
-52. [**9/29/22 - _Base Prototyping_**](#92922---base-prototyping)
-53. [**10/02/22 - _Base Prototyping Day 2_**](#100222---base-prototyping-day-2)
-54. [**10/03/22 - _Pneumatics Testing and Code_**](#100322---pneumatics-testing-and-code)
-55. [**10/04/22 - _Testing and Finalizing Intake_**](#100422---testing-and-finalizing-intake)
-56. [**10/05/22 - _Intake Building_**](#100522---intake-building)
-57. [**10/06/22 - _Intake Redesign and Long Meeting_**](#100622---intake-redesign-and-long-meeting)
-58. [**10/07/22 - _Intake Redesigning and Notebook Work_**](#100722---intake-redesigning-and-notebook-work)
-59. [**10/10/22 - _Intake Prototyping Day 15_**](#101022---intake-prototyping-day-15)
-60. [**10/11/22 - _Intake Finalizing_**](#101122---intake-finalizing)
-61. [**10/12/22 - _Intake Finalizing Day 2_**](#101222---intake-finalizing-day-2)
-62. [**10/13/22 - _Intake Testing and Launcher Prototyping_**](#101322---intake-testing-and-launcher-prototyping)
-63. [**10/18/22 - _Intake Finalizing and Launcher Prototyping_**](#101822---intake-finalizing-and-launcher-prototyping)
-64. [**10/19/22 - _Launcher Rebuilding_**](#101922---launcher-rebuilding)
-65. [**10/20/22**](#102022)
-66. [**10/24/22**](#102422)
-67. [**10/25/22**](#102522)
-68. [**10/26/22**](#102622)
-69. [**10/27/22**](#102722)
-70. [**10/28/22**](#102822)
+1. [***Team Bio***](#team-bio)
+2. [***Game Explanation***](#game-explanation)
+3. [***Dated Entries***](#dated-entries)
+4. [**5/11/22 - _The Contest Begins_**](#51122---the-contest-begins)
+5. [**5/12/2022 - _Beginning Design_**](#5122022---beginning-design)
+6. [**5/16/2022 - _Fusion Design Begins_**](#5162022---fusion-design-begins)
+7. [**5/17/2022 - _Design Continues and Building Begins_**](#5172022---design-continues-and-building-begins)
+8. [**5/18/2022 - _Prototyping Continues_**](#5182022---prototyping-continues)
+9. [**5/19/2022 - _Designing a Test_**](#5192022---designing-a-test)
+10. [**5/20/2022 - _Gear Ratios_**](#5202022---gear-ratios)
+11. [**5/23/2022 - _Programming and Maybe Testing_**](#5232022---programming-and-maybe-testing)
+12. [**5/24/2022 - _Programming and Working Towards Finalizing the Prototyping/Test Bed_**](#5242022---programming-and-working-towards-finalizing-the-prototypingtest-bed)
+13. [**5/25/2022 - _Continuing Work on the Test Bed_**](#5252022---continuing-work-on-the-test-bed)
+14. [**5/26/2022 - _Testing Begins_**](#5262022---testing-begins)
+15. [**5/27/2022 - _Heavily Testing_**](#5272022---heavily-testing)
+16. [**5/31/2022 - _Launcher Testing and Intake Design_**](#5312022---launcher-testing-and-intake-design)
+17. [**7/28/22 -  _Returning from break / Returning to planning_**](#72822----returning-from-break--returning-to-planning)
+18. [**8/18/2022 - _Beginning Work in Class / First In-Season Team Meeting_**](#8182022---beginning-work-in-class--first-in-season-team-meeting)
+19. [**8/19/22 - _Intake Design_**](#81922---intake-design)
+20. [**8/22/2022 - _Intake Prototype Building Begins_**](#8222022---intake-prototype-building-begins)
+21. [**8/23/2022 - _Intake Prototype Design and Discussion Day 2_**](#8232022---intake-prototype-design-and-discussion-day-2)
+22. [**8/24/2022 - _Intake Problem Solving_**](#8242022---intake-problem-solving)
+23. [**8/25/2022 - _Base Prototype Building Begins_**](#8252022---base-prototype-building-begins)
+24. [**8/26/2022 - _Mecanum Base Experimentation_**](#8262022---mecanum-base-experimentation)
+25. [**8/29/2022 - _Intake Prototyping and GPS Testing_**](#8292022---intake-prototyping-and-gps-testing)
+26. [**8/30/22 - _Intake Prototyping Day 2_**](#83022---intake-prototyping-day-2)
+27. [**8/31/2022 - _Intake Prototyping Day 3_**](#8312022---intake-prototyping-day-3)
+28. [**9/1/2022 - _Intake Prototyping Day 4_**](#912022---intake-prototyping-day-4)
+29. [**9/2/2022 - _Intake Prototyping Day 5_**](#922022---intake-prototyping-day-5)
+30. [**9/6/2022 - _Intake Prototyping Day 6_**](#962022---intake-prototyping-day-6)
+31. [**9/7/2022 - _Intake Prototyping Day 7_**](#972022---intake-prototyping-day-7)
+32. [**9/8/2022 - _Intake Prototyping Day 8_**](#982022---intake-prototyping-day-8)
+33. [**9/9/2022 - _Intake Prototyping Day 9_**](#992022---intake-prototyping-day-9)
+34. [**9/10/2022 - _Intake Prototyping Day 10_**](#9102022---intake-prototyping-day-10)
+35. [**9/11/2022 - _Intake Prototyping Day 11_**](#9112022---intake-prototyping-day-11)
+36. [**9/12/2022 - _Intake Prototyping Day 12_**](#9122022---intake-prototyping-day-12)
+37. [**9/13/2022 - _Intake Prototyping Day 13_**](#9132022---intake-prototyping-day-13)
+38. [**9/14/2022 - _Intake Redesign and Prototyping Day 1_**](#9142022---intake-redesign-and-prototyping-day-1)
+39. [**9/15/2022 - _Intake and Launcher Prototyping Day 1_**](#9152022---intake-and-launcher-prototyping-day-1)
+40. [**9/16/2022 - _Launcher Prototyping_**](#9162022---launcher-prototyping)
+41. [**9/17/22 - _Intake and Launcher Prototyping Day 2_**](#91722---intake-and-launcher-prototyping-day-2)
+42. [**9/19/22 - _Intake and Launcher Prototyping Day 3_**](#91922---intake-and-launcher-prototyping-day-3)
+43. [**9/20/22 - _Intake and Base Prototyping_**](#92022---intake-and-base-prototyping)
+44. [**9/21/22 - _Base Prototyping_**](#92122---base-prototyping)
+45. [**9/22/22 - _Finalizig Prototype Day 1_**](#92222---finalizig-prototype-day-1)
+46. [**9/23/22 - _Finalizing Prototype Day 2_**](#92322---finalizing-prototype-day-2)
+47. [**9/26/22 - _Finalizing Prototype Day 3_**](#92622---finalizing-prototype-day-3)
+48. [**9/27/22 - _Finalizing Prototype Day 4_**](#92722---finalizing-prototype-day-4)
+49. [**9/28/22 - _Finalizing Prototype Day 5_**](#92822---finalizing-prototype-day-5)
+50. [**9/29/22 - _Base Prototyping_**](#92922---base-prototyping)
+51. [**10/02/22 - _Base Prototyping Day 2_**](#100222---base-prototyping-day-2)
+52. [**10/03/22 - _Pneumatics Testing and Code_**](#100322---pneumatics-testing-and-code)
+53. [**10/04/22 - _Testing and Finalizing Intake_**](#100422---testing-and-finalizing-intake)
+54. [**10/05/22 - _Intake Building_**](#100522---intake-building)
+55. [**10/06/22 - _Intake Redesign and Long Meeting_**](#100622---intake-redesign-and-long-meeting)
+56. [**10/07/22 - _Intake Redesigning and Notebook Work_**](#100722---intake-redesigning-and-notebook-work)
+57. [**10/10/22 - _Intake Prototyping Day 15_**](#101022---intake-prototyping-day-15)
+58. [**10/11/22 - _Intake Finalizing_**](#101122---intake-finalizing)
+59. [**10/12/22 - _Intake Finalizing Day 2_**](#101222---intake-finalizing-day-2)
+60. [**10/13/22 - _Intake Testing and Launcher Prototyping_**](#101322---intake-testing-and-launcher-prototyping)
+61. [**10/18/22 - _Intake Finalizing and Launcher Prototyping_**](#101822---intake-finalizing-and-launcher-prototyping)
+62. [**10/19/22 - _Launcher Rebuilding_**](#101922---launcher-rebuilding)
+63. [**10/20/22**](#102022)
+64. [**10/24/22**](#102422)
+65. [**10/25/22**](#102522)
+66. [**10/26/22**](#102622)
+67. [**10/27/22**](#102722)
+68. [**10/28/22**](#102822)
+69. [**10/31/22**](#103122)
+70. [**11/1/22**](#11122)
 
 
 
@@ -3148,6 +3148,7 @@ We were able to troubleshoot the laptops and find a possible fix, though we were
 
 # **10/25/22**
 
+Today we plan to work on new intake designs to solve our current issues with the intake.
 ## **Attendance**
 - [x] Rhett
 - [x] Tyler
@@ -3182,6 +3183,7 @@ If we use flat metal and bend it to the point that it has a slight hill in it, a
 
 # **10/26/22**
 
+Today We continued working on the new intake designs and testing the laptops.
 
 ## **Attendance**
 - [x] Rhett
@@ -3218,7 +3220,7 @@ After installing the Graphics Card Update and reinstalling Inventor, everything 
 
 # **10/27/22**
 
-
+Yet again we continued working on new intake designs.
 ## **Attendance**
 - [x] Rhett
 - [x] Noly
@@ -3269,3 +3271,66 @@ We are adding 2 more flaps on the bottom of the intake to help guide the disk in
 
 ### **Merch**
 We sorted out the merch into bags to easily hand out what each person got. We sorted the bags into 2 piles to allow people who already paid to find theirs easily next meeting.
+
+
+
+
+-----
+
+
+
+
+# **10/31/22**
+
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [ ] Noly
+- [ ] Ari
+- [ ] Rebecca
+
+
+## **Goals for Today**
+
+- [x] Continue Working on Intake Redesign
+- [ ] Work on Meshing the launcher and intake together
+
+
+### **Intake Design**
+
+
+
+### **Launcher and Intake Mesh Design**
+
+
+
+## **End of Entry Thoughts**
+
+
+
+
+-----
+
+
+
+
+# **11/1/22**
+
+Today we continued working on the launcher redesign to better mesh with the intake. We also made a required and desired table for the robot.
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [x] Ari
+- [ ] Rebecca
+
+## **Goals for Today**
+- [ ] Make a Required and Desired Table for the Robot
+- [ ] Continue on Launcher Redesign
+
+
+### **Required and Desired Table**
+
+[![draw.io](./Digrams/Required-and-Desired-Chart.drawio.svg)](https://https://app.diagrams.net/?mode=github#H9623Y%2FNBDiagrams%2Fmain%2FRequired%20and%20Desired%20v2.drawio.svg)
