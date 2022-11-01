@@ -3327,7 +3327,7 @@ Today we continued working on the launcher redesign to better mesh with the inta
 - [ ] Rebecca
 
 ## **Goals for Today**
-- [ ] Make a Required and Desired Table for the Robot
+- [x] Make a Required and Desired Table for the Robot
 - [ ] Continue on Launcher Redesign
 
 
@@ -3338,3 +3338,6 @@ Today we continued working on the launcher redesign to better mesh with the inta
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/9623Y/9623Y-Spin-Up-Notebook/blob/main/Diagrams/RequiredandDesiredChartLight.drawio.svg">
   <img alt="Required and Desired Chart." src="https://github.com/9623Y/9623Y-Spin-Up-Notebook/blob/main/Diagrams/RequiredandDesiredLight.drawio.png">
 </picture>
+
+
+### **Launcher and Intake Mesh Design**
