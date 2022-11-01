@@ -3333,4 +3333,4 @@ Today we continued working on the launcher redesign to better mesh with the inta
 
 ### **Required and Desired Table**
 
-[![draw.io](./Digrams/Required-and-Desired-Chart.drawio.svg)](https://https://app.diagrams.net/?mode=github#H9623Y%2FNBDiagrams%2Fmain%2FRequired%20and%20Desired%20v2.drawio.svg)
+[![RequiredandDesiredChartdraw.io](./Digrams/Required%20and%20Desired%20Chart.drawio.svg)](https://https://app.diagrams.net/?mode=github#H9623Y%2FNBDiagrams%2Fmain%2FRequired%20and%20Desired%20v2.drawio.svg)
