@@ -3333,4 +3333,8 @@ Today we continued working on the launcher redesign to better mesh with the inta
 
 ### **Required and Desired Table**
 
-[![RequiredandDesiredChartdraw.io](./Digrams/Required%20and%20Desired%20Chart.drawio.svg)](https://https://app.diagrams.net/?mode=github#H9623Y%2FNBDiagrams%2Fmain%2FRequired%20and%20Desired%20v2.drawio.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/9623Y/9623Y-Spin-Up-Notebook/blob/main/Diagrams/RequiredandDesiredChartDark.drawio.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/9623Y/9623Y-Spin-Up-Notebook/blob/main/Diagrams/RequiredandDesiredChartLight.drawio.svg">
+  <img alt="Required and Desired Chart." src="https://github.com/9623Y/9623Y-Spin-Up-Notebook/blob/main/Diagrams/RequiredandDesiredLight.drawio.png">
+</picture>
