@@ -3336,7 +3336,7 @@ Today we continued working on the launcher redesign to better mesh with the inta
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/9623Y/9623Y-Spin-Up-Notebook/blob/main/Diagrams/RequiredandDesiredChartDark.drawio.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/9623Y/9623Y-Spin-Up-Notebook/blob/main/Diagrams/RequiredandDesiredChartLight.drawio.svg">
-  <img alt="Required and Desired Chart." src="https://github.com/9623Y/9623Y-Spin-Up-Notebook/blob/main/Diagrams/RequiredandDesiredLight.drawio.png">
+  <img alt="Required and Desired Chart." src="q://github.com/9623Y/9623Y-Spin-Up-Notebook/blob/main/Diagrams/RequiredandDesiredLight.drawio.png">
 </picture>
 
 
