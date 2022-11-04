@@ -77,6 +77,7 @@
 72. [**11/1/22**](#11122)
 73. [**11/2/22**](#11222)
 74. [**11/3/22**](#11322)
+75. [**11/4/22**](#11422)
 
 
 
@@ -3403,3 +3404,11 @@ Realized the intake accuator, the thing that pushed the disk into the launcher, 
 - [ ] Finish Launcher
 
 ### **
+
+
+# **11/4/22**
+
+## **Goals for Today**
+- [ ] Finish Launcher 
+- [ ] Finish Intake
+- [ ] Get Super Structure built
