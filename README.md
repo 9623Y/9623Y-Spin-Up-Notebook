@@ -78,6 +78,7 @@
 73. [**11/2/22**](#11222)
 74. [**11/3/22**](#11322)
 75. [**11/4/22**](#11422)
+76. [**11/7/22**](#11722)
 
 
 
@@ -3241,10 +3242,11 @@ Today we continued working on new intake designs.
 ### **Flex Wheel Intake Redesign**
 Today Tyler tested his intake prototype some more, including moving the middle row of rollers down 2 rows so that the disc wouldn’t be pushed down in between the 2 flat metal ridges and instead would be pushed down near the end of the first ridge. After changing the wheel placement, there was a noticeable difference in efficiency. The lower chain was tensioned and would snap when 2 discs stacked were put in. Another chainlink was added and that lead to the sprocket skipping once or twice before picking up a disc, which is a much more desirable outcome over having a broken chain and unusable intake for the rest of the match. Overall I’m confident that this new intake design is much better and is easier to design and build around.
 
-**Example of Intake in action**
+### **Example of Intake in action**
 
 https://youtu.be/0-MIhhQ13q0 
 
+## **End of Entry Thoughts**
 
 
 
@@ -3352,7 +3354,7 @@ Today we continued working on the launcher redesign to better mesh with the inta
 Realized the intake accuator, the thing that pushed the disk into the launcher, didn't do what we wanted it to so we redesigned it. We tried to use angle pieces to push the disk but we didnt get very far before we had to stop for the day.
 
 ## **End of Entry Thoughts**
-
+We work on the Launcher and created a Required and Desired list to hopefully help keep us on track.
 
 
 
@@ -3377,7 +3379,9 @@ Realized the intake accuator, the thing that pushed the disk into the launcher, 
 ## **Goals for Today**
 - [x] Continue on Launcher Redesign
 
+
 ## **End of Entry Thoughts**
+
 
 
 
@@ -3406,9 +3410,56 @@ Realized the intake accuator, the thing that pushed the disk into the launcher, 
 ### **
 
 
+
+
+
+-----
+
+
+
+
+
+
 # **11/4/22**
+
+
+
+
+
+## **Attendance**
+- [ ] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
 
 ## **Goals for Today**
 - [ ] Finish Launcher 
 - [ ] Finish Intake
 - [ ] Get Super Structure built
+
+
+
+
+
+-----
+
+
+
+
+
+
+# **11/7/22**
+
+
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+## **Goals for Today**
+- [ ] Work on Superstructure
+- [ ] 
