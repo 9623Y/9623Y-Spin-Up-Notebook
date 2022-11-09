@@ -79,6 +79,7 @@
 74. [**11/3/22**](#11322)
 75. [**11/4/22**](#11422)
 76. [**11/7/22**](#11722)
+77. [**11/9/22**](#11922)
 
 
 
@@ -3408,7 +3409,7 @@ We work on the Launcher and created a Required and Desired list to hopefully hel
 - [ ] Finish Launcher
 
 ### **
-
+Started gearboxes to make gear ratio compact and get to desired rpm in a better time/quicker
 
 
 
@@ -3438,7 +3439,7 @@ We work on the Launcher and created a Required and Desired list to hopefully hel
 - [ ] Finish Intake
 - [ ] Get Super Structure built
 
-
+messing around with the pusher of the launcher 
 
 
 
@@ -3463,3 +3464,25 @@ We work on the Launcher and created a Required and Desired list to hopefully hel
 ## **Goals for Today**
 - [ ] Work on Superstructure
 - [ ] 
+
+
+
+
+
+# **11/9/22**
+
+
+
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+## **Goals for Today**
+- [ ] Continue Intake Designing
+
+### **Intake**
+We have concerns about spacing so we are trying another vertical intake to try and preserve spacing. The new intake will be able to be tested both vertically and at a slight angle as we have some concerns about it being strictly vertical.
