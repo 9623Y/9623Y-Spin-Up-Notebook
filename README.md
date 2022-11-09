@@ -2993,6 +2993,14 @@ We weren't able to get as much done as we would have liked but we should be able
 
 Today, Rhett was able to get a working intake that would reliablely intake a disc when being hand fed but issues with the ramp led the bot to not be able to drive around the field without the ramp digging into the tiles and causing the bot to get stuck. We will continue to work on solutions to this issues when the whole team is able to discuss what we can do to fix this issue.
 
+### **Running Intake**
+
+Part 1 of our working intake:
+https://youtube.com/shorts/abjFR-LzTMw?feature=share 
+
+Part 2 of our working intake: 
+https://youtube.com/shorts/XFnQ31NfHG4?feature=share 
+
 ## **End of Entry Thoughts**
 We were able to get a working intake but we still have issues with the ramp that we will need to fix before we can test the bot on the field and begin to integrate the launcher with the intake as well.
 
@@ -3463,7 +3471,6 @@ messing around with the pusher of the launcher
 
 ## **Goals for Today**
 - [ ] Work on Superstructure
-- [ ] 
 
 
 
@@ -3482,7 +3489,9 @@ messing around with the pusher of the launcher
 - [ ] Ari
 
 ## **Goals for Today**
-- [ ] Continue Intake Designing
+- [x] Continue Intake Designing
+- [ ] Continue Launcher Building
+- [ ] Continue Intake Building
 
 ### **Intake**
 We have concerns about spacing so we are trying another vertical intake to try and preserve spacing. The new intake will be able to be tested both vertically and at a slight angle as we have some concerns about it being strictly vertical.
