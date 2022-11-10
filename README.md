@@ -67,19 +67,20 @@
 62. [**10/13/22 - _Intake Testing and Launcher Prototyping_**](#101322---intake-testing-and-launcher-prototyping)
 63. [**10/18/22 - _Intake Finalizing and Launcher Prototyping_**](#101822---intake-finalizing-and-launcher-prototyping)
 64. [**10/19/22 - _Launcher Rebuilding_**](#101922---launcher-rebuilding)
-65. [**10/20/22**](#102022)
-66. [**10/24/22**](#102422)
-67. [**10/25/22**](#102522)
-68. [**10/26/22**](#102622)
-69. [**10/27/22**](#102722)
-70. [**10/28/22**](#102822)
-71. [**10/31/22**](#103122)
-72. [**11/1/22**](#11122)
-73. [**11/2/22**](#11222)
-74. [**11/3/22**](#11322)
+65. [**10/20/22 - _Inventor_**](#102022---inventor)
+66. [**10/24/22 - _Spacing and Troubleshooting_**](#102422---spacing-and-troubleshooting)
+67. [**10/25/22 - _Intake Designing_**](#102522---intake-designing)
+68. [**10/26/22 - _Intake Designing Day 2 and Laptop Troubleshooting_**](#102622---intake-designing-day-2-and-laptop-troubleshooting)
+69. [**10/27/22 - _Intake Designing Day 3_**](#102722---intake-designing-day-3)
+70. [**10/28/22 - _Intake Designing Day 4_**](#102822---intake-designing-day-4)
+71. [**10/31/22 - _Intake Designing Day 5_**](#103122---intake-designing-day-5)
+72. [**11/1/22 - _Launcher Designing_**](#11122---launcher-designing)
+73. [**11/2/22 - _Launceher Designing Day 2_**](#11222---launceher-designing-day-2)
+74. [**11/3/22 - _Launcher Building_**](#11322---launcher-building)
 75. [**11/4/22**](#11422)
 76. [**11/7/22**](#11722)
 77. [**11/9/22**](#11922)
+78. [**11/10/22**](#111022)
 
 
 
@@ -858,7 +859,7 @@ Today we began working in class on a drive train to mount our prototype intake o
 - [x] Begin Building Drivetrain to Mount Prototype intake on
 - [x] Begin brainstorming and  a few different prototype intakes
 - [x] Figure out teams involving returning members during the meeting
-- [ ] The goals for today are to begin building the drivetrain for us to mount a prototype intake on and begin brainstroming a few different 
+- [ ] The goals for today are to begin building the drivetrain for us to mount a prototype intake on and begin brainstorming a few different 
 
 
 ### **Drivetrain for intake prototype**
@@ -904,7 +905,7 @@ Today we found an already built drive train to use for intake prototyping so we 
 
 ## **Goals for Today**
 
-- [x] Contiune brainstorming possible intake ideas
+- [x] Continue brainstorming possible intake ideas
 - [x] Sketch out the intake ideas
 - [ ] (If Time) Begin Building the intakes
 
@@ -928,7 +929,7 @@ When we got into class today we were looking for something to use as a testing b
 
 #### **Tank Tread Intake**
 
-The tank tread intake works by using tank tread and paddles to pull discs in. The intake is angled slightly upwards with a piece of pelxiglass under the disc to guide it into the launcher.
+The tank tread intake works by using tank tread and paddles to pull discs in. The intake is angled slightly upwards with a piece of plexiglass under the disc to guide it into the launcher.
 
 
 ### **Intake Concept Sketches**
@@ -3105,7 +3106,7 @@ We were able to finish the launcher but havent been able to test it and we still
 
 
 
-# **10/20/22**
+# **10/20/22 - _Inventor_**
 
 Today we are working on setting up laptops to teach others how to use Inventor.
 
@@ -3134,7 +3135,9 @@ We weren't able to help anyone with Inventor due to laptop issues, but we were a
 
 
 
-# **10/24/22**
+# **10/24/22 - _Spacing and Troubleshooting_**
+
+Today we are working on fixing the spacing and troubleshooting the laptops.
 
 ## **Attendance**
 - [x] Rhett
@@ -3161,9 +3164,10 @@ We were able to troubleshoot the laptops and find a possible fix, though we were
 
 
 
-# **10/25/22**
+# **10/25/22 - _Intake Designing_**
 
 Today we plan to work on new intake designs to solve our current issues with the intake.
+
 ## **Attendance**
 - [x] Rhett
 - [x] Tyler
@@ -3196,7 +3200,7 @@ If we use flat metal and bend it to the point that it has a slight hill in it, a
 
 
 
-# **10/26/22**
+# **10/26/22 - _Intake Designing Day 2 and Laptop Troubleshooting_**
 
 Today we continued working on the new intake designs and testing the laptops.
 
@@ -3233,7 +3237,7 @@ After installing the Graphics Card Update and reinstalling Inventor, everything 
 
 
 
-# **10/27/22**
+# **10/27/22 - _Intake Designing Day 3_**
 
 Today we continued working on new intake designs.
 
@@ -3267,9 +3271,9 @@ https://youtu.be/0-MIhhQ13q0
 
 
 
-# **10/28/22**
+# **10/28/22 - _Intake Designing Day 4_**
 
-
+Today we are working on redesigning our intake and sorting out merch for the team for the next full meeting.
 
 ## **Attendance**
 - [x] Rhett
@@ -3298,7 +3302,7 @@ We sorted out the merch into bags to easily hand out what each person got. We so
 
 
 
-# **10/31/22**
+# **10/31/22 - _Intake Designing Day 5_**
 
 
 
@@ -3334,7 +3338,7 @@ We sorted out the merch into bags to easily hand out what each person got. We so
 
 
 
-# **11/1/22**
+# **11/1/22 - _Launcher Designing_**
 
 Today we continued working on the launcher redesign to better mesh with the intake. We also made a required and desired table for the robot.
 
@@ -3374,9 +3378,9 @@ We work on the Launcher and created a Required and Desired list to hopefully hel
 
 
 
-# **11/2/22**
+# **11/2/22 - _Launceher Designing Day 2_**
 
-
+Today we are working on redesigning the laucher.
 
 ## **Attendence**
 - [x] Rhett
@@ -3402,7 +3406,7 @@ We work on the Launcher and created a Required and Desired list to hopefully hel
 
 
 
-# **11/3/22**
+# **11/3/22 - _Launcher Building_**
 
 
 
@@ -3416,9 +3420,13 @@ We work on the Launcher and created a Required and Desired list to hopefully hel
 ## **Goals for Today**
 - [ ] Finish Launcher
 
-### **
-Started gearboxes to make gear ratio compact and get to desired rpm in a better time/quicker
+### **Launcher**
+We started on remaking the gearboxes for our Launcher. The original gear ratio was 1-10 and we were able to hit 2,000 rpm within 3 seconds, sometimes within 1 second. While this works well, we would like to have it hit 2,000 rpm in less time. We are also concerned about strain on the motor and potentally overheating during a match. 
 
+The new gearboxes will have a ratio of 1-5 and will theoretically have the capability to hit 3,000 rpm. This should make our desired rpm, 2,000, easier to achieve and less strenious. Theoretically, we should be able to hit 2,000 in as little as less than a second, though it should stay under 2 seconds at most. This drop in time should help us fire disks quicker. We also think the drop in ratio will help reduce the friction between the motor and the flex wheel and prevent the motor from overheating under strenuous use.
+
+## **End of Entry Thoughts**
+We were able to get started on the new gearboxes for the Launcher.
 
 
 
@@ -3502,3 +3510,24 @@ messing around with the pusher of the launcher
 
 ### **Intake**
 We have concerns about spacing so we are trying another vertical intake to try and preserve spacing. The new intake will be able to be tested both vertically and at a slight angle as we have some concerns about it being strictly vertical.
+
+
+
+
+
+
+-----
+
+
+
+
+
+
+# **11/10/22**
+
+## A
+
+## **Goals for Today**
+- [ ] Work on Indexing Bottom Row
+- [ ] Update Entries
+- [ ] Get Team Photos
