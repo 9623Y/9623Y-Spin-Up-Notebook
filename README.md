@@ -3455,7 +3455,7 @@ We were able to get started on the new gearboxes for the Launcher.
 - [ ] Finish Intake
 - [ ] Get Super Structure built
 
-messing around with the pusher of the launcher 
+messing around with the pusher of the launcher - the thing that pushes disk into wheels
 
 
 
@@ -3525,7 +3525,14 @@ We have concerns about spacing so we are trying another vertical intake to try a
 
 # **11/10/22**
 
-## A
+Today we are working on the new indexing bottom row and tidying up the notebook.
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
 
 ## **Goals for Today**
 - [ ] Work on Indexing Bottom Row
