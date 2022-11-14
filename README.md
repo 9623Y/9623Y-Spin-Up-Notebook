@@ -3454,6 +3454,9 @@ Today we are working on finishing the Launcher and Intake to start building the 
 - [ ] Finish Intake
 - [ ] Get Superstructure built
 
+### **Launcher**
+We worked on the mechanism to push the disc into the fly wheel launching mechanisms. 
+
 messing around with the pusher of the launcher - the thing that pushes disk into wheels
 
 
