@@ -77,10 +77,11 @@
 72. [**11/1/22 - _Launcher Designing_**](#11122---launcher-designing)
 73. [**11/2/22 - _Launceher Designing Day 2_**](#11222---launceher-designing-day-2)
 74. [**11/3/22 - _Launcher Building_**](#11322---launcher-building)
-75. [**11/4/22**](#11422)
-76. [**11/7/22**](#11722)
-77. [**11/9/22**](#11922)
-78. [**11/10/22**](#111022)
+75. [**11/4/22 - _Launcher Building Day 2_**](#11422---launcher-building-day-2)
+76. [**11/7/22 - _(Entry Name)_**](#11722---entry-name)
+77. [**11/9/22 - _Intake Designing_**](#11922---intake-designing)
+78. [**11/10/22 - _Intake Building_**](#111022---intake-building)
+79. [**11/14/22 - _Intake Building_**](#111422---intake-building)
 
 
 
@@ -3437,7 +3438,7 @@ We were able to get started on the new gearboxes for the Launcher.
 
 
 
-# **11/4/22**
+# **11/4/22 - _Launcher Building Day 2_**
 
 
 
@@ -3466,7 +3467,7 @@ messing around with the pusher of the launcher - the thing that pushes disk into
 
 
 
-# **11/7/22**
+# **11/7/22 - _(Entry Name)_**
 
 
 
@@ -3491,7 +3492,7 @@ messing around with the pusher of the launcher - the thing that pushes disk into
 
 
 
-# **11/9/22**
+# **11/9/22 - _Intake Designing_**
 
 
 
@@ -3523,9 +3524,41 @@ We have concerns about spacing so we are trying another vertical intake to try a
 
 
 
-# **11/10/22**
+# **11/10/22 - _Intake Building_**
 
 Today we are working on the new indexing bottom row and tidying up the notebook.
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [x] Rebecca
+- [x] Ari
+
+## **Goals for Today**
+- [x] Work on Indexing Bottom Row
+- [ ] Update Entries
+- [x] Get Team Photos
+
+### **Indexing Bottom Row**
+We used a rubber band ziptied to the shaft to allow the bottom indexing row to move freely while creating some tension between the disc and the floor.
+
+### **Intake**
+We worked on the intake, mostly adjusting minor design details. We began work on a portion of the intake that will index in front of the intake. Tyler cut some three wide c channel for our intake, and Ari and Rebecca filed down the metal to prevent sharp edges.
+
+
+
+
+-----
+
+
+
+
+
+
+# **11/14/22 - _Intake Building_**
+
+Today we are working on building the intake.
 
 ## **Attendance**
 - [x] Rhett
@@ -3535,6 +3568,8 @@ Today we are working on the new indexing bottom row and tidying up the notebook.
 - [ ] Ari
 
 ## **Goals for Today**
-- [ ] Work on Indexing Bottom Row
-- [ ] Update Entries
-- [ ] Get Team Photos
+- [ ] Intake Building
+- [x] Finish Team Bios
+
+
+### **Intake Building**
