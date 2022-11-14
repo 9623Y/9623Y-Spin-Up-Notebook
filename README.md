@@ -3305,7 +3305,7 @@ We sorted out the merch into bags to easily hand out what each person got. We so
 
 # **10/31/22 - _Intake Designing Day 5_**
 
-
+Today we are going to work on redesigning the Intake and incorperating the Launcher and Intake together for the fully built robot.
 
 ## **Attendance**
 - [x] Rhett
@@ -3318,7 +3318,7 @@ We sorted out the merch into bags to easily hand out what each person got. We so
 ## **Goals for Today**
 
 - [x] Continue Working on Intake Redesign
-- [ ] Work on Meshing the launcher and intake together
+- [ ] Work on Meshing the Launcher and Intake together
 
 
 ### **Intake Design**
@@ -3409,7 +3409,7 @@ Today we are working on redesigning the laucher.
 
 # **11/3/22 - _Launcher Building_**
 
-
+Today we are working on finishing the Launcher.
 
 ## **Attendence**
 - [x] Rhett
@@ -3440,9 +3440,7 @@ We were able to get started on the new gearboxes for the Launcher.
 
 # **11/4/22 - _Launcher Building Day 2_**
 
-
-
-
+Today we are working on finishing the Launcher and Intake to start building the Superstructure.
 
 ## **Attendance**
 - [ ] Rhett
@@ -3454,7 +3452,7 @@ We were able to get started on the new gearboxes for the Launcher.
 ## **Goals for Today**
 - [ ] Finish Launcher 
 - [ ] Finish Intake
-- [ ] Get Super Structure built
+- [ ] Get Superstructure built
 
 messing around with the pusher of the launcher - the thing that pushes disk into wheels
 
@@ -3469,7 +3467,7 @@ messing around with the pusher of the launcher - the thing that pushes disk into
 
 # **11/7/22 - _(Entry Name)_**
 
-
+Today we are going to begin working on the Superstructure.
 
 ## **Attendance**
 - [x] Rhett
@@ -3494,7 +3492,7 @@ messing around with the pusher of the launcher - the thing that pushes disk into
 
 # **11/9/22 - _Intake Designing_**
 
-
+Today we are going to work on redesigning the Intake and building the Launcher and redesigned Intake.
 
 
 ## **Attendance**
