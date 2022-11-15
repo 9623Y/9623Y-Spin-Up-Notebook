@@ -82,6 +82,7 @@
 77. [**11/9/22 - _Intake Designing_**](#11922---intake-designing)
 78. [**11/10/22 - _Intake Building_**](#111022---intake-building)
 79. [**11/14/22 - _Intake Building_**](#111422---intake-building)
+80. [**11/15/22 - _Intake Building Day 2_**](#111522---intake-building-day-2)
 
 
 
@@ -3569,8 +3570,37 @@ Today we are working on building the intake.
 - [ ] Ari
 
 ## **Goals for Today**
-- [ ] Intake Building
+- [x] Intake Building
 - [x] Finish Team Bios
 
 
 ### **Intake Building**
+We started on the frame of the intake. We used standoffs to hold the flex wheels 2.25" away from the ABS ramp. This distance should be enough to allow the disc to slide between the ABS and the flex wheels while allowing the wheels to grab and pull the disc into and out of the intake.
+
+
+
+
+
+-----
+
+
+
+
+
+# **11/15/22 - _Intake Building Day 2_**
+
+Today we are working on building the Vertical Intake and getting closer to our goal of finishing it.
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+## **Goals for Today**
+- [ ] Continue working on Vertical Intake
+- [ ] (If Time) Finish Intake
+
+### **Intake**
+We are using a sheet of ABS for the ramp to help the flex wheels grab onto the disc and guide it up through the intake and into the launcher.
