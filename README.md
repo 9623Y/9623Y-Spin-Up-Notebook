@@ -3599,7 +3599,7 @@ Today we are working on building the Vertical Intake and getting closer to our g
 - [ ] Ari
 
 ## **Goals for Today**
-- [ ] Continue working on Vertical Intake
+- [x] Continue working on Vertical Intake
 - [ ] (If Time) Finish Intake
 
 ### **Intake**
