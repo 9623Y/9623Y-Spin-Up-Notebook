@@ -83,6 +83,7 @@
 78. [**11/10/22 - _Intake Building_**](#111022---intake-building)
 79. [**11/14/22 - _Intake Building_**](#111422---intake-building)
 80. [**11/15/22 - _Intake Building Day 2_**](#111522---intake-building-day-2)
+81. [**11/16/22 - _Intake Building Day 3_**](#111622---intake-building-day-3)
 
 
 
@@ -3174,7 +3175,7 @@ Today we plan to work on new intake designs to solve our current issues with the
 - [x] Rhett
 - [x] Tyler
 - [ ] Noly
-- [x] Rebecca
+- [ ] Rebecca
 - [ ] Ari
 
 ## **Goals for Today**
@@ -3184,8 +3185,11 @@ Today we plan to work on new intake designs to solve our current issues with the
 ### **Ramp Redesign Ideas**
 If we use flat metal and bend it to the point that it has a slight hill in it, and as long as our wheel placement is proper, there’s enough clearance to get past the ridge and the indentation in the disc will be lifted enough that there’s constant contact with the disc. We feel like this could potentially be extreamly useful for moving discs as reliably as possible on a horizontal angled ramp.
 
-### **Flex Wheel Intake Redesign**
+### **Intake Design**
+We decided that a vertical intake wasn’t practical, so Tyler and Rhett went back to the drawing board to build some sloped intakes that hopefully will work better than a vertical intake. Tyler decided to use the original idea of small flex wheels to pull the disc up while Rhett went for a more experimental design of using pneumatic tubing to pull the disc along. 
 
+### **Flex Wheel Intake Redesign**
+A new design that Tyler used was bent flat metal shaped like small hills in between the gaps of the wheels. These hills solved the issue of the disc having ridges and not being able to get consistent flex wheel contact due to the dips in discs shape. While the design is just a proof of concept currently, hopefully it can at least help the team learn new properties for future designs or make it onto the robot.
 
 
 ### **New Tubing Intake Design**
@@ -3193,7 +3197,7 @@ If we use flat metal and bend it to the point that it has a slight hill in it, a
 
 
 ## **End of Entry Thoughts**
-
+We were able to get a lot done between the two different Intake designs. We were even able to improve our ramp to make it more functional.
 
 
 
@@ -3219,17 +3223,16 @@ Today we continued working on the new intake designs and testing the laptops.
 
 
 ### **Flex Wheel Intake Redesign**
-
-
+Today was day 2 of horizontal intake designing, Tyler kept working on and ultimately got a working rough design for an intake. The hills worked as expected and the disc was able to get through the intake quickly and well. The main issue that Tyler ran into was how bulky the initial prototype was and finding a way to reduce the profile was the main holdback and current issue. Overall, this was a progressive day. Even if this isn’t a final design it’s teaching the team a lot about what needs to and should be done.
 
 ### **New Tubing Intake Design**
-
+We decided to scrap the Tubing Intake design in favor for the Flex Wheel Intake design. With a working Flex Wheel Intake that just needed some tweaking, we wouldn't need to waste our efforts on another intake. The overall design would take too much time and had questionable practicality. 
 
 ### **Laptop Issues**
 After installing the Graphics Card Update and reinstalling Inventor, everything worked as intended. I was even able to install Desktop Connector and run everything smoothly.
 
 ## **End of Entry Thoughts**
-
+While we chose to scrap our 2nd Intake design, we were able to get a functional intake and even begin reducing the overall size of it. We also managed to find and fix the issue with the laptops, which can help us with similar issues in the future.
 
 
 
@@ -3255,14 +3258,16 @@ Today we continued working on new intake designs.
 
 
 ### **Flex Wheel Intake Redesign**
-Today Tyler tested his intake prototype some more, including moving the middle row of rollers down 2 rows so that the disc wouldn’t be pushed down in between the 2 flat metal ridges and instead would be pushed down near the end of the first ridge. After changing the wheel placement, there was a noticeable difference in efficiency. The lower chain was tensioned and would snap when 2 discs stacked were put in. Another chainlink was added and that lead to the sprocket skipping once or twice before picking up a disc, which is a much more desirable outcome over having a broken chain and unusable intake for the rest of the match. Overall I’m confident that this new intake design is much better and is easier to design and build around.
+Today Tyler tested his intake prototype some more, including moving the middle row of rollers down 2 rows so that the disc wouldn’t be pushed down in between the 2 flat metal ridges and instead would be pushed down near the end of the first ridge. After changing the wheel placement, there was a noticeable difference in efficiency. 
+
+The lower chain was tensioned and would snap when 2 discs stacked were put in. Another chainlink was added and that lead to the sprocket skipping once or twice before picking up a disc, which is a much more desirable outcome over having a broken chain and unusable intake for the rest of the match. Overall I’m confident that this new intake design is much better and is easier to design and build around.
 
 ### **Example of Intake in action**
 
 https://youtu.be/0-MIhhQ13q0 
 
 ## **End of Entry Thoughts**
-
+We were able to test the intake prototype and make adjustments to make it more functional and practical.
 
 
 
@@ -3286,7 +3291,7 @@ Today we are working on redesigning our intake and sorting out merch for the tea
 
 ## **Goals for Today**
 - [x] Continue Working on Intake Redesign
-- [ ] Sort out Merch for Next Meeting
+- [x] Sort out Merch for Next Meeting
 
 
 ### **Flex Wheel Intake Redesign**
@@ -3294,8 +3299,10 @@ We are adding 2 more flaps on the bottom of the intake to help guide the disk in
 
 
 ### **Merch**
-We sorted out the merch into bags to easily hand out what each person got. We sorted the bags into 2 piles to allow people who already paid to find theirs easily next meeting.
+We sorted out the merch into bags to easily hand out what each person got. Each person who got merch had a designeted bag to hold everything they ordered. We sorted the bags into 2 piles to allow people who already paid to find theirs easily next meeting. After spending the last month or two designing, planning, and budgeting the merch, we were glad to finally get all the different clothing in. 
 
+## **End of Entry Thoughts**
+We were able to continue working onthe Intake and finally start sorting and hand out merch.
 
 
 
@@ -3317,13 +3324,11 @@ Today we are going to work on redesigning the Intake and incorperating the Launc
 
 
 ## **Goals for Today**
-
 - [x] Continue Working on Intake Redesign
 - [ ] Work on Meshing the Launcher and Intake together
 
 
 ### **Intake Design**
-
 
 
 ### **Launcher and Intake Mesh Design**
@@ -3460,6 +3465,8 @@ We worked on the mechanism to push the disc into the fly wheel launching mechani
 
 messing around with the pusher of the launcher - the thing that pushes disk into wheels
 
+## **End of Entry Thoughts**
+
 
 
 -----
@@ -3482,6 +3489,8 @@ Today we are going to begin working on the Superstructure.
 
 ## **Goals for Today**
 - [ ] Work on Superstructure
+
+## **End of Entry Thoughts**
 
 
 
@@ -3513,6 +3522,8 @@ Today we are going to work on redesigning the Intake and building the Launcher a
 
 ### **Intake**
 We have concerns about spacing so we are trying another vertical intake to try and preserve spacing. The new intake will be able to be tested both vertically and at a slight angle as we have some concerns about it being strictly vertical.
+
+## **End of Entry Thoughts**
 
 
 
@@ -3548,6 +3559,8 @@ We used a rubber band ziptied to the shaft to allow the bottom indexing row to m
 ### **Intake**
 We worked on the intake, mostly adjusting minor design details. We began work on a portion of the intake that will index in front of the intake. Tyler cut some three wide c channel for our intake, and Ari and Rebecca filed down the metal to prevent sharp edges.
 
+## **End of Entry Thoughts**
+
 
 
 
@@ -3577,6 +3590,8 @@ Today we are working on building the intake.
 ### **Intake Building**
 We started on the frame of the intake. We used standoffs to hold the flex wheels 2.25" away from the ABS ramp. This distance should be enough to allow the disc to slide between the ABS and the flex wheels while allowing the wheels to grab and pull the disc into and out of the intake.
 
+## **End of Entry Thoughts**
+
 
 
 
@@ -3604,3 +3619,32 @@ Today we are working on building the Vertical Intake and getting closer to our g
 
 ### **Intake**
 We are using a sheet of ABS for the ramp to help the flex wheels grab onto the disc and guide it up through the intake and into the launcher.
+
+## **End of Entry Thoughts**
+
+
+
+
+
+-----
+
+
+
+
+
+# **11/16/22 - _Intake Building Day 3_**
+
+Today we are working on finishing the Vertical Intake.
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+## **Goals for Today**
+- [ ] Finish Intake
+
+### **Intake**
+
