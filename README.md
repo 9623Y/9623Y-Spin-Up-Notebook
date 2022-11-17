@@ -84,6 +84,7 @@
 79. [**11/14/22 - _Intake Building_**](#111422---intake-building)
 80. [**11/15/22 - _Intake Building Day 2_**](#111522---intake-building-day-2)
 81. [**11/16/22 - _Intake Building Day 3_**](#111622---intake-building-day-3)
+82. [**11/17/22 - _Intake Building Day 4_**](#111722---intake-building-day-4)
 
 
 
@@ -3647,4 +3648,28 @@ Today we are working on finishing the Vertical Intake.
 - [ ] Finish Intake
 
 ### **Intake**
+
+
+
+
+
+-----
+
+
+
+
+
+# **11/17/22 - _Intake Building Day 4_**
+
+
+## **Attendance**
+- [x] Rhett
+- [ ] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+## **Goals for Today**
+- [ ] Continue Intake
+- [ ] 
 
