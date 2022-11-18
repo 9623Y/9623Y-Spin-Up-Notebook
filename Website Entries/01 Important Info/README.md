@@ -28,7 +28,7 @@
 ## ***Game Explanation***
 This year the competition is titled VEX: Spin-Up
 
-The field will be divided diagonally into two halves. Robots will be attempting to score discs from the field into the high goals and low goals. There is only 1 high goal and 1 low goal assigned to each allience, with a disc scored in the high goal being worth 5 points and a disc in the low goal being worth 1 point. Teams can use the temporary unlimited horizontal expansion limit in the last 10 seconds to cover as many tiles as possible and earn an additional 3 points for each tile covered. There are a total of 36 tiles on the field and both teams can be awarded points for touching the same tile. Each covered tile is worth 3 points. Teams can also use the robots to change the color of the rollers to their assigned alliance color to gain 10 points for each roller owned by their alliance. There are a total of 4 rollars around the field that either alliance can score. Teams can also gain points from the autonomous driving period. Whichever team completes the autonomous period tasks will be awarded the 10 autonomous bonus points.
+The field will be divided diagonally into two halves. Robots will be attempting to score discs from the field into the high goals and low goals. There is only 1 high goal and 1 low goal assigned to each allience, with a disc scored in the high goal being worth 5 points and a disc in the low goal being worth 1 point. Teams can use the temporary unlimited horizontal expansion limit in the last 10 seconds to cover as many tiles as possible and earn an additional 3 points for each tile covered. There are a total of 28 tiles on the field, excluding the 8 used for the Low Goals, and both teams can be awarded points for touching the same tile. Each covered tile is worth 3 points. Teams can also use the robots to change the color of the rollers to their assigned alliance color to gain 10 points for each roller owned by their alliance. There are a total of 4 rollars around the field that either alliance can score. Teams can also gain points from the autonomous driving period. Whichever team completes the autonomous period tasks will be awarded the 10 autonomous bonus points.
 
 <img src="https://user-images.githubusercontent.com/93736394/196194837-514300cb-4613-436a-89bc-c94df2e87edb.png" height = "250">
 <img src="https://user-images.githubusercontent.com/93736394/196195898-4993a281-fc40-453b-894e-de4e4478d20a.png" height = "250">
@@ -70,7 +70,7 @@ Each Low Goal consists of a ramp and a small portion of the field blocked off wi
 
 The Low Goal ramps are roughly a little more than 1 tile wide on each side in an L shape, hugging the corner of the outermost tile. The Low Goal area only takes up 4 tiles underneath the High Goal.
 
-The way these goals are set up allows missed shots into the High Goals to become points for the opposing teams. Each disc into this goal is only 1 point.
+The way these goals are set up allows missed shots into the High Goals to become points for the opposing teams. Each disc into this goal is only 1 point. The 8 total tiles for the Low Goal are excluded in the 
 
 ### ***Rollers***
 The Rollers can be found in the two corners unused by the High Goals. They sit on the outer walls of the field and they spin between red and blue, a color for each alliance. There are a total of 4 rollers, which are all identical.
