@@ -3656,15 +3656,40 @@ Today we are working on finishing the Vertical Intake.
 
 # **11/17/22 - _Intake Building Day 4_**
 
+Tyler woke up in a large amount of pain, so he was unable to be at the meeting today, and Ari had a large amount of homework that he was behind on, so he was also unable to be at the meeting today. So because of this, we decided to shift focus away from the intake for a day and work on cleaning up our tool box and pelican case. We also decided to spend some time cleaning up the notebook and updating entries. 
 
 ## **Attendance**
 - [x] Rhett
 - [ ] Tyler
 - [x] Noly
-- [ ] Rebecca
+- [x] Rebecca
 - [ ] Ari
 
 ## **Goals for Today**
-- [ ] Continue Intake
-- [ ] 
+- [x] Clean up our Tool Box and Pelican Case
+- [x] Clean up Notebook
+- [ ] (If time) Continue Intake
 
+
+### **Cleaning Up the Tool Box and Pelican Case**
+
+For the past few weeks, our tool box and pelican case have been a disorganized mess and needed to be cleaned desperately. We spent a good amount of time taking unnecessary hardware out of our tool box and reorganizing the hardware in our tool box so that everything is in its respective place, and we don't have hardware that won't get used often taking up space in the tool box that could be better used for something more important. We also completely emptied out our pelican case and sorted through are the parts that have been in there from taking the box home over weekends and long breaks and put up all the stuff that we didn't need to keep in our box anymore along with all the loose hardware that has wound up in our box over the course of the season. The process of cleaning everything out took a while, but it was much needed and will make it much easier to find the parts and hardware that we need, which will in turn hopefully make us more productive, because we won't have to waste time looking for what we need.
+
+
+### **Cleaning up the Notebook**
+
+In a few places the notebook was disorganized and needed some work and for some information that we had stored to add later to put in where it needed to go, the notebook had also never been went over and checked for grammatical and spelling errors, so we decided to get caught up on all the stuff that needed to be done in the notebook while we were taking a break from working on the intake for the day. This took a while to do, but it was much needed and will make the notebook much easier to read and understand for anyone who reads it in the future.
+
+### **End of Entry Thoughts**
+
+Today was very productive, and we got a lot of stuff that needed to be done. Tomorrow we'll get back to working on the intake and also work to get stuff together to take home over the break so that we can hopefully get a lot of work done over the break so that we can hopefully meet our goal of finishing our robot by our competition on the 3rd of December.
+
+
+
+
+-------
+
+
+
+
+## **11/18/22 - _(Placeholder)_**
