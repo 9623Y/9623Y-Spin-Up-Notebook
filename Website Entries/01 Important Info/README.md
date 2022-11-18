@@ -70,7 +70,7 @@ Each Low Goal consists of a ramp and a small portion of the field blocked off wi
 
 The Low Goal ramps are roughly a little more than 1 tile wide on each side in an L shape, hugging the corner of the outermost tile. The Low Goal area only takes up 4 tiles underneath the High Goal.
 
-The way these goals are set up allows missed shots into the High Goals to become points for the opposing teams. Each disc into this goal is only 1 point. The 8 total tiles for the Low Goal are excluded in the 
+The way these goals are set up allows missed shots into the High Goals to become points for the opposing teams. Each disc into this goal is only 1 point. The 8 total tiles for the Low Goal are excluded in the scoreable tiles for the End Game.
 
 ### ***Rollers***
 The Rollers can be found in the two corners unused by the High Goals. They sit on the outer walls of the field and they spin between red and blue, a color for each alliance. There are a total of 4 rollers, which are all identical.
