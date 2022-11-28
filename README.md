@@ -86,7 +86,8 @@
 81. [**11/16/22 - _Intake Building Day 3_**](#111622---intake-building-day-3)
 82. [**11/17/22 - _Intake Building Day 4_**](#111722---intake-building-day-4)
 83. [**11/18/22 - _Intake Building Day 5_**](#111822---intake-building-day-5)
-84. [**11/22/22**](#112222)
+84. [**11/21/22 - _Reverse Engineering Challenge_**](#112122---reverse-engineering-challenge)
+85. [**11/22/22**](#112222)
 
 
 
@@ -3461,11 +3462,11 @@ Today we are working on finishing the Launcher and Intake to start building the 
 - [ ] Get Superstructure built
 
 ### **Launcher**
-We worked on the mechanism to push the disc into the fly wheel launching mechanisms. 
-
-Messing around with the pusher of the launcher - the thing that pushes disk into wheels
+We worked on the mechanism to push the disc into the fly wheel launching mechanisms. We didn't get much done today but we were able to start brainstorming ideas on a better mechanism to push the disc into the launcher.
 
 ## **End of Entry Thoughts**
+We weren't able to get as much done as we would have liked, but we were able to begin brainstorming on a new pushing mechanism for the launcher.
+
 
 
 
@@ -3524,7 +3525,7 @@ Today we are going to work on redesigning the Intake and building the Launcher a
 We have concerns about spacing, so we are trying another vertical intake to try and preserve spacing. The new intake will be able to be tested both vertically and at a slight angle as we have some concerns about it being strictly vertical.
 
 ## **End of Entry Thoughts**
-
+We began working on the redesign of the intake, combining ideas from our previous vertical intake and our recently-tested horizontal intake.
 
 
 
@@ -3560,6 +3561,7 @@ We used a rubber band zip tied to the shaft to allow the bottom indexing row to 
 We worked on the intake, mostly adjusting minor design details. We began work on a portion of the intake that will index in front of the intake. Tyler cut some three wide c channel for our intake, and Ari and Rebecca filed down the metal to prevent sharp edges.
 
 ## **End of Entry Thoughts**
+We started on working on the indexing bottom row of the intake. We were also able to get everyone here for this meeting and get team photos with our polos.
 
 
 
@@ -3591,7 +3593,7 @@ Today we are working on building the intake.
 We started on the frame of the intake. We used standoffs to hold the flex wheels 2.25" away from the ABS ramp. This distance should be enough to allow the disc to slide between the ABS and the flex wheels while allowing the wheels to grab and pull the disc into and out of the intake.
 
 ## **End of Entry Thoughts**
-
+We were able to start making ajustments to improve our intake and get closer to testing our intake. We were also able to finish the team bios.
 
 
 
@@ -3621,7 +3623,7 @@ Today we are working on building the Vertical Intake and getting closer to our g
 We are using a sheet of ABS for the ramp to help the flex wheels grab onto the disc and guide it up through the intake and into the launcher.
 
 ## **End of Entry Thoughts**
-
+We were able to cut out the sheet of ABS we needed and attach it to the robot.
 
 
 
@@ -3648,6 +3650,9 @@ Today we are working on finishing the Vertical Intake.
 
 ### **Intake**
 Once we completed the Intake, we noticed certain changes we needed to make right off the bat. The standoffs for the indexing bottom row were too long and couldn't grab onto and help the disc. We also found that the original placement was too high up and prevented the row from properly indexing and didn't give the disc enough space to move properly through the intake. 
+
+## **End of Entry Thoughts**
+We were able to ajust the indexing bottom row to help the intake pull up the disc from the floor.
 
 
 
@@ -3716,6 +3721,11 @@ Today we are working on the Intake and preparing our box for Thanksgiving break.
 
 Today we swap out the standoffs on the screw joint indexer from standard 2" Vex Standoffs to a pair of 7/8" Robosource Standoffs in order to shorten the distance of the bottom row from the ramp by around 1/4", this allows the wheels of the bottom row to get close enough to the ramp to make consistent contact with the disc while intaking it. We still need to make some adjustments, such as making the intake a bit longer and a little wider, but we are getting closer to finishing the intake.
 
+## **End of Entry Thoughts**
+We were able to continue the intake but we didn't prep our box as much as we planned. Our teacher is willing to open up the lab for us and sit in for a meeting one day during break so we are only putting things we might need over the weekend rather than a whole week.
+
+
+# **11/21/22 - _Reverse Engineering Challenge_**
 
 
 # **11/22/22**
