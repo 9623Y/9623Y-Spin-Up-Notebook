@@ -87,7 +87,7 @@
 82. [**11/17/22 - _Intake Building Day 4_**](#111722---intake-building-day-4)
 83. [**11/18/22 - _Intake Building Day 5_**](#111822---intake-building-day-5)
 84. [**11/21/22 - _Reverse Engineering Challenge_**](#112122---reverse-engineering-challenge)
-85. [**11/22/22**](#112222)
+85. [**11/22/22 - _Intake Adjustments and End Game_**](#112222---intake-adjustments-and-end-game)
 
 
 
@@ -3725,10 +3725,51 @@ Today we swap out the standoffs on the screw joint indexer from standard 2" Vex 
 We were able to continue the intake but we didn't prep our box as much as we planned. Our teacher is willing to open up the lab for us and sit in for a meeting one day during break so we are only putting things we might need over the weekend rather than a whole week.
 
 
+
+
+-----
+
+
+
+
+
+
+
 # **11/21/22 - _Reverse Engineering Challenge_**
 
+Today I am working on completeing the Reverse Engineering Challenge.
 
-# **11/22/22**
+## **Attendance**
+- [ ] Rhett
+- [ ] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+
+## **Goals for Today**
+- [x] Disassemble PC
+- [ ] Write Essay
+
+### **Reverse Engineering Challenge Notes**
+I decided to take apart an old pc from a friend to find any major differences between older high-end models and newer high-end models. While I wasn't able to write the essay, I was able to get pictures of each part and rebuild the pc and attach parts that were previously disconnected.
+
+## **End of Entry Thoughts**
+While I wasn't able to finish everything I planned to do, I was able to get the most difficult part down.
+
+
+
+
+
+-----
+
+
+
+
+
+
+
+# **11/22/22 - _Intake Adjustments and End Game_**
 
 ## **Attendance**
 - [x] Rhett
@@ -3740,5 +3781,4 @@ We were able to continue the intake but we didn't prep our box as much as we pla
 ## **Goals for Today**
 - [ ] Fix Launcher 
 - [x] Make Intake wider
-- [ ] Start on End Game mechanism
-- [ ] 
+- [x] Start on End Game mechanism
