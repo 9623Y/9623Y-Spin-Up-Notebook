@@ -75,19 +75,20 @@
 70. [**10/28/22 - _Intake Designing Day 4_**](#102822---intake-designing-day-4)
 71. [**10/31/22 - _Intake Designing Day 5_**](#103122---intake-designing-day-5)
 72. [**11/1/22 - _Launcher Designing_**](#11122---launcher-designing)
-73. [**11/2/22 - _Launcher Designing Day 2_**](#11222---launcher-designing-day-2)
-74. [**11/3/22 - _Launcher Building_**](#11322---launcher-building)
-75. [**11/4/22 - _Launcher Building Day 2_**](#11422---launcher-building-day-2)
-76. [**11/7/22 - _(Entry Name)_**](#11722---entry-name)
-77. [**11/9/22 - _Intake Designing_**](#11922---intake-designing)
-78. [**11/10/22 - _Intake Building_**](#111022---intake-building)
-79. [**11/14/22 - _Intake Building_**](#111422---intake-building)
-80. [**11/15/22 - _Intake Building Day 2_**](#111522---intake-building-day-2)
-81. [**11/16/22 - _Intake Building Day 3_**](#111622---intake-building-day-3)
-82. [**11/17/22 - _Intake Building Day 4_**](#111722---intake-building-day-4)
-83. [**11/18/22 - _Intake Building Day 5_**](#111822---intake-building-day-5)
-84. [**11/21/22 - _Reverse Engineering Challenge_**](#112122---reverse-engineering-challenge)
-85. [**11/22/22 - _Intake Adjustments and End Game_**](#112222---intake-adjustments-and-end-game)
+73. [**11/3/22 - _Launcher Building_**](#11322---launcher-building)
+74. [**11/4/22 - _Launcher Building Day 2_**](#11422---launcher-building-day-2)
+75. [**11/7/22 - _(Entry Name)_**](#11722---entry-name)
+76. [**11/9/22 - _Intake Designing_**](#11922---intake-designing)
+77. [**11/10/22 - _Intake Building_**](#111022---intake-building)
+78. [**11/14/22 - _Intake Building_**](#111422---intake-building)
+79. [**11/15/22 - _Intake Building Day 2_**](#111522---intake-building-day-2)
+80. [**11/16/22 - _Intake Building Day 3_**](#111622---intake-building-day-3)
+81. [**11/17/22 - _Intake Building Day 4_**](#111722---intake-building-day-4)
+82. [**11/18/22 - _Intake Building Day 5_**](#111822---intake-building-day-5)
+83. [**11/21/22 - _Reverse Engineering Challenge_**](#112122---reverse-engineering-challenge)
+84. [**11/22/22 - _Intake Adjustments and End Game_**](#112222---intake-adjustments-and-end-game)
+85. [**11/28/22**](#112822)
+86. [**11/29/22**](#112922)
 
 
 
@@ -3384,36 +3385,6 @@ We work on the Launcher and created a Required and Desired list to hopefully hel
 
 
 
-
-
-# **11/2/22 - _Launcher Designing Day 2_**
-
-Today we are working on redesigning the launcher.
-
-## **Attendance**
-- [x] Rhett
-- [x] Tyler
-- [ ] Noly
-- [ ] Rebecca
-- [ ] Ari
-
-## **Goals for Today**
-- [x] Continue on Launcher Redesign
-
-
-## **End of Entry Thoughts**
-
-
-
-
-
------
-
-
-
-
-
-
 # **11/3/22 - _Launcher Building_**
 
 Today we are working on finishing the Launcher.
@@ -3491,8 +3462,13 @@ Today we are going to begin working on the Superstructure.
 ## **Goals for Today**
 - [ ] Work on Superstructure
 
-## **End of Entry Thoughts**
+### **Intake**
+We decided to try and improve the horizontal intake. We felt that it was too large and looked unfinished. The intake was able to be compacted very easily and we used a smaller frame to make the intake look more finished and less like a prototype. We also tried to slant the intake using a Superstructure. This would have used the Launcher and the base to help hold up the intake to the degrees we would like and create a very rigid robot overall. 
 
+Unfortunatly we weren't able to get it to work how we want so we are abandoning the idea. While we still want to slant our intake, we will work on brainstorming some other ideas at a later date. We also tried to combine Rhett's tubing intake and Tyler's horizontal intake to see if it would improve the intake overall, but we ended up scrapping the idea.
+
+## **End of Entry Thoughts**
+While we didn't get the Superstructure built like we wanted to, we were able to learn a lot about how we should tackle this intake moving forward.
 
 
 
@@ -3752,7 +3728,7 @@ Today I am working on completeing the Reverse Engineering Challenge.
 - [ ] Write Essay
 
 ### **Reverse Engineering Challenge Notes**
-I decided to take apart an old pc from a friend to find any major differences between older high-end models and newer high-end models. While I wasn't able to write the essay, I was able to get pictures of each part and rebuild the pc and attach parts that were previously disconnected.
+I decided to take apart an old pc from a friend to find any major differences between older high-end models and newer high-end models. While I wasn't able to write the essay, I was able to get pictures of each part and rebuild the pc and attach parts that were previously disconnected. I decided to try and rebuild the PC just to see if I could get it working.
 
 ## **End of Entry Thoughts**
 While I wasn't able to finish everything I planned to do, I was able to get the most difficult part down.
@@ -3782,3 +3758,65 @@ While I wasn't able to finish everything I planned to do, I was able to get the 
 - [ ] Fix Launcher 
 - [x] Make Intake wider
 - [x] Start on End Game mechanism
+
+### **Intake**
+We began widening the intake to give the disc more space. The original intake was just wide enough for the disc but we are concerned about it hitting the sides and getting caught.
+
+### **End Game Mech**
+
+
+
+
+
+
+-----
+
+
+
+
+
+
+# **11/28/22**
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+## **Goals for Today**
+- [ ] Make Necessary Changes to Intake
+
+### **Intake**
+We continued on widening the intake and started trying to figure out spacing. We made it 7 holes wider and 5 holes longer. We also made the fixed rows 5 holes apart from each other to give the disc enough space to move up and the wheels enough space to grab onto the disc.
+
+## **End of Entry Thoughts**
+While we were able to continue working on the intake and get quite a bit done, we werent able to get as much done as we hoped.
+
+
+
+
+
+-----
+
+
+
+
+
+
+# **11/29/22**
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+## **Goals for Today**
+- [ ] Finish Intake
+
+
+### **Intake**
+We are going to try to keep the intake vertical by creating the ramp using the same back plate as the back of the intake.
