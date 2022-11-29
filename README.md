@@ -3763,7 +3763,7 @@ While I wasn't able to finish everything I planned to do, I was able to get the 
 We began widening the intake to give the disc more space. The original intake was just wide enough for the disc but we are concerned about it hitting the sides and getting caught.
 
 ### **End Game Mech**
-
+Tested four pairs of 1'' standoffs with three rubber bands on each pair of standoffs. Attempted to utalize the dual action pistons, however the piston was not able to overcome the tension of which the rubber bands were applying on the threaded piston shaft. Will attempt to use only 2 rubber bands per pair next meeting, therefore reducing the force required to overcome the bands. the force required is now 33% less than the required force prevous.
 
 
 
@@ -3820,3 +3820,5 @@ While we were able to continue working on the intake and get quite a bit done, w
 
 ### **Intake**
 We are going to try to keep the intake vertical by creating the ramp using the same back plate as the back of the intake.
+
+Rhett worked on sizing the ramp and then lazer cutting it out of ABS. The first one we made, on a previous date, was too small and the intake was too thin for the disk to go through successfully. After resizing the ramp, Rhett lazer cut it out, but it was way too large, so he had to resize it again. Tyler started working on the Intake and then asked Noly and Rebecca to assist him so that it would go faster. They increased the spacing between the ... and the intake so that it would be easier for the disk to go through. When they started the day they had a 2 inch standoff spacing, but that was to thin for the disk to go through. Next they replaced the 2 inch standoff with a 3 inch standoff, but it had too much spacing, so they tried a 2 inch standoff connected by a ... with a half inch standoff, which gave the best amount of spacing. Ari drilled hole through the end mechanism, so the piston shaft could pass through with minimal resistance
