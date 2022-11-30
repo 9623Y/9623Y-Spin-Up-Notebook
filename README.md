@@ -89,6 +89,7 @@
 84. [**11/22/22 - _Intake Adjustments and End Game_**](#112222---intake-adjustments-and-end-game)
 85. [**11/28/22**](#112822)
 86. [**11/29/22**](#112922)
+87. [**11/30/22**](#113022)
 
 
 
@@ -3811,8 +3812,8 @@ While we were able to continue working on the intake and get quite a bit done, w
 - [x] Rhett
 - [x] Tyler
 - [x] Noly
-- [ ] Rebecca
-- [ ] Ari
+- [x] Rebecca
+- [x] Ari
 
 ## **Goals for Today**
 - [ ] Finish Intake
@@ -3821,4 +3822,25 @@ While we were able to continue working on the intake and get quite a bit done, w
 ### **Intake**
 We are going to try to keep the intake vertical by creating the ramp using the same back plate as the back of the intake.
 
-Rhett worked on sizing the ramp and then lazer cutting it out of ABS. The first one we made, on a previous date, was too small and the intake was too thin for the disk to go through successfully. After resizing the ramp, Rhett lazer cut it out, but it was way too large, so he had to resize it again. Tyler started working on the Intake and then asked Noly and Rebecca to assist him so that it would go faster. They increased the spacing between the ... and the intake so that it would be easier for the disk to go through. When they started the day they had a 2 inch standoff spacing, but that was to thin for the disk to go through. Next they replaced the 2 inch standoff with a 3 inch standoff, but it had too much spacing, so they tried a 2 inch standoff connected by a ... with a half inch standoff, which gave the best amount of spacing. Ari drilled hole through the end mechanism, so the piston shaft could pass through with minimal resistance
+Rhett worked on sizing the ramp and then lazer cutting it out of ABS. The first one we made, on a previous date, was too small and the old intake was too thin for the disk to go through successfully. After resizing the ramp, Rhett lazer cut it out, but the end cut was scaled too large, so he had to resize it again. The cut after was the perfect fit.  
+
+Tyler started working on the Intake and then asked Noly and Rebecca to assist him so that it would go faster. They increased the spacing between the two walls of the intake so that it would be easier for the disk to go through. When they started the day they had a 2 inch standoff spacing, but there wasn't enough space between the indexing row and back wall for the disk to go through. Next they replaced the 2 inch standoff with a 3 inch standoff, but it had too much spacing and prevented the bottom row from grabbing the disc. They tried a 2 inch standoff connected to a half inch standoff, which gave the best amount of spacing. 
+
+We were able to get one row of wheels attached and we put the sprockets in the middle to attached the rows together through a chain. In one of our first intake designs, we used sprockets on the outside on the rows. Our original design had 3 wheels and there wasn't enough room for sprockets between them. In the newer design, we put them between the two flex wheels to save space. While saving this much space might seem insignificant, we plan for our robot to be as compact as we can make it to fit as much functionality as we can. We might be able to use the space we're saving now for an entire mechanism, like a roller or end game mech.
+
+Ari drilled hole through the end mechanism, so the piston shaft could pass through with minimal resistance
+
+## **End of Entry Thoughts**
+
+
+# **11/30/22**
+
+## **A**
+
+## **Goals for Today**
+- [ ] Finish Intake
+- [ ] Get Robot Competition Ready
+
+### **Intake** 
+We mounted the ramp and started mounting the indexer.
+
