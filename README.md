@@ -87,9 +87,9 @@
 82. [**11/18/22 - _Intake Building Day 5_**](#111822---intake-building-day-5)
 83. [**11/21/22 - _Reverse Engineering Challenge_**](#112122---reverse-engineering-challenge)
 84. [**11/22/22 - _Intake Adjustments and End Game_**](#112222---intake-adjustments-and-end-game)
-85. [**11/28/22**](#112822)
-86. [**11/29/22**](#112922)
-87. [**11/30/22**](#113022)
+85. [**11/28/22 - _Intake Ajustments_**](#112822---intake-ajustments)
+86. [**11/29/22 - _Finalizing Intake_**](#112922---finalizing-intake)
+87. [**11/30/22 - _Finalizing Intake Day 2_**](#113022---finalizing-intake-day-2)
 
 
 
@@ -3778,7 +3778,7 @@ Tested four pairs of 1'' standoffs with three rubber bands on each pair of stand
 
 
 
-# **11/28/22**
+# **11/28/22 - _Intake Ajustments_**
 
 ## **Attendance**
 - [x] Rhett
@@ -3807,7 +3807,7 @@ While we were able to continue working on the intake and get quite a bit done, w
 
 
 
-# **11/29/22**
+# **11/29/22 - _Finalizing Intake_**
 
 ## **Attendance**
 - [x] Rhett
@@ -3834,9 +3834,24 @@ Ari drilled hole through the end mechanism, so the piston shaft could pass throu
 ## **End of Entry Thoughts**
 
 
-# **11/30/22**
 
-## **A**
+
+
+-----
+
+
+
+
+
+
+# **11/30/22 - _Finalizing Intake Day 2_**
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
 
 ## **Goals for Today**
 - [ ] Finish Intake
