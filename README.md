@@ -96,24 +96,25 @@
 # ***Team Bio***
 
 
-(Insert Rhett's Image)
-**Rhett** Blanton is one of the **Team Leaders**, as well as the **driver**, the **coder** and a **CAD Designer**. He is a junior in high school with one previous year of experience in Vex Robotics.
+<img src="https://user-images.githubusercontent.com/93736394/201689925-6b332e4d-3dee-4f1c-858b-dec3748214a6.jpg" height = "450">
 
+**Noly** Dismuke is the **team captain**, **notetaker**, **builder**, and **CAD Designer**. She is a junior in high school with one previous year of experience in Vex Robotics.
 
-(Insert Noly's Image)
-**Noly** Dismuke is the other **Team Leader**, as well as the main **notebook writer** and is also a **builder** and **CAD Designer**. She is a junior in high school with one previous year of experience in Vex Robotics.
+<img src="https://user-images.githubusercontent.com/93736394/201689867-bc99fc4e-384b-42bb-b0db-fe7032425179.jpg" height = "450">
 
+**Rhett** Blanton is the **co-captain**, **driver**, **coder**, and **CAD Designer**. He is a junior in high school with one previous year of experience in Vex Robotics.
 
-(Insert Rebecca's Image)
-**Rebecca** Applen is the secondary **notebook writer** and also a **builder**. She is a sophomore in high school with two previous years of experience in Vex Robotics.
+<img src="https://user-images.githubusercontent.com/93736394/201689810-e4bb02ec-b644-40a4-9261-a72e9a47bf65.jpg" height = "450">
 
+**Tyler** Bowen is the main **builder** and **CAD Designer**. He is a junior in high school with one previous year of experience in Vex Robotics.
 
-(Insert Tyler's Image)
-Tyler Bowen is the main **builder** and a **CAD Designer**. He is a junior in high school with one previous year of experience in Vex Robotics.
+<img src="https://user-images.githubusercontent.com/93736394/201689497-dc0dca20-e5d7-4650-8b1c-612aa21d8958.jpg" height = "450">
 
+**Rebecca** Applen is the secondary **notetaker** and **builder**. She is a sophomore in high school with two previous years of experience in Vex Robotics.
 
-(Insert Ari's Image)
-Ari Gross is the secondary **builder**. He is a sophomore in high school without any previous experience in Vex Robotics.
+<img src="https://user-images.githubusercontent.com/93736394/201688990-c4296dc6-336f-465c-9b8f-988113d6aae4.jpg" height = "450">
+
+**Ari** Gross is the secondary **builder**. He is a sophomore in high school without any previous experience in Vex Robotics.
 
 
 
