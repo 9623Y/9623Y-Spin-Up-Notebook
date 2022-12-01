@@ -90,6 +90,7 @@
 85. [**11/28/22 - _Intake Ajustments_**](#112822---intake-ajustments)
 86. [**11/29/22 - _Finalizing Intake_**](#112922---finalizing-intake)
 87. [**11/30/22 - _Finalizing Intake Day 2_**](#113022---finalizing-intake-day-2)
+88. [**12/1/22 - _Finalizing Robot for Competition_**](#12122---finalizing-robot-for-competition)
 
 
 
@@ -3829,10 +3830,10 @@ Tyler started working on the Intake and then asked Noly and Rebecca to assist hi
 
 We were able to get one row of wheels attached and we put the sprockets in the middle to attached the rows together through a chain. In one of our first intake designs, we used sprockets on the outside on the rows. Our original design had 3 wheels and there wasn't enough room for sprockets between them. In the newer design, we put them between the two flex wheels to save space. While saving this much space might seem insignificant, we plan for our robot to be as compact as we can make it to fit as much functionality as we can. We might be able to use the space we're saving now for an entire mechanism, like a roller or end game mech.
 
-Ari drilled hole through the end mechanism, so the piston shaft could pass through with minimal resistance
+Ari drilled hole through the end mechanism, so the piston shaft could pass through with minimal resistance.
 
 ## **End of Entry Thoughts**
-
+We were able to get a lot done during this meeting. While we are pleased with what we got done, we do wish we could have gotten more done due to the long meeting we got and the time until the competition.
 
 
 
@@ -3858,5 +3859,24 @@ Ari drilled hole through the end mechanism, so the piston shaft could pass throu
 - [ ] Get Robot Competition Ready
 
 ### **Intake** 
-We mounted the ramp and started mounting the indexer.
+We mounted the ramp we cut yesterday and mounted the indexer to the Intake frame. We also finished attaching the outside bars for the rows to the frame. We used high strength spacers in between the wheels and the sprockets to prevent them from slided and used 2 sprockets and 2 wheels on each row to attach them together and the two wheels to grab on and pull up the discs. We still need a tensioner for the chain that connects the middle row to the indexing row.
+
+We attached the ramp underneath each of the outside bars and used zipties to connect it and hold it against the angled metal underneath. The first set of zipties brought it closer the angled piece and the second set kept it attached to the end so discs couldn't slip between it and the angled piece.
+
+## **End of Entry Thoughts**
+While we couldnt't finish the intake or start on the rest of the robot, we were able to get major progress with the intake and plan to finish it and the rest of the robot tomorrow.
+
+
+
+# **12/1/22 - _Finalizing Robot for Competition_**
+
+## **Goals for Today**
+- [ ] Finish Robot
+- [ ] Finalize Notebook for Competition Submition
+
+### **Intake**
+After finishing and testing the intake, we found that the indexer row wouldn't work due to how we need it to index and how the chain and tensioner works. We decided to go back to a horizontal Intake for this competition and attempt a vertical Intake in the future if needed. We are using single acting pneumatic pistons to move the intake up and down horizontally from the intake rather than vertically with the intake.
+
+### **Launcher**
+We have been expirimenting with small adjustments to the flywheel mechanism. When a disc is launched/flywheels begin spinning, there are inconsestent fluctuations, of which we worry may impact the flight that the disc will take. We attempted to change the code to monitor the motors with a percentage, rather than rpms. This did not affect the fluctuations, however. We attempted to pinpoint what motor was fluctuating, and found that both are doing it asynchronously. After attempting to use a black flexwheel(to reduce plating) we have decided to use a code that will monitor the motor speeds and graph when the inconsitencies occur, as the flexwheel change did not improve anything, in fact, it possibly made the fluctuations worse.
 
