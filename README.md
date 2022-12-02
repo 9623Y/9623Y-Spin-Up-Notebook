@@ -3,6 +3,7 @@
 
 # ***Table of Contents***
 
+1. [***9623Y Spin Up Notebook***](#9623y-spin-up-notebook)
 2. [***Table of Contents***](#table-of-contents)
 3. [***Team Bio***](#team-bio)
 4. [***Game Explanation***](#game-explanation)
