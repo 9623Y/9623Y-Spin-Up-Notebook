@@ -3201,7 +3201,7 @@ A new design that Tyler used was bent flat metal shaped like small hills in betw
 
 
 ### **New Tubing Intake Design**
-
+Rhett started working on it and made the tubing and shaft collar contraption for the intake but never continued working on it.
 
 
 ## **End of Entry Thoughts**
