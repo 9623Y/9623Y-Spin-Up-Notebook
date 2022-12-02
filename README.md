@@ -91,6 +91,7 @@
 86. [**11/29/22 - _Finalizing Intake_**](#112922---finalizing-intake)
 87. [**11/30/22 - _Finalizing Intake Day 2_**](#113022---finalizing-intake-day-2)
 88. [**12/1/22 - _Finalizing Robot for Competition_**](#12122---finalizing-robot-for-competition)
+89. [**12/2/22 - _Finalizing Notebook and Robot for Competition_**](#12222---finalizing-notebook-and-robot-for-competition)
 
 
 
@@ -3913,4 +3914,31 @@ For this test we let the motors spin up to their target speed and then run for a
 ### **End of Entry Thoughts**
 
 Today we were unable to finish the robot, but we have the launcher in a place where we think it is almost ready, and we have an intake that needs to be tested with a motor, but works when being hand fed, so tomorrow we should be able to attach the launcher and intake together and then build a base around the two, and code autonomous and fix any bugs in the code that were the result of the code being written before the robot was finished, because of this progress today we will more than likely be able to have a working robot in time for the competition, even though the robot may not have a working autonomous.
+
+
+
+
+
+-----
+
+
+
+
+
+# **12/2/22 - _Finalizing Notebook and Robot for Competition_**
+
+Today we are finishing up the robot for this competition and printing out the notebook for easy access as the person running the competition has let us know their connection is spotty.
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
+## **Goals for Today**
+- [ ] Attach Intake and Launcher
+- [ ] Finalize Robot
+- [ ] Finalize Notebook
+- [ ] Print Notebook
 
