@@ -3,94 +3,92 @@
 
 # ***Table of Contents***
 
-1. [***9623Y Spin Up Notebook***](#9623y-spin-up-notebook)
-2. [***Table of Contents***](#table-of-contents)
-3. [***Team Bio***](#team-bio)
-4. [***Game Explanation***](#game-explanation)
-5. [***Dated Entries***](#dated-entries)
-6. [**5/11/22 - _The Contest Begins_**](#51122---the-contest-begins)
-7. [**5/12/2022 - _Beginning Design_**](#5122022---beginning-design)
-8. [**5/16/2022 - _Fusion Design Begins_**](#5162022---fusion-design-begins)
-9. [**5/17/2022 - _Design Continues and Building Begins_**](#5172022---design-continues-and-building-begins)
-10. [**5/18/2022 - _Prototyping Continues_**](#5182022---prototyping-continues)
-11. [**5/19/2022 - _Designing a Test_**](#5192022---designing-a-test)
-12. [**5/20/2022 - _Gear Ratios_**](#5202022---gear-ratios)
-13. [**5/23/2022 - _Programming and Maybe Testing_**](#5232022---programming-and-maybe-testing)
-14. [**5/24/2022 - _Programming and Working Towards Finalizing the Prototyping/Test Bed_**](#5242022---programming-and-working-towards-finalizing-the-prototypingtest-bed)
-15. [**5/25/2022 - _Continuing Work on the Test Bed_**](#5252022---continuing-work-on-the-test-bed)
-16. [**5/26/2022 - _Testing Begins_**](#5262022---testing-begins)
-17. [**5/27/2022 - _Heavily Testing_**](#5272022---heavily-testing)
-18. [**5/31/2022 - _Launcher Testing and Intake Design_**](#5312022---launcher-testing-and-intake-design)
-19. [**7/28/22 -  _Returning from break / Returning to planning_**](#72822----returning-from-break--returning-to-planning)
-20. [**8/18/2022 - _Beginning Work in Class / First In-Season Team Meeting_**](#8182022---beginning-work-in-class--first-in-season-team-meeting)
-21. [**8/19/22 - _Intake Design_**](#81922---intake-design)
-22. [**8/22/2022 - _Intake Prototype Building Begins_**](#8222022---intake-prototype-building-begins)
-23. [**8/23/2022 - _Intake Prototype Design and Discussion Day 2_**](#8232022---intake-prototype-design-and-discussion-day-2)
-24. [**8/24/2022 - _Intake Problem-Solving_**](#8242022---intake-problem-solving)
-25. [**8/25/2022 - _Base Prototype Building Begins_**](#8252022---base-prototype-building-begins)
-26. [**8/26/2022 - _Mecanum Base Experimentation_**](#8262022---mecanum-base-experimentation)
-27. [**8/29/2022 - _Intake Prototyping and GPS Testing_**](#8292022---intake-prototyping-and-gps-testing)
-28. [**8/30/22 - _Intake Prototyping Day 2_**](#83022---intake-prototyping-day-2)
-29. [**8/31/2022 - _Intake Prototyping Day 3_**](#8312022---intake-prototyping-day-3)
-30. [**9/1/2022 - _Intake Prototyping Day 4_**](#912022---intake-prototyping-day-4)
-31. [**9/2/2022 - _Intake Prototyping Day 5_**](#922022---intake-prototyping-day-5)
-32. [**9/6/2022 - _Intake Prototyping Day 6_**](#962022---intake-prototyping-day-6)
-33. [**9/7/2022 - _Intake Prototyping Day 7_**](#972022---intake-prototyping-day-7)
-34. [**9/8/2022 - _Intake Prototyping Day 8_**](#982022---intake-prototyping-day-8)
-35. [**9/9/2022 - _Intake Prototyping Day 9_**](#992022---intake-prototyping-day-9)
-36. [**9/10/2022 - _Intake Prototyping Day 10_**](#9102022---intake-prototyping-day-10)
-37. [**9/11/2022 - _Intake Prototyping Day 11_**](#9112022---intake-prototyping-day-11)
-38. [**9/12/2022 - _Intake Prototyping Day 12_**](#9122022---intake-prototyping-day-12)
-39. [**9/13/2022 - _Intake Prototyping Day 13_**](#9132022---intake-prototyping-day-13)
-40. [**9/14/2022 - _Intake Redesign and Prototyping Day 1_**](#9142022---intake-redesign-and-prototyping-day-1)
-41. [**9/15/2022 - _Intake and Launcher Prototyping Day 1_**](#9152022---intake-and-launcher-prototyping-day-1)
-42. [**9/16/2022 - _Launcher Prototyping_**](#9162022---launcher-prototyping)
-43. [**9/17/22 - _Intake and Launcher Prototyping Day 2_**](#91722---intake-and-launcher-prototyping-day-2)
-44. [**9/19/22 - _Intake and Launcher Prototyping Day 3_**](#91922---intake-and-launcher-prototyping-day-3)
-45. [**9/20/22 - _Intake and Base Prototyping_**](#92022---intake-and-base-prototyping)
-46. [**9/21/22 - _Base Prototyping_**](#92122---base-prototyping)
-47. [**9/22/22 - _Finalizing Prototype Day 1_**](#92222---finalizing-prototype-day-1)
-48. [**9/23/22 - _Finalizing Prototype Day 2_**](#92322---finalizing-prototype-day-2)
-49. [**9/26/22 - _Finalizing Prototype Day 3_**](#92622---finalizing-prototype-day-3)
-50. [**9/27/22 - _Finalizing Prototype Day 4_**](#92722---finalizing-prototype-day-4)
-51. [**9/28/22 - _Finalizing Prototype Day 5_**](#92822---finalizing-prototype-day-5)
-52. [**9/29/22 - _Base Prototyping_**](#92922---base-prototyping)
-53. [**10/02/22 - _Base Prototyping Day 2_**](#100222---base-prototyping-day-2)
-54. [**10/03/22 - _Pneumatics Testing and Code_**](#100322---pneumatics-testing-and-code)
-55. [**10/04/22 - _Testing and Finalizing Intake_**](#100422---testing-and-finalizing-intake)
-56. [**10/05/22 - _Intake Building_**](#100522---intake-building)
-57. [**10/06/22 - _Intake Redesign and Long Meeting_**](#100622---intake-redesign-and-long-meeting)
-58. [**10/07/22 - _Intake Redesigning and Notebook Work_**](#100722---intake-redesigning-and-notebook-work)
-59. [**10/10/22 - _Intake Prototyping Day 15_**](#101022---intake-prototyping-day-15)
-60. [**10/11/22 - _Intake Finalizing_**](#101122---intake-finalizing)
-61. [**10/12/22 - _Intake Finalizing Day 2_**](#101222---intake-finalizing-day-2)
-62. [**10/13/22 - _Intake Testing and Launcher Prototyping_**](#101322---intake-testing-and-launcher-prototyping)
-63. [**10/18/22 - _Intake Finalizing and Launcher Prototyping_**](#101822---intake-finalizing-and-launcher-prototyping)
-64. [**10/19/22 - _Launcher Rebuilding_**](#101922---launcher-rebuilding)
-65. [**10/20/22 - _Inventor_**](#102022---inventor)
-66. [**10/24/22 - _Spacing and Troubleshooting_**](#102422---spacing-and-troubleshooting)
-67. [**10/25/22 - _Intake Designing_**](#102522---intake-designing)
-68. [**10/26/22 - _Intake Designing Day 2 and Laptop Troubleshooting_**](#102622---intake-designing-day-2-and-laptop-troubleshooting)
-69. [**10/27/22 - _Intake Designing Day 3_**](#102722---intake-designing-day-3)
-70. [**10/28/22 - _Intake Designing Day 4_**](#102822---intake-designing-day-4)
-71. [**10/31/22 - _Intake Designing Day 5_**](#103122---intake-designing-day-5)
-72. [**11/1/22 - _Launcher Designing_**](#11122---launcher-designing)
-73. [**11/3/22 - _Launcher Building_**](#11322---launcher-building)
-74. [**11/4/22 - _Launcher Building Day 2_**](#11422---launcher-building-day-2)
-75. [**11/7/22 - _(Entry Name)_**](#11722---entry-name)
-76. [**11/9/22 - _Intake Designing_**](#11922---intake-designing)
-77. [**11/10/22 - _Intake Building_**](#111022---intake-building)
-78. [**11/14/22 - _Intake Building_**](#111422---intake-building)
-79. [**11/15/22 - _Intake Building Day 2_**](#111522---intake-building-day-2)
-80. [**11/16/22 - _Intake Building Day 3_**](#111622---intake-building-day-3)
-81. [**11/17/22 - _Intake Building Day 4_**](#111722---intake-building-day-4)
-82. [**11/18/22 - _Intake Building Day 5_**](#111822---intake-building-day-5)
-83. [**11/21/22 - _Reverse Engineering Challenge_**](#112122---reverse-engineering-challenge)
-84. [**11/22/22 - _Intake Adjustments and End Game_**](#112222---intake-adjustments-and-end-game)
-85. [**11/28/22 - _Intake Ajustments_**](#112822---intake-ajustments)
-86. [**11/29/22 - _Finalizing Intake_**](#112922---finalizing-intake)
-87. [**11/30/22 - _Finalizing Intake Day 2_**](#113022---finalizing-intake-day-2)
-88. [**12/1/22 - _Finalizing Robot for Competition_**](#12122---finalizing-robot-for-competition)
+1. [***Team Bio***](#team-bio)
+2. [***Game Explanation***](#game-explanation)
+3. [***Dated Entries***](#dated-entries)
+4. [**5/11/22 - _The Contest Begins_**](#51122---the-contest-begins)
+5. [**5/12/2022 - _Beginning Design_**](#5122022---beginning-design)
+6. [**5/16/2022 - _Fusion Design Begins_**](#5162022---fusion-design-begins)
+7. [**5/17/2022 - _Design Continues and Building Begins_**](#5172022---design-continues-and-building-begins)
+8. [**5/18/2022 - _Prototyping Continues_**](#5182022---prototyping-continues)
+9. [**5/19/2022 - _Designing a Test_**](#5192022---designing-a-test)
+10. [**5/20/2022 - _Gear Ratios_**](#5202022---gear-ratios)
+11. [**5/23/2022 - _Programming and Maybe Testing_**](#5232022---programming-and-maybe-testing)
+12. [**5/24/2022 - _Programming and Working Towards Finalizing the Prototyping/Test Bed_**](#5242022---programming-and-working-towards-finalizing-the-prototypingtest-bed)
+13. [**5/25/2022 - _Continuing Work on the Test Bed_**](#5252022---continuing-work-on-the-test-bed)
+14. [**5/26/2022 - _Testing Begins_**](#5262022---testing-begins)
+15. [**5/27/2022 - _Heavily Testing_**](#5272022---heavily-testing)
+16. [**5/31/2022 - _Launcher Testing and Intake Design_**](#5312022---launcher-testing-and-intake-design)
+17. [**7/28/22 - _Returning from break / Returning to planning_**](#72822---returning-from-break--returning-to-planning)
+18. [**8/18/2022 - _Beginning Work in Class / First In-Season Team Meeting_**](#8182022---beginning-work-in-class--first-in-season-team-meeting)
+19. [**8/19/22 - _Intake Design_**](#81922---intake-design)
+20. [**8/22/2022 - _Intake Prototype Building Begins_**](#8222022---intake-prototype-building-begins)
+21. [**8/23/2022 - _Intake Prototype Design and Discussion Day 2_**](#8232022---intake-prototype-design-and-discussion-day-2)
+22. [**8/24/2022 - _Intake Problem-Solving_**](#8242022---intake-problem-solving)
+23. [**8/25/2022 - _Base Prototype Building Begins_**](#8252022---base-prototype-building-begins)
+24. [**8/26/2022 - _Mecanum Base Experimentation_**](#8262022---mecanum-base-experimentation)
+25. [**8/29/2022 - _Intake Prototyping and GPS Testing_**](#8292022---intake-prototyping-and-gps-testing)
+26. [**8/30/22 - _Intake Prototyping Day 2_**](#83022---intake-prototyping-day-2)
+27. [**8/31/2022 - _Intake Prototyping Day 3_**](#8312022---intake-prototyping-day-3)
+28. [**9/1/2022 - _Intake Prototyping Day 4_**](#912022---intake-prototyping-day-4)
+29. [**9/2/2022 - _Intake Prototyping Day 5_**](#922022---intake-prototyping-day-5)
+30. [**9/6/2022 - _Intake Prototyping Day 6_**](#962022---intake-prototyping-day-6)
+31. [**9/7/2022 - _Intake Prototyping Day 7_**](#972022---intake-prototyping-day-7)
+32. [**9/8/2022 - _Intake Prototyping Day 8_**](#982022---intake-prototyping-day-8)
+33. [**9/9/2022 - _Intake Prototyping Day 9_**](#992022---intake-prototyping-day-9)
+34. [**9/10/2022 - _Intake Prototyping Day 10_**](#9102022---intake-prototyping-day-10)
+35. [**9/11/2022 - _Intake Prototyping Day 11_**](#9112022---intake-prototyping-day-11)
+36. [**9/12/2022 - _Intake Prototyping Day 12_**](#9122022---intake-prototyping-day-12)
+37. [**9/13/2022 - _Intake Prototyping Day 13_**](#9132022---intake-prototyping-day-13)
+38. [**9/14/2022 - _Intake Redesign and Prototyping Day 1_**](#9142022---intake-redesign-and-prototyping-day-1)
+39. [**9/15/2022 - _Intake and Launcher Prototyping Day 1_**](#9152022---intake-and-launcher-prototyping-day-1)
+40. [**9/16/2022 - _Launcher Prototyping_**](#9162022---launcher-prototyping)
+41. [**9/17/22 - _Intake and Launcher Prototyping Day 2_**](#91722---intake-and-launcher-prototyping-day-2)
+42. [**9/19/22 - _Intake and Launcher Prototyping Day 3_**](#91922---intake-and-launcher-prototyping-day-3)
+43. [**9/20/22 - _Intake and Base Prototyping_**](#92022---intake-and-base-prototyping)
+44. [**9/21/22 - _Base Prototyping_**](#92122---base-prototyping)
+45. [**9/22/22 - _Finalizing Prototype Day 1_**](#92222---finalizing-prototype-day-1)
+46. [**9/23/22 - _Finalizing Prototype Day 2_**](#92322---finalizing-prototype-day-2)
+47. [**9/26/22 - _Finalizing Prototype Day 3_**](#92622---finalizing-prototype-day-3)
+48. [**9/27/22 - _Finalizing Prototype Day 4_**](#92722---finalizing-prototype-day-4)
+49. [**9/28/22 - _Finalizing Prototype Day 5_**](#92822---finalizing-prototype-day-5)
+50. [**9/29/22 - _Base Prototyping_**](#92922---base-prototyping)
+51. [**10/02/22 - _Base Prototyping Day 2_**](#100222---base-prototyping-day-2)
+52. [**10/03/22 - _Pneumatics Testing and Code_**](#100322---pneumatics-testing-and-code)
+53. [**10/04/22 - _Testing and Finalizing Intake_**](#100422---testing-and-finalizing-intake)
+54. [**10/05/22 - _Intake Building_**](#100522---intake-building)
+55. [**10/06/22 - _Intake Redesign and Long Meeting_**](#100622---intake-redesign-and-long-meeting)
+56. [**10/07/22 - _Intake Redesigning and Notebook Work_**](#100722---intake-redesigning-and-notebook-work)
+57. [**10/10/22 - _Intake Prototyping Day 15_**](#101022---intake-prototyping-day-15)
+58. [**10/11/22 - _Intake Finalizing_**](#101122---intake-finalizing)
+59. [**10/12/22 - _Intake Finalizing Day 2_**](#101222---intake-finalizing-day-2)
+60. [**10/13/22 - _Intake Testing and Launcher Prototyping_**](#101322---intake-testing-and-launcher-prototyping)
+61. [**10/18/22 - _Intake Finalizing and Launcher Prototyping_**](#101822---intake-finalizing-and-launcher-prototyping)
+62. [**10/19/22 - _Launcher Rebuilding_**](#101922---launcher-rebuilding)
+63. [**10/20/22 - _Inventor_**](#102022---inventor)
+64. [**10/24/22 - _Spacing and Troubleshooting_**](#102422---spacing-and-troubleshooting)
+65. [**10/25/22 - _Intake Designing_**](#102522---intake-designing)
+66. [**10/26/22 - _Intake Designing Day 2 and Laptop Troubleshooting_**](#102622---intake-designing-day-2-and-laptop-troubleshooting)
+67. [**10/27/22 - _Intake Designing Day 3_**](#102722---intake-designing-day-3)
+68. [**10/28/22 - _Intake Designing Day 4_**](#102822---intake-designing-day-4)
+69. [**10/31/22 - _Intake Designing Day 5_**](#103122---intake-designing-day-5)
+70. [**11/1/22 - _Launcher Designing_**](#11122---launcher-designing)
+71. [**11/3/22 - _Launcher Building_**](#11322---launcher-building)
+72. [**11/4/22 - _Launcher Building Day 2_**](#11422---launcher-building-day-2)
+73. [**11/7/22 - _(Entry Name)_**](#11722---entry-name)
+74. [**11/9/22 - _Intake Designing_**](#11922---intake-designing)
+75. [**11/10/22 - _Intake Building_**](#111022---intake-building)
+76. [**11/14/22 - _Intake Building_**](#111422---intake-building)
+77. [**11/15/22 - _Intake Building Day 2_**](#111522---intake-building-day-2)
+78. [**11/16/22 - _Intake Building Day 3_**](#111622---intake-building-day-3)
+79. [**11/17/22 - _Intake Building Day 4_**](#111722---intake-building-day-4)
+80. [**11/18/22 - _Intake Building Day 5_**](#111822---intake-building-day-5)
+81. [**11/21/22 - _Reverse Engineering Challenge_**](#112122---reverse-engineering-challenge)
+82. [**11/22/22 - _Intake Adjustments and End Game_**](#112222---intake-adjustments-and-end-game)
+83. [**11/28/22 - _Intake Adjustments_**](#112822---intake-adjustments)
+84. [**11/29/22 - _Finalizing Intake_**](#112922---finalizing-intake)
+85. [**11/30/22 - _Finalizing Intake Day 2_**](#113022---finalizing-intake-day-2)
+86. [**12/1/22 - _Finalizing Robot for Competition_**](#12122---finalizing-robot-for-competition)
 
 
 
@@ -131,7 +129,7 @@ The match will start with a 15-second autonomous period followed by a driver con
 
 During the match, each robot can only hold at most 3 discs at a time. There is a vertical and horizontal limit of 18 inches during the match. There is a 24-inch height limit, but it's limited to a vertical cylinder with a 2" diameter. This year, teams are not allowed to trap a robot in any way, including blocking a robot from moving on its intended path. Trapping for 5 seconds or more will penalize the team on the offense. Any less than 5 seconds and the opposing team will be given the benefit of the doubt.
 
-The robot can only use 8 motors and 2 pneumatic reserviors, each capped at 100 Psi. No external tampering with any electronic devices is allowed.
+The robot can only use 8 motors and 2 pneumatic reservoirs, each capped at 100 Psi. No external tampering with any electronic devices is allowed.
 
 ## ***Scoring***
 
@@ -153,7 +151,7 @@ The High Goals can be found in opposing corners of the field and sit on bars att
 
 Each High Goal has a lower basket with a bar through the middle. The bar holds up a thin, plastic disc that hold the chains, and the chains themselves. These chains are used to help catch the disc and give it a better chance at making it into the basket. 
 
-The High Goal itself only sits at 14.1". The supporting bar definitely adds a new level of difficulty to the game as the bar sits 18.5" above the field. This added height lifts the base of the lower basket to 21.4" off the field.. The outer lip of the basket sits roughly 25" above the field with the highest point of the High Goal contraption sitting 35.5" off the field.
+The High Goal itself only sits at 14.1". The supporting bar definitely adds a new level of difficulty to the game as the bar sits 18.5" above the field. This added height lifts the base of the lower basket to 21.4" off the field. The outer lip of the basket sits roughly 25" above the field with the highest point of the High Goal contraption sitting 35.5" off the field.
 
 These goals are made for robots to shoot discs into the lower basket and gives 5 points for each disc successfully landed into the basket.
 
@@ -296,7 +294,7 @@ Today, Me(Rhett) and Tyler, are going to begin designing our prototype launchers
 
 ### **The Ramp**
 
-The Ramp is made of 3 1x5x1x22 Steel C-Channels and 2 1x2x1x22 Aluminium C-Channel being is held together by 32 Star drive #8-32 x 1/4" screws with Nylon Nuts on them. We chose this design because the 5 wide C-Channels allow for enough space for the disc and flywheels and the 2 wide C-Channel gives a place to mount the flywheels and motors with a gear ration on.
+The Ramp is made of 3 1x5x1x22 Steel C-Channels and 2 1x2x1x22 Aluminum C-Channel being is held together by 32 Star drive #8-32 x 1/4" screws with Nylon Nuts on them. We chose this design because the 5 wide C-Channels allow for enough space for the disc and flywheels and the 2 wide C-Channel gives a place to mount the flywheels and motors with a gear ration on.
 
 - Top View
 
@@ -336,7 +334,7 @@ I was unable to get the 2L1R Launcher Fully Designed in Fusion today, I'm hoping
 
 # **5/17/2022 - _Design Continues and Building Begins_**
 
-Today we are going to have the first meeting since the build and design contest began meaning that we will be able to begin to build our prototype launchers today. However before the meeting today I'm going to try and design the rest of the prototype launcher before we have our meeting today. If I'm able to get the design finished in Fusion before the meeting we will be able to easily build the prototype and possibly begin coding today. When I(Rhett) got  into class today I began to talk with Mr. Holmes about the next step, he said before we begin to work on a launcher we should do tests to figure out what the best rpm to launch the discs at are and make tables to show that data, instead of just designing off of what we guess will work the best. He also suggested to use blue gearboxes for the motors, so we would need less of a gear ratio to get to our target rpm to reduce friction in between the gears. So instead of finishing the design for the launcher we began working on a prototyping bed to run our tests on.
+Today we are going to have the first meeting since the build and design contest began meaning that we will be able to begin to build our prototype launchers today. However before the meeting today I'm going to try and design the rest of the prototype launcher before we have our meeting today. If I'm able to get the design finished in Fusion before the meeting we will be able to easily build the prototype and possibly begin coding today. When I(Rhett) got into class today I began to talk with Mr. Holmes about the next step, he said before we begin to work on a launcher we should do tests to figure out what the best rpm to launch the discs at are and make tables to show that data, instead of just designing off of what we guess will work the best. He also suggested to use blue gearboxes for the motors, so we would need less of a gear ratio to get to our target rpm to reduce friction in between the gears. So instead of finishing the design for the launcher we began working on a prototyping bed to run our tests on.
 
 
 ## **Goals for Today**
@@ -349,7 +347,7 @@ Today we are going to have the first meeting since the build and design contest 
 
 ### **The Base for the 1L1R prototype**
 
-The Base is made up of a 15x30 Steel Base Plate and two 1x2x1x30 Aluminum C-Channels and held together by 8 #8-32 x 1/4" screws with Nylock Nuts on them. We chose to use nylocks so that the base would be sturdy enough so that it would be able to produce consistent tests while we try different RPMs to fire the discs at. This Base is going to be the foundation for all the test we do with the 1L1R System  to find what the best RPM for the flywheels to run at is. Two of these bases can be linked together to get the base used for the 2L1R Prototype.
+The Base is made up of a 15x30 Steel Base Plate and two 1x2x1x30 Aluminum C-Channels and held together by 8 #8-32 x 1/4" screws with Nylock Nuts on them. We chose to use nylocks so that the base would be sturdy enough so that it would be able to produce consistent tests while we try different RPM to fire the discs at. This Base is going to be the foundation for all the test we do with the 1L1R System to find what the best RPM for the flywheels to run at is. Two of these bases can be linked together to get the base used for the 2L1R Prototype.
 
 - Top View
 
@@ -453,7 +451,7 @@ While looking at spacing for a prototype I built to base my fusion design off of
 
 ## **End of Entry Thoughts**
 
-It's quite unfortunate that there is potentially a spacing issue because I would have like to get a prototyping bed close to fully built in Fusion tonight. At least I have a pneumatic pusher designed physically and built, and I just need to wait and see if lengths are correct for the cylinder bores and if I need to alter the design to accommodate for any potential differences. Since I can't really work on designs until I know what my spacing is for the pneumatic pusher, I would like to begin tomorrow by working on formulating a test for the different RPM Speeds and work on figuring out a gear ratio that will work universally for all the different RPM so we don't have to constantly change gear ratios on the prototyping bed.
+It's quite unfortunate that there is potentially a spacing issue because I would have like to get a prototyping bed close to fully built in Fusion tonight. At least I have a pneumatic pusher designed physically and built, and I just need to wait and see if lengths are correct for the cylinder bores and if I need to alter the design to accommodate for any potential differences. Since I can't really work on designs until I know what my spacing is for the pneumatic pusher, I would like to begin tomorrow by working on formulating a test for the different RPM Speeds and work on figuring out a gear ratio that will work universally for all the different RPM, so we don't have to constantly change gear ratios on the prototyping bed.
 
 
 
@@ -723,7 +721,7 @@ Today we will begin testing all the things in our end of entry thoughts from yes
 
 ### **RPM Combination Testing - Test 001 A-U**
 
-For all of these test we will do five shots at each different tested settings with a fresh fully charged battery and a full tank of air. The Camera is posistioned 8 feet away from the baseline that is in line with the center of the Launcher with the Camera 4 feet in the air.
+For all of these test we will do five shots at each different tested settings with a fresh fully charged battery and a full tank of air. The Camera is positioned 8 feet away from the baseline that is in line with the center of the Launcher with the Camera 4 feet in the air.
 
 #### **Initial Take Away**
 
@@ -808,7 +806,7 @@ While it does dip down after firing a disc, it does stabilize fairly quickly, an
 
 ### **Test 003**
 
-This test was to figure out how many shots could be realiably gotten on one tank of air with our current pneumatic pusher. This will help us figure out how many shots we could potentially have during a match.
+This test was to figure out how many shots could be reliably gotten on one tank of air with our current pneumatic pusher. This will help us figure out how many shots we could potentially have during a match.
 
 #### **Test 003 A**
 When we ran the test with the regulator, we were able to get around 75-80 good shots.
@@ -833,7 +831,7 @@ We found a lot of valuable information through different tests we ran today. Som
 
 
 
-# **7/28/22 -  _Returning from break / Returning to planning_**
+# **7/28/22 - _Returning from break / Returning to planning_**
 
 Today we came back together as a team to planning design ideas and to explore some of the rules that have changed or been updated since the last time we met.
 
@@ -850,7 +848,7 @@ Today we came back together as a team to planning design ideas and to explore so
 
 ### **End of Entry**
 
-We didn't get a majority of our goals done, because we started rather late at night. We were only able to look over the game manual but we will do some more work later in the week. 
+We didn't get a majority of our goals done, because we started rather late at night. We were only able to look over the game manual, but we will do some more work later in the week. 
 
 
 
@@ -868,7 +866,7 @@ Today we began working in class on a drive train to mount our prototype intake o
 ## **Goals For Today**
 
 - [x] Begin Building Drivetrain to Mount Prototype intake on
-- [x] Begin brainstorming and  a few different prototype intakes
+- [x] Begin brainstorming and a few different prototype intakes
 - [x] Figure out teams involving returning members during the meeting
 - [ ] The goals for today are to begin building the drivetrain for us to mount a prototype intake on and begin brainstorming a few different 
 
@@ -986,7 +984,7 @@ Today we will begin building the 4 different types of intakes, the first two we 
 - [x] Begin Building Tank Tread Intake
 - [ ] Begin Building Flex Wheel Intake
 - [ ] (If Time) Begin Building Intake Roller RC Intake
-- [ ] (If Time Begin Building Intake Roller CC Intake
+- [ ] (If Time) Begin Building Intake Roller CC Intake
 
 
 ### **Intake Building**
@@ -1341,7 +1339,7 @@ This code uses the "shouldIntakeRun" boolean to turn the intake on if the "shoul
 
 ### **End of Entry**
 
-Today we unfortunately unable to begin building the intake or get our game explanations and team bio written, but we will begin working on the intake tomorrow and hopefully get the team bios and game explanation written at our next meeting on the 6th.
+Today we were unfortunately unable to begin building the intake or get our game explanations and team bio written, but we will begin working on the intake tomorrow and hopefully get the team bios and game explanation written at our next meeting on the 6th.
 
 
 
@@ -1610,7 +1608,7 @@ Today we decided that we would spend the day figuring out the bottom row of the 
 
 ### **Intake Redesign Building _(Cont.)_**
 
-For having the bottom row to be able to index we decided on mounting the axle on a piece of c-channel that is attached to a stand-off that is on a shaft-collar-stand-off joint, with the shaft collar joint attached to the robot on a screw joint. We bent the end of the metal into an "L" shape in order to prevent the index from going to high. We used rubber bands that force the stand-off back down, so that there is downwards pressure on the disc when it goes through. This will help the bottom row of wheels return to the point that we want them to rest at. 
+For having the bottom row to be able to index we decided on mounting the axle on a piece of c-channel that is attached to a stand-off that is on a shaft-collar-stand-off joint, with the shaft collar joint attached to the robot on a screw joint. We bent the end of the metal into an "L" shape in order to prevent the index from going too high. We used rubber bands that force the stand-off back down, so that there is downwards pressure on the disc when it goes through. This will help the bottom row of wheels return to the point that we want them to rest at. 
 
 _Translation 1_
 Having a mobile bottom row would be extremely useful as it would help pull the disc into the intake. To make the bottom row mobile, we attached a stand-off to a shaft collar and used a screw to attach it to the base. The shaft collar allows it to spin freely and the stand-off allows us to attach it further out from the base. We used rubber bands to help hold it down and make it more precise, allowing it to index, or move more precisely than before. The rubber bands would also add the force needed to pull the disc into the intake and return the row back to its original position. (What's it)
@@ -1678,7 +1676,7 @@ Today we are hoping to finish the bottom row on the intake and, if time permits,
 - [ ] Finish Game Explanation.
 
 ### **Intake Building**
-We were able to get the flex wheels on the intake and start on how the motors and chains would interact. We were able to use one motor on the intake by connecting them all together with properly tensioned chains. The original motor was too weak for our use so we switched it out with a high torque motor.
+We were able to get the flex wheels on the intake and start on how the motors and chains would interact. We were able to use one motor on the intake by connecting them all together with properly tensioned chains. The original motor was too weak for our use, so we switched it out with a high torque motor.
 
 ## **End of Entry Thoughts**
 We were able to continue working on the intake, team bios, and the game explanation, though we weren't able to finish both the team bios or the game explanation.
@@ -1999,7 +1997,7 @@ Today we are working on finalizing the intake and improving the launcher.
 
 
 ### **Launcher**
-We are adding rotational sensors to the launcher to track the flywheel rpm. This should give us an accurate reading on the flywheels so we can program more accurately.
+We are adding rotational sensors to the launcher to track the flywheel rpm. This should give us an accurate reading on the flywheels, so we can program more accurately.
 
 ### **Intake**
 The edge of the base sticks out too far for the sprocket on the bottom row to turn comfortably. We are able to cut and shave down the edge to prevent the chain or the sprocket from getting caught.  
@@ -2853,7 +2851,7 @@ We weren't able to finish fixing the battery case, and we will have to continue 
 
 # **10/06/22 - _Intake Redesign and Long Meeting_**
 
-Today we are working to finish the intake and finish replacing the wires in the battery case. We have a long meeting today and we plan to use our time as wisely as we can.
+Today we are working to finish the intake and finish replacing the wires in the battery case. We have a long meeting today, and we plan to use our time as wisely as we can.
 
 ## **Attendance**
 - [x] Rhett
@@ -3002,7 +3000,7 @@ We weren't able to get as much done as we would have liked, but we should be abl
 
 ### **Finishing the Intake**
 
-Today, Rhett was able to get a working intake that would reliabily intake a disc when being hand fed, but issues with the ramp led the bot to not be able to drive around the field without the ramp digging into the tiles and causing the bot to get stuck. We will continue to work on solutions to this issue when the whole team is able to discuss what we can do to fix this issue.
+Today, Rhett was able to get a working intake that would reliably intake a disc when being hand fed, but issues with the ramp led the bot to not be able to drive around the field without the ramp digging into the tiles and causing the bot to get stuck. We will continue to work on solutions to this issue when the whole team is able to discuss what we can do to fix this issue.
 
 ### **Running Intake**
 
@@ -3376,7 +3374,7 @@ Today we continued working on the launcher redesign to better mesh with the inta
 
 
 ### **Launcher and Intake Mesh Design**
-Realized the intake acuator, the thing that pushed the disk into the launcher, didn't do what we wanted it to so we redesigned it. We tried to use angle pieces to push the disk, but we didn't get very far before we had to stop for the day.
+Realized the intake actuator, the thing that pushed the disk into the launcher, didn't do what we wanted it to, so we redesigned it. We tried to use angle pieces to push the disk, but we didn't get very far before we had to stop for the day.
 
 ## **End of Entry Thoughts**
 We work on the Launcher and created a Required and Desired list to hopefully help keep us on track.
@@ -3436,7 +3434,7 @@ Today we are working on finishing the Launcher and Intake to start building the 
 - [ ] Get Superstructure built
 
 ### **Launcher**
-We worked on the mechanism to push the disc into the fly wheel launching mechanisms. We didn't get much done today but we were able to start brainstorming ideas on a better mechanism to push the disc into the launcher.
+We worked on the mechanism to push the disc into the fly wheel launching mechanisms. We didn't get much done today, but we were able to start brainstorming ideas on a better mechanism to push the disc into the launcher.
 
 ## **End of Entry Thoughts**
 We weren't able to get as much done as we would have liked, but we were able to begin brainstorming on a new pushing mechanism for the launcher.
@@ -3466,9 +3464,9 @@ Today we are going to begin working on the Superstructure.
 - [ ] Work on Superstructure
 
 ### **Intake**
-We decided to try and improve the horizontal intake. We felt that it was too large and looked unfinished. The intake was able to be compacted very easily and we used a smaller frame to make the intake look more finished and less like a prototype. We also tried to slant the intake using a Superstructure. This would have used the Launcher and the base to help hold up the intake to the degrees we would like and create a very rigid robot overall. 
+We decided to try and improve the horizontal intake. We felt that it was too large and looked unfinished. The intake was able to be compacted very easily, and we used a smaller frame to make the intake look more finished and less like a prototype. We also tried to slant the intake using a Superstructure. This would have used the Launcher and the base to help hold up the intake to the degrees we would like and create a very rigid robot overall. 
 
-Unfortunatly we weren't able to get it to work how we want so we are abandoning the idea. While we still want to slant our intake, we will work on brainstorming some other ideas at a later date. We also tried to combine Rhett's tubing intake and Tyler's horizontal intake to see if it would improve the intake overall, but we ended up scrapping the idea.
+Unfortunately, we weren't able to get it to work how we want, so we are abandoning the idea. While we still want to slant our intake, we will work on brainstorming some other ideas at a later date. We also tried to combine Rhett's tubing intake and Tyler's horizontal intake to see if it would improve the intake overall, but we ended up scrapping the idea.
 
 ## **End of Entry Thoughts**
 While we didn't get the Superstructure built like we wanted to, we were able to learn a lot about how we should tackle this intake moving forward.
@@ -3540,7 +3538,7 @@ We used a rubber band zip tied to the shaft to allow the bottom indexing row to 
 We worked on the intake, mostly adjusting minor design details. We began work on a portion of the intake that will index in front of the intake. Tyler cut some three wide c channel for our intake, and Ari and Rebecca filed down the metal to prevent sharp edges.
 
 ## **End of Entry Thoughts**
-We started on working on the indexing bottom row of the intake. We were also able to get everyone here for this meeting and get team photos with our polos.
+We started on working on the indexing bottom row of the intake. We were also able to get everyone here for this meeting and get team photos with us wearing our polos.
 
 
 
@@ -3572,7 +3570,7 @@ Today we are working on building the intake.
 We started on the frame of the intake. We used standoffs to hold the flex wheels 2.25" away from the ABS ramp. This distance should be enough to allow the disc to slide between the ABS and the flex wheels while allowing the wheels to grab and pull the disc into and out of the intake.
 
 ## **End of Entry Thoughts**
-We were able to start making ajustments to improve our intake and get closer to testing our intake. We were also able to finish the team bios.
+We were able to start making adjustments to improve our intake and get closer to testing our intake. We were also able to finish the team bios.
 
 
 
@@ -3631,7 +3629,7 @@ Today we are working on finishing the Vertical Intake.
 Once we completed the Intake, we noticed certain changes we needed to make right off the bat. The standoffs for the indexing bottom row were too long and couldn't grab onto and help the disc. We also found that the original placement was too high up and prevented the row from properly indexing and didn't give the disc enough space to move properly through the intake. 
 
 ## **End of Entry Thoughts**
-We were able to ajust the indexing bottom row to help the intake pull up the disc from the floor.
+We were able to adjust the indexing bottom row to help the intake pull up the disc from the floor.
 
 
 
@@ -3701,7 +3699,7 @@ Today we are working on the Intake and preparing our box for Thanksgiving break.
 Today we swap out the standoffs on the screw joint indexer from standard 2" Vex Standoffs to a pair of 7/8" Robosource Standoffs in order to shorten the distance of the bottom row from the ramp by around 1/4", this allows the wheels of the bottom row to get close enough to the ramp to make consistent contact with the disc while intaking it. We still need to make some adjustments, such as making the intake a bit longer and a little wider, but we are getting closer to finishing the intake.
 
 ## **End of Entry Thoughts**
-We were able to continue the intake but we didn't prep our box as much as we planned. Our teacher is willing to open up the lab for us and sit in for a meeting one day during break so we are only putting things we might need over the weekend rather than a whole week.
+We were able to continue the intake, but we didn't prep our box as much as we planned. Our teacher is willing to open up the lab for us and sit in for a meeting one day during break, so we are only putting things we might need over the weekend rather than a whole week.
 
 
 
@@ -3716,7 +3714,7 @@ We were able to continue the intake but we didn't prep our box as much as we pla
 
 # **11/21/22 - _Reverse Engineering Challenge_**
 
-Today I am working on completeing the Reverse Engineering Challenge.
+Today I am working on completing the Reverse Engineering Challenge.
 
 ## **Attendance**
 - [ ] Rhett
@@ -3763,10 +3761,10 @@ While I wasn't able to finish everything I planned to do, I was able to get the 
 - [x] Start on End Game mechanism
 
 ### **Intake**
-We began widening the intake to give the disc more space. The original intake was just wide enough for the disc but we are concerned about it hitting the sides and getting caught.
+We began widening the intake to give the disc more space. The original intake was just wide enough for the disc, but we are concerned about it hitting the sides and getting caught.
 
-### **End Game Mech**
-Tested four pairs of 1'' standoffs with three rubber bands on each pair of standoffs. Attempted to utalize the dual action pistons, however the piston was not able to overcome the tension of which the rubber bands were applying on the threaded piston shaft. Will attempt to use only 2 rubber bands per pair next meeting, therefore reducing the force required to overcome the bands. the force required is now 33% less than the required force prevous.
+### **End Game Mechanism**
+Tested four pairs of 1'' standoffs with three rubber bands on each pair of standoffs. Attempted to utilize the dual action pistons, however the piston was not able to overcome the tension of which the rubber bands were applying on the threaded piston shaft. Will attempt to use only 2 rubber bands per pair next meeting, therefore reducing the force required to overcome the bands. The force required is now 33% less than the required force previous.
 
 
 
@@ -3779,7 +3777,7 @@ Tested four pairs of 1'' standoffs with three rubber bands on each pair of stand
 
 
 
-# **11/28/22 - _Intake Ajustments_**
+# **11/28/22 - _Intake Adjustments_**
 
 ## **Attendance**
 - [x] Rhett
@@ -3795,7 +3793,7 @@ Tested four pairs of 1'' standoffs with three rubber bands on each pair of stand
 We continued on widening the intake and started trying to figure out spacing. We made it 7 holes wider and 5 holes longer. We also made the fixed rows 5 holes apart from each other to give the disc enough space to move up and the wheels enough space to grab onto the disc.
 
 ## **End of Entry Thoughts**
-While we were able to continue working on the intake and get quite a bit done, we werent able to get as much done as we hoped.
+While we were able to continue working on the intake and get quite a bit done, we weren't able to get as much done as we hoped.
 
 
 
@@ -3822,13 +3820,13 @@ While we were able to continue working on the intake and get quite a bit done, w
 
 
 ### **Intake**
-We are going to try to keep the intake vertical by creating the ramp using the same back plate as the back of the intake.
+We are going to try to keep the intake vertical by creating the ramp using the same backplate as the back of the intake.
 
-Rhett worked on sizing the ramp and then lazer cutting it out of ABS. The first one we made, on a previous date, was too small and the old intake was too thin for the disk to go through successfully. After resizing the ramp, Rhett lazer cut it out, but the end cut was scaled too large, so he had to resize it again. The cut after was the perfect fit.  
+Rhett worked on sizing the ramp and then laser cutting it out of ABS. The first one we made, on a previous date, was too small, and the old intake was too thin for the disk to go through successfully. After resizing the ramp, Rhett laser cut it out, but the end cut was scaled too large, so he had to resize it again. The cut after was the perfect fit.  
 
-Tyler started working on the Intake and then asked Noly and Rebecca to assist him so that it would go faster. They increased the spacing between the two walls of the intake so that it would be easier for the disk to go through. When they started the day they had a 2 inch standoff spacing, but there wasn't enough space between the indexing row and back wall for the disk to go through. Next they replaced the 2 inch standoff with a 3 inch standoff, but it had too much spacing and prevented the bottom row from grabbing the disc. They tried a 2 inch standoff connected to a half inch standoff, which gave the best amount of spacing. 
+Tyler started working on the Intake and then asked Noly and Rebecca to assist him so that it would go faster. They increased the spacing between the two walls of the intake so that it would be easier for the disk to go through. When they started the day they had a 2-inch standoff spacing, but there wasn't enough space between the indexing row and back wall for the disk to go through. Next they replaced the 2-inch standoff with a 3-inch standoff, but it had too much spacing and prevented the bottom row from grabbing the disc. They tried a 2-inch standoff connected to a half inch standoff, which gave the best amount of spacing. 
 
-We were able to get one row of wheels attached and we put the sprockets in the middle to attached the rows together through a chain. In one of our first intake designs, we used sprockets on the outside on the rows. Our original design had 3 wheels and there wasn't enough room for sprockets between them. In the newer design, we put them between the two flex wheels to save space. While saving this much space might seem insignificant, we plan for our robot to be as compact as we can make it to fit as much functionality as we can. We might be able to use the space we're saving now for an entire mechanism, like a roller or end game mech.
+We were able to get one row of wheels attached, and we put the sprockets in the middle to attach the rows together through a chain. In one of our first intake designs, we used sprockets on the outside on the rows. Our original design had 3 wheels and there wasn't enough room for sprockets between them. In the newer design, we put them between the two flex wheels to save space. While saving this much space might seem insignificant, we plan for our robot to be as compact as we can make it to fit as much functionality as we can. We might be able to use the space we're saving now for an entire mechanism, like a roller or end game mechanism.
 
 Ari drilled hole through the end mechanism, so the piston shaft could pass through with minimal resistance.
 
@@ -3859,24 +3857,42 @@ We were able to get a lot done during this meeting. While we are pleased with wh
 - [ ] Get Robot Competition Ready
 
 ### **Intake** 
-We mounted the ramp we cut yesterday and mounted the indexer to the Intake frame. We also finished attaching the outside bars for the rows to the frame. We used high strength spacers in between the wheels and the sprockets to prevent them from slided and used 2 sprockets and 2 wheels on each row to attach them together and the two wheels to grab on and pull up the discs. We still need a tensioner for the chain that connects the middle row to the indexing row.
+We mounted the ramp we cut yesterday and mounted the indexer to the Intake frame. We also finished attaching the outside bars for the rows to the frame. We used high strength spacers in between the wheels and the sprockets to prevent them from sliding and used 2 sprockets and 2 wheels on each row to attach them together and the two wheels to grab on and pull up the discs. We still need a tensioner for the chain that connects the middle row to the indexing row.
 
-We attached the ramp underneath each of the outside bars and used zipties to connect it and hold it against the angled metal underneath. The first set of zipties brought it closer the angled piece and the second set kept it attached to the end so discs couldn't slip between it and the angled piece.
+Furthermore, we attached the ramp underneath each of the outside bars and used zipties to connect it and hold it against the angled metal underneath. The first set of zipties brought it closer the angled piece and the second set kept it attached to the end, so discs couldn't slip between it and the angled piece.
 
 ## **End of Entry Thoughts**
-While we couldnt't finish the intake or start on the rest of the robot, we were able to get major progress with the intake and plan to finish it and the rest of the robot tomorrow.
+While we couldn't finish the intake or start on the rest of the robot, we were able to get major progress with the intake and plan to finish it and the rest of the robot tomorrow.
 
 
 
 # **12/1/22 - _Finalizing Robot for Competition_**
 
+## **Attendance**
+- [x] Rhett
+- [x] Noly
+- [x] Tyler
+- [x] Ari
+- [x] Rebecca
+
 ## **Goals for Today**
 - [ ] Finish Robot
-- [ ] Finalize Notebook for Competition Submition
+- [ ] Finalize Notebook for Competition Submission
 
 ### **Intake**
 After finishing and testing the intake, we found that the indexer row wouldn't work due to how we need it to index and how the chain and tensioner works. We decided to go back to a horizontal Intake for this competition and attempt a vertical Intake in the future if needed. We are using single acting pneumatic pistons to move the intake up and down horizontally from the intake rather than vertically with the intake.
 
 ### **Launcher**
-We have been expirimenting with small adjustments to the flywheel mechanism. When a disc is launched/flywheels begin spinning, there are inconsestent fluctuations, of which we worry may impact the flight that the disc will take. We attempted to change the code to monitor the motors with a percentage, rather than rpms. This did not affect the fluctuations, however. We attempted to pinpoint what motor was fluctuating, and found that both are doing it asynchronously. After attempting to use a black flexwheel(to reduce plating) we have decided to use a code that will monitor the motor speeds and graph when the inconsitencies occur, as the flexwheel change did not improve anything, in fact, it possibly made the fluctuations worse.
+We have been experimenting with small adjustments to the flywheel mechanism. When a disc is launched/flywheels begin spinning, there are inconsistent fluctuations, of which we worry may impact the flight that the disc will take. We attempted to change the code to control the motors with a percentage, rather than setting the target rpm of the motor. This did not affect the fluctuations, however, so we reverted our changes for the purpose of staying consistent with previous code. We attempted to pinpoint what motor was fluctuating, and found that both are doing it asynchronously. After attempting to use a black flex wheel(to reduce plating), which we found to have no effect on the issue, so we switched back to the original flex wheels that were on our launcher. We decided to test how large these supposed fluctuations were, and found that they were not large enough to affect the flight of the disc. We will continue to test and experiment with the flywheel in the future to see if we can reduce the fluctuations, however, we are not concerned with the fluctuations at this time.
+
+
+#### **Graph From the Launcher Test**
+
+(Insert Image Here)
+
+For this test we let the motors spin up to their target speed and then run for a few seconds before we launched three disks through it as a rather rapid pace. The graph shows that the fluctuations should not be big enough to matter, and that the fluctuations balance out as the motors spin up to their target speed.
+
+### **End of Entry Thoughts**
+
+Today we were unable to finish the robot, but we have the launcher in a place where we think it is almost ready, and we have an intake that needs to be tested with a motor, but works when being hand fed, so tomorrow we should be able to attach the launcher and intake together and then build a base around the two, and code autonomous and fix any bugs in the code that were the result of the code being written before the robot was finished, because of this progress today we will more than likely be able to have a working robot in time for the competition, even though the robot may not have a working autonomous.
 
