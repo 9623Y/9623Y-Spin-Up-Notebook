@@ -2,3 +2,4 @@
 .vscode/ltex.disabledRules.en-US.txt
 .vscode/ltex.hiddenFalsePositives.en-US.txt
 README.pdf
+*.pdf
