@@ -3888,7 +3888,7 @@ We have been experimenting with small adjustments to the flywheel mechanism. Whe
 
 #### **Graph From the Launcher Test**
 
-(Insert Image Here)
+![CondensedFlywheelTestGraph](https://user-images.githubusercontent.com/102620185/205230170-496bc9ea-1767-476e-93ef-637d577fe5d0.png)
 
 For this test we let the motors spin up to their target speed and then run for a few seconds before we launched three disks through it as a rather rapid pace. The graph shows that the fluctuations should not be big enough to matter, and that the fluctuations balance out as the motors spin up to their target speed.
 
