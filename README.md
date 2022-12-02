@@ -3366,11 +3366,7 @@ Today we continued working on the launcher redesign to better mesh with the inta
 
 ### **Required and Desired Table**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://gitHub.com/9623Y/9623Y-Spin-Up-Notebook/blob/main/Diagrams/RequiredandDesiredChartDark.drawio.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://gitHub.com/9623Y/9623Y-Spin-Up-Notebook/blob/main/Diagrams/RequiredandDesiredChartLight.drawio.svg">
-  <img alt="Required and Desired Chart." src="q://gitHub.com/9623Y/9623Y-Spin-Up-Notebook/blob/main/Diagrams/RequiredandDesiredLight.drawio.png">
-</picture>
+![RequiredandDesiredLight drawio](https://user-images.githubusercontent.com/102620185/205232471-bfe2c7a9-c0c3-4aec-94a8-72eb7b9ed47e.png)
 
 
 ### **Launcher and Intake Mesh Design**
