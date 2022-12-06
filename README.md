@@ -3972,11 +3972,48 @@ Today we are finishing up the robot for this competition and printing out the no
 | 7432B  | 9447B  | **9623Y** | 97671A |
 |3796B|9447B|**9623Y**|97671A|
 
-### **Videos**
+### **Videos and Results**
 Last year, Noly and Rebecca would film videos to look back on and learn how we can better our robot.
 
+Round 1: https://youtu.be/Ahq-3a67AB8
+|Red|**Blue**|
+|---|---|
+|141|**31**|
 
+Round 2: https://youtu.be/hPwHpoBe87o
+|**Red**|Blue|
+|---|---|
+|**48**|52|
 
+Round 3: https://youtu.be/aOZOT2M5_1A
+|**Red**|Blue|
+|---|---|
+|**37**|79|
+
+Round 4: https://youtu.be/BgChyFM0HNE
+|Red|**Blue**|
+|---|---|
+|124|**27**|
+
+Round 5: N/A
+|**Red**|Blue|
+|---|---|
+|**43**|39|
+
+Round 6: https://youtu.be/AeaQIB1o63w
+|Red|**Blue**|
+|---|---|
+|45|**48**|
+
+Round 7: https://youtu.be/pz-Va3nwq-s
+|Red|**Blue**|
+|---|---|
+|64|**71**|
+
+Round 8: https://youtu.be/O8b6PxN277k
+|Red|**Blue**|
+|---|---|
+|93|**48**|
 
 # **12/5/22**
 
@@ -3996,11 +4033,24 @@ Last year, Noly and Rebecca would film videos to look back on and learn how we c
 
 ### **Base**
 Started on building base - built the chassis rails - Switched to Mecanum
+We started on building a new base after our
+
+manuverability, gears getting jammed, and regitity against other robots.
 
 ### **
 Worked on fixing and testing launcher
 
 ## **End of Entry Thoughts**
+
+
+
+
+
+-----
+
+
+
+
 
 
 # **12/6/22**
