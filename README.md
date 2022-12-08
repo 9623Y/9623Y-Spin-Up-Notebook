@@ -4017,6 +4017,8 @@ Round 8: https://youtu.be/O8b6PxN277k
 |---|---|
 |93|**48**|
 
+
+
 # **12/5/22**
 
 
@@ -4057,6 +4059,13 @@ Worked on fixing and testing launcher
 
 # **12/6/22**
 
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [x] Rebecca
+- [x] Ari
+
 ## **Goals for Today**
 - [ ] Finish Base
 - [ ] Possibly Rebuild Launcher
@@ -4066,13 +4075,29 @@ Worked on fixing and testing launcher
 
 # **12/7/22**
 
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
+
 ## **Goals for Today**
 - [ ] Finish base
 
 ### **Base**
 Added wheels
 
+
+
 # **12/8/22**
+
+## **Attendance**
+- [x] Rhett
+- [x] Tyler
+- [x] Noly
+- [ ] Rebecca
+- [ ] Ari
 
 ## **Goals for Today**
 - [ ] Finish Base
