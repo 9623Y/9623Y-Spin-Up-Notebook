@@ -95,6 +95,8 @@
 90. [**12/3/22**](#12322)
 91. [**12/5/22**](#12522)
 92. [**12/6/22**](#12622)
+93. [**12/7/22**](#12722)
+94. [**12/8/22**](#12822)
 
 
 
@@ -4059,5 +4061,23 @@ Worked on fixing and testing launcher
 - [ ] Finish Base
 - [ ] Possibly Rebuild Launcher
 
+
+
+
+# **12/7/22**
+
+## **Goals for Today**
+- [ ] Finish base
+
+### **Base**
+Added wheels
+
+# **12/8/22**
+
+## **Goals for Today**
+- [ ] Finish Base
+- [ ] Make Roller mech
+- [ ] get flywheel done
+- [ ] 
 
 
