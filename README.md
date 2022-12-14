@@ -97,6 +97,7 @@
 92. [**12/6/22**](#12622)
 93. [**12/7/22**](#12722)
 94. [**12/8/22**](#12822)
+95. [**12/14/22**](#121422)
 
 
 
@@ -4021,7 +4022,7 @@ Round 8: https://youtu.be/O8b6PxN277k
 
 # **12/5/22**
 
-
+Today we worked on the addressing issues we found during the competition.
 
 ## **Attendance**
 - [x] Rhett
@@ -4036,10 +4037,7 @@ Round 8: https://youtu.be/O8b6PxN277k
 - [x] Redesign Intake to Mount it to Base
 
 ### **Base**
-Started on building base - built the chassis rails - Switched to Mecanum
-We started on building a new base after our
-
-manuverability, gears getting jammed, and regitity against other robots.
+We started on building a new base after our previous base lacked the functionality we needed. The motors for the wheels prevented us from attaching the launcher and intake properly. We also lacked the maneuverability we needed and the rigidity against other bots we definitely needed. The gears for our wheels kept getting jammed and filled with foam from the field, causing us to decide against gear driven bases.
 
 ### **
 Worked on fixing and testing launcher
@@ -4070,6 +4068,11 @@ Worked on fixing and testing launcher
 - [ ] Finish Base
 - [ ] Possibly Rebuild Launcher
 
+### **Base**
+While working on the mecanum base, we decided to discuss other bases we would like to try, like an X drive base.
+
+## **End of Entry Thoughts**
+While we didn't get as much done as we would have liked, we were able to talk about other bases that might work.
 
 
 
@@ -4086,7 +4089,9 @@ Worked on fixing and testing launcher
 - [ ] Finish base
 
 ### **Base**
-Added wheels
+We added wheels to the base, though we spent more time on them than we would have liked.
+
+## **
 
 
 
@@ -4103,6 +4108,18 @@ Added wheels
 - [ ] Finish Base
 - [ ] Make Roller mech
 - [ ] get flywheel done
-- [ ] 
+
+### **Base**
+continued mecanum, decided not enough time and unhappy w/ previous so switch to x and focus on rollers and end game for competition day
 
 
+# **12/14/22**
+
+## **Goals for Today**
+- [ ] Built Intake
+- [ ] Work on CAD
+
+### **Overall Design**
+We are working on finish the CAD for our robot to create a BOM, or a Bill of Materials. We plan to work on the robot over Christmas
+
+working on 6th intake 
