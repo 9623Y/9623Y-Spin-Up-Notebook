@@ -93,11 +93,12 @@
 88. [**12/1/22 - _Finalizing Robot for Competition_**](#12122---finalizing-robot-for-competition)
 89. [**12/2/22 - _Finalizing Notebook and Robot for Competition_**](#12222---finalizing-notebook-and-robot-for-competition)
 90. [**12/3/22**](#12322)
-91. [**12/5/22**](#12522)
-92. [**12/6/22**](#12622)
-93. [**12/7/22**](#12722)
+91. [**12/5/22 - _After Competition Adjustments_**](#12522---after-competition-adjustments)
+92. [**12/6/22 - _Base Prototyping_**](#12622---base-prototyping)
+93. [**12/7/22 - _Base Prototyping Day 2_**](#12722---base-prototyping-day-2)
 94. [**12/8/22**](#12822)
 95. [**12/14/22**](#121422)
+96. [**12/15/22**](#121522)
 
 
 
@@ -4020,7 +4021,7 @@ Round 8: https://youtu.be/O8b6PxN277k
 
 
 
-# **12/5/22**
+# **12/5/22 - _After Competition Adjustments_**
 
 Today we worked on the addressing issues we found during the competition.
 
@@ -4039,11 +4040,11 @@ Today we worked on the addressing issues we found during the competition.
 ### **Base**
 We started on building a new base after our previous base lacked the functionality we needed. The motors for the wheels prevented us from attaching the launcher and intake properly. We also lacked the maneuverability we needed and the rigidity against other bots we definitely needed. The gears for our wheels kept getting jammed and filled with foam from the field, causing us to decide against gear driven bases.
 
-### **
-Worked on fixing and testing launcher
+### **Launcher**
+During the competition, our launcher wasn't working properly and our wheel kept getting stuck. We took this meeting to try to diagnose, fix, and stress test our issue.
 
 ## **End of Entry Thoughts**
-
+We were able to start on rebuilding our intake and begin fixing our launcher.
 
 
 
@@ -4055,7 +4056,7 @@ Worked on fixing and testing launcher
 
 
 
-# **12/6/22**
+# **12/6/22 - _Base Prototyping_**
 
 ## **Attendance**
 - [x] Rhett
@@ -4076,7 +4077,7 @@ While we didn't get as much done as we would have liked, we were able to talk ab
 
 
 
-# **12/7/22**
+# **12/7/22 - _Base Prototyping Day 2_**
 
 ## **Attendance**
 - [x] Rhett
@@ -4091,11 +4092,14 @@ While we didn't get as much done as we would have liked, we were able to talk ab
 ### **Base**
 We added wheels to the base, though we spent more time on them than we would have liked.
 
-## **
+## **End of Entry Thoughts**
+We weren't able to get much done today but we were able to get the wheels on and properly spaced.
 
 
 
 # **12/8/22**
+
+Today we are working on getting our robot ready for the upcoming competition.
 
 ## **Attendance**
 - [x] Rhett
@@ -4110,16 +4114,33 @@ We added wheels to the base, though we spent more time on them than we would hav
 - [ ] get flywheel done
 
 ### **Base**
-continued mecanum, decided not enough time and unhappy w/ previous so switch to x and focus on rollers and end game for competition day
+We started working on the base again, but we decided we wouldn't have enough time to finish it so we switched to an x base donated from another team and focused on our roller mech and end game mech.
+
+## **End of Entry Thoughts**
+While we aren't getting things finished as much as we had hoped, we are working towards getting enough of our robot built for the competition.
 
 
 # **12/14/22**
+
+Today we are getting our box ready to work on the robot over break.
 
 ## **Goals for Today**
 - [ ] Built Intake
 - [ ] Work on CAD
 
 ### **Overall Design**
-We are working on finish the CAD for our robot to create a BOM, or a Bill of Materials. We plan to work on the robot over Christmas
+We are working on finish the CAD for our robot to create a BOM, or a Bill of Materials. We plan to work on the robot over Christmas. 
 
-working on 6th intake 
+### **Intake** 
+We began working on completely redesigning our intake. We are going back to an intake similar in style to the horizontal intake Tyler made. We are keeping this intake horizontal as it seems to be working out better for us than the vertical intakes.
+
+## **End of Entry Thoughts**
+We were able to get started on an intake that will better fit our base. We were also able to start getting prepared for Christmas Break.
+
+
+# **12/15/22**
+
+## **Goals for Today**
+- [ ] Update Notebook
+- [ ] Build Base
+- [ ] Compact Launcher
