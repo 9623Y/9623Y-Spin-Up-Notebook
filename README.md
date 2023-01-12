@@ -99,6 +99,7 @@
 94. [**12/8/22**](#12822)
 95. [**12/14/22**](#121422)
 96. [**12/15/22**](#121522)
+97. [**1/12/23**](#11223)
 
 
 
@@ -4144,3 +4145,23 @@ We were able to get started on an intake that will better fit our base. We were 
 - [ ] Update Notebook
 - [ ] Build Base
 - [ ] Compact Launcher
+
+# **1/12/23**
+
+## **Attendance**
+- [x] Charlie
+- [x] Nick
+- [x] Noly
+- [x] Zack
+- [ ] Kaia
+- [x] Arthur
+
+## **Goals for Today**
+- [x] Improving the Base
+- [ ] Driving Practice
+
+Flipping motors to allow for more space in the front. Arthur building endgame. Final Auton adjustments
+
+New Base: 
+
+<img src="https://user-images.githubusercontent.com/93736394/212178553-77c169d8-073a-4a2d-ac90-51f2cbb3538d.jpg" height = "250">
