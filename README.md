@@ -4161,6 +4161,9 @@ We were able to get started on an intake that will better fit our base. We were 
 - [ ] Driving Practice
 
 Flipping motors to allow for more space in the front. Arthur building endgame. Final Auton adjustments
+Charlie started the meeting by flipping the motors around to make room towards the front of the robot where we would use it, rather than the back. We originally had the motors mounted with the two attaching screws closest to the front, but we flipped the motor so they were mounted closer to the back in order to fit our design.
+
+Arthur [and co] worked on creating more of the end game mechanisms to attach together and fire [more strings?] at once [to cover more ground?]. 
 
 New Base: 
 
